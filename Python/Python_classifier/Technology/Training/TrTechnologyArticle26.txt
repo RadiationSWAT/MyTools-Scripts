@@ -1,0 +1,23 @@
+Despite countless popups and a detailed Privacy & Security area, newindependent research has discovered that iPhone user data is still being shared with Apple.
+
+iOS 14.5 saw the introduction of App Tracking Transparency, a privacy tool which gives users the option to prevent third-party apps from tracking them with identifying information, all in an effort to better safeguard their personal information.
+
+However two app developers from software company Mysk have found that, despite an apparent push for transparency and privacy, many of Apple’s own apps are continuing to collect such data.
+
+App Store collecting data
+
+Mysk took to Twitter (opens in new tab) to highlight what it said should be a “privacy concern”, sharing screenshots and videos of the data collected during a 10-minute App Store browsing session on a device running iOS 14.6.
+
+Data collected included details on the device type, screen resolution, installed keyboards, network connection, and other IDs, which are typically used for digital fingerprinting - exactly what iOS 14.5 aimed to prevent with App Tracking Transparency.
+
+This is despite disabling personalized ads, personalized recommendations, and sharing usage data and analytics, according to Mysk.
+
+Following more research on behalf of Gizmodo (opens in new tab), Mysk found that Apple was collecting data for other apps, too, including Stocks, Books, Apple Music, Appel TV, and iTunes Store, however no analytics data was being transmitted for Health and Wallet.
+
+Mysk’s Twitter thread continues: “It's unclear if Apple still collects analytics data in iOS 16” - Apple’s latest major release for its iPhone lineup that debuted with the launch of the iPhone 14 range.
+
+An extract from Apple’s Advertising and Privacy web page (opens in new tab) reads: “Apple’s advertising platforms receive information about the ads you tap and view against a random identifier not tied to your Apple ID.”
+
+The company also promises to use “local, on-device processing to select which ad to display, using information stored on your device, such as the apps you frequently open”, which begs the question why the company has been found to be collecting certain types of data.
+
+TechRadar Pro has reached out to Apple for further comment.

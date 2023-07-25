@@ -1,0 +1,25 @@
+Although EVGA parted ways with NVIDIA since the launch of the green team's RTX 40 series cards, the company was prototyping cards based on their GPUs and one such design, the GeForce RTX 4090 FTW3, has landed in the hands of YouTubers JayzTwoCents & GamersNexus.
+
+EVGA Prototyped NVIDIA's "Ada" GPUs, First Look At The Never-Released GeForce RTX 4090 FTW3 Graphics Card Shows Huge 4-Slot Monster Card
+
+The EVGA GeForce RTX 4090 FTW3 graphics card is considered an engineering sample, so the results of the tests may or may not reflect the final version of what the GPU could have been. EVGA removed itself from the GPU marketplace, vowing never to design another graphics card again for NVIDIA or its competitors AMD and Intel.
+
+EVGA GeForce RTX 4090 FTW3 Graphics Card Pictures (Image Credits: GamersNexus):
+
+2 of 9
+
+Some noticeable differences between EVGA's RTX 3090 Ti and the RTX 4090 engineering sample are the sample's larger size and the location of the 16-pin power connector. The card measures almost 4-slots and was going to use a much thicker heatsink. The 12VHPWR connector is on the back of the graphics card instead of the common side-ways approach by almost all other vendors who've made a 4090 graphics card. This approach means an easier connection to the GPU with fewer issues of bending which is a main problem for the new adapter. The custom graphics card was also going to have some other nifty features such as OC and Power LEDs alongside a dual-BIOS switch.
+
+The EVGA GeForce RTX 4090 FTW3 graphics card maintains the three-fan design and would have placed itself in the FTW3 series of cards (FTW stands for "For The Win"). There is speculation that EVGA would have also continued the ICX cooling option, which was utilized in previous generations.
+
+Looking through the remainder of the video, JayzTwoCents reveals that the EVGA engineering sample is a working graphics card that offers the AD102 GPU inside. The company also had its proprietary EVGA Precision software package that allows users to monitor the graphics card data and performance.
+
+EVGA was creating graphics cards, motherboards, power supplies, AIO liquid coolers, gaming mice, computer cases, and laptops centered on gaming since their introduction into the computer field in 1999. The company created NVIDIA graphics cards for most of its run until it recently stopped all other graphics card manufacturing and ended its partnership with NVIDIA. EVGA CEO Andrew Han expressed that NVIDIA's business model for graphics cards was not worth the small margin the company receives from sales. He also said that this would not end EVGA and that the company would continue selling its other products to help gamers achieve their best gaming experiences. Lastly, Han wanted more time with his family but had no plans to retire or sell the company to other parties.
+
+EVGA GeForce RTX 4090 FTW3 Graphics Card Pictures (Image Credits: JayzTwoCents):
+
+2 of 9
+
+EVGA will continue to sell through its stock of graphics cards from the previous generations and also provide RMAs for any that remain with consumers.
+
+News Sources: JayzTwoCents (YouTube), VideoCardz

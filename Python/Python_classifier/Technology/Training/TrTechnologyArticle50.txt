@@ -1,0 +1,11 @@
+The mission at Phoronix since 2004 has centered around enriching the Linux hardware experience. In addition to supporting our site through advertisements, you can help by subscribing to Phoronix Premium . You can also contribute to Phoronix through a PayPal tip or tip via Stripe .
+
+Phoronix Premium allows ad-free access to the site, multi-page articles on a single page, and other features while supporting this site's continued operations.
+
+Michael Larabel is the principal author of Phoronix.com and founded the site in 2004 with a focus on enriching the Linux hardware experience. Michael has written more than 20,000 articles covering the state of Linux hardware support, Linux performance, graphics drivers, and other topics. Michael is also the lead developer of the Phoronix Test Suite, Phoromatic, and OpenBenchmarking.org automated benchmarking software. He can be followed via Twitter , LinkedIn , or contacted via MichaelLarabel.com .
+
+Written by Michael Larabel in Microsoft on 9 November 2022 at 08:00 AM EST. 29 Comments
+
+Microsoft on Tuesday released .NET 7 with improved Linux support, better performance, and many new features throughout this Microsoft platform stack.Microsoft .NET 7 brings improved performance, enhanced .NET support on Linux throughout, native support for ARM64, developer productivity enhancements, better cross-platform mobile/desktop app support, HTTP/3 improvements for cloud native apps, 64-bit IBM Power support on Linux, and a variety of other run-time improvements.
+
+Downloads and more details on the Microsoft .NET 7 release via the Microsoft Developer Blog

@@ -1,0 +1,27 @@
+TL;DR: Microsoft has released the latest series of patches designed to fix bugs in Windows and other popular software products. The most crucial updates concern six zero-day flaws, including two Exchange bugs discovered in September which are still a danger for mail servers worldwide.
+
+Every second Tuesday of the month for the last 20 years or so, Microsoft has released a new salvo of security updates for its widely popular (and still supported) software products. The November 2022 Patch Tuesday is a rather important one, as it includes individual patches for six zero-day security vulnerabilities which have already been exploited in the wild.
+
+The November 2022 Security Updates include fixes for 68 security flaws found in Windows components, Visual Studio, the SysInternals utilities, Office, Azure, .NET Framework, Dynamics, Exchange Server, and more. Eleven of the flaws are classified as "Critical," which means they could be exploited to allow privilege elevation, information spoofing, or remote execution of malicious code.
+
+The 68 vulnerabilities fixed in this Patch Tuesday include the following types of security bugs: 27 Elevation of Privilege Vulnerabilities; 4 Security Feature Bypass Vulnerabilities; 16 Remote Code Execution Vulnerabilities; 11 Information Disclosure Vulnerabilities; 6 Denial of Service Vulnerabilities; 3 Spoofing Vulnerabilities.
+
+The list doesn't include two dangerous OpenSSL vulnerabilities already disclosed at the beginning of November.
+
+The main dish for the November Patch Tuesday are the aforementioned six zero-day flaw fixes, as they were already publicly disclosed and are potentially being exploited with no official fix available until now:
+
+CVE-2022-41128, a "Windows Scripting Languages Remote Code Execution Vulnerability" which requires that a user with an affected version of Windows access a malicious server;
+
+CVE-2022-41091, a "Windows Mark of the Web Security Feature Bypass Vulnerability" where a specially crafted malicious file (ie a Zip file containing a read-only file) can evade Mark-of-the-Web-based defenses;
+
+CVE-2022-41073, a "Windows Print Spooler Elevation of Privilege Vulnerability" which can be used to gain SYSTEM privileges;
+
+CVE-2022-41125, a "Windows CNG Key Isolation Service Elevation of Privilege Vulnerability" to also gain SYSTEM level privileges;
+
+CVE-2022-41040, a "Microsoft Exchange Server Elevation of Privilege Vulnerability" which can be exploited to run PowerShell in the context of the system;
+
+CVE-2022-41082, a "Microsoft Exchange Server Remote Code Execution Vulnerability" to remotely execute malicious code on vulnerable servers.
+
+The last two patches close the security risk in Microsoft Exchange disclosed in late September and informally known as "ProxyNotShell."
+
+The KB5019758 update is available for Microsoft Exchange Server 2019, 2016, and 2013, as part of Windows Update automatic downloads or as a standalone package available through the Microsoft Download Center.

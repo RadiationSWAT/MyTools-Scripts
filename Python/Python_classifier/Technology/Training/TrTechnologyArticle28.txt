@@ -1,0 +1,13 @@
+Apple often boasts of its commitment to user privacy and data anonymization, and in many instances, the tech giant does provide ways for consumers to guard against a fair amount of invasive tactics like ad tracking. But as a new investigation reveals, courtesy of Gizmodo, that dedication to personal digital preference largely stops where the company’s own apps are concerned. The new research, co-conducted by two security researchers at the software company Mysk, shows the level of scrutiny iPhone users receive while accessing official apps like Apple TV, Music, Books, and Stocks is both startling detailed and potentially worrisome.
+
+[Related: Privacy changes dig into Meta’s profits.]
+
+According the report, Apple’s most popular native apps, including the App Store itself, track copious amounts of user data, regardless of whether not iPhone owners toggled their Apple Analytics privacy setting. When switched “on,” the iPhone Analytics tool supposedly will “disable the sharing of Device Analytics altogether,” per the company’s own words. Upon delving further, Gizmodo relays that Mysk “found the analytics control and other privacy settings had no obvious effect on Apple’s data collection—the tracking remained the same whether iPhone Analytics was switched on or off.”
+
+When it comes to what Apple harvests, it’s probably simpler to try to find the things it doesn’t gather. According to Mysk’s research, the Big Tech giant logged information on “every single thing” you do in real time—what you tap on, what apps you search for, and how long looked at an app and how you first discovered it. “The app sent details [to Apple] about you and your device as well, including ID numbers, what kind of phone you’re using, your screen resolution, your keyboard languages, how you’re connected to the internet,” explained Gizmodo, adding that this is usually the sort of stuff commonly utilized during device fingerprinting.
+
+[Related: Keep tabs on how much access your computer’s apps have to your system.]
+
+Apple’s breadth and detail of coverage is extraordinary compared to other comparable online experiences—Mysk’s investigators cite Microsoft Edge and Google Chrome for comparison as two apps that don’t send any data to their parents companies when analytics are disabled.
+
+There’s really no way to know for sure how much of this data Apple actually analyzes, and for what purposes. This remains an incredibly important reminder of how few truly “private” spaces are online, including those run by the company that once erected “Privacy. That’s iPhone.” billboards.

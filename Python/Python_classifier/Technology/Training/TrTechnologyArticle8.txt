@@ -1,0 +1,29 @@
+This fall, Microsoft claimed to have addressed anticompetitive cloud infrastructure complaints from a few smaller cloud services providers in Europe. In a blog, the company announced it would be partnering with small to mid-sized cloud providers to give Microsoft customers more options for non-Microsoft cloud infrastructure. Notably, these Microsoft licensing changes excluded its biggest cloud competitors, Google and Amazon, from participating as partners. This, unsurprisingly, drew prompt criticism from a trade group with members that include both the smaller cloud providers as well as Amazon. The Cloud Infrastructure Service Providers in Europe (CISPE) group claimed that Microsoft’s response failed to “show any progress in addressing Microsoft's anti-competitive behavior.”
+
+Now, CISPE has filed a complaint, urging the European Commission to open a formal investigation into how Microsoft is allegedly “irreparably damaging the European cloud ecosystem and depriving European customers of choice in their cloud deployments.”
+
+According to CISPE, the group had no choice but to file the complaint because Microsoft allegedly has “not provided the detail, clarity or assurance that it truly intends to bring a swift end to its anti-competitive licensing practices.” Rather than address complaints from smaller cloud providers like OVHcloud and Aruba—which are also CISPE members—CISPE suggests that Microsoft added new unfair practices this fall. These changes, CISPE Secretary General Francisco Mingorance told Ars, created “an existential issue for many of our members and without an investigation and action, it could spell the end of a European cloud infrastructure sector.”
+
+A Microsoft spokesperson defended its licensing changes as expanding options to customers.
+
+“The licensing changes we introduced this fall give customers and cloud providers around the world even more options for running and offering our software in the cloud,” a Microsoft spokesperson told Ars. “We remain committed to addressing valid licensing concerns and support a competitive environment where all providers can thrive."
+
+Advertisement
+
+“Our view is that despite Microsoft's smokescreen of new 'benefits' offered to European customers, only legal action will force it to make meaningful changes to its unfair and anti-competitive licensing behaviors,” Mingorance told Ars.
+
+Because CISPE had been working with the European Commission case team on the prior complaint from OVH and Aruba, Mingorance told Ars that the commission knew the new complaint was coming. There’s currently no expected timeline for the European Commission to respond, but CISPE is hoping it will act sooner than later. To guide the commission toward enforcing better standards, CISPE has provided proposed remedies “that ensure the software licenses of any dominant software vendor cannot be used to self-preference, discriminate or otherwise lock-in customers to their own cloud ecosystems,” CISPE wrote in its press release.
+
+In addition to calling for an investigation into Microsoft, CISPE has asked the Commission to commit to more broadly policing anticompetitive behaviors in the sector by creating “an independent European Observatory to undertake periodic audits of software licensing terms of any dominant software company.”
+
+Although Amazon has a huge stake in this sector and is a CISPE member, Mingorance told Ars that the trade group is representing threats to all its members in pushing for the investigation—not just the major competitors Microsoft seemingly tried to carve out as potential cloud partners.
+
+“A key reason behind filing the complaint was to support our two members who had their own complaint (Aruba and OVH) and to ensure the representation of our smaller members who faced similar issues,” Mingorance told Ars.
+
+One of CISPE’s goals in Europe is to end long-term service contracts and licensing fees, giving all cloud providers a chance to compete, without coming up against a dominant market player like Microsoft forcing subscribers to choose from a smaller batch of its pre-approved partners.
+
+“Leveraging its dominance in productivity software, Microsoft restricts choice and inflates costs as European customers look to move to the cloud, thus distorting Europe’s digital economy,” Mingorance warned in the press release.
+
+If CISPE's complaint prompts an investigation, it will add to the intense antitrust scrutiny that Microsoft is already facing in Europe. Just yesterday, Reuters reported that EU regulators opened a full-scale investigation into Microsoft’s $69 billion bid for Activision, with regulators approaching a March 23 deadline to block or clear the deal.
+
+Go to discussion...

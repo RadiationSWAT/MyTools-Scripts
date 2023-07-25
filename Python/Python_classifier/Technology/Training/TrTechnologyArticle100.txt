@@ -1,0 +1,11 @@
+Google has decided that you will use the new integrated Gmail experience that includes Meet and Chat. There is no out going forward, the company announced this week, so you better get figure out a way to like it.
+
+Earlier in 2022, Google announced this new integrated Gmail, where they added tabs for Meet and Chat, to let you use those two services without ever having to leave Gmail or open a new tab. You could control meetings and message colleagues (or friends) while drafting up an email proposal, all from the same screen. It’s actually kind of nice, assuming you use Meet and/or Chat regularly.
+
+Up until this point, Google hasn’t forced anyone to use this. For those who weren’t fans, Google was still including an option in settings that let you “Go back to the original view.” Starting this month for Workspace customers, the option (below) will go away and you’ll have to use the “new Gmail view” going forward.
+
+Google hasn’t said when regular Gmail users will be forced to use the new Gmail view, but I’d guess it’ll be soon. And also, you can still very much customize the new Gmail to not include those Chat and Meet tabs if you’d like that space back on the left side of the Gmail screen.
+
+To edit the screen and remove Chat and Meet, you tap on the Gmail settings button, find the “Apps in Gmail” section and click Customize. A pop-up will show that lets you uncheck Chat and Meet. If you remove both options, you’ll get a big chunk of the left side of the screen back, as removing both hides that tabbed bar menu.
+
+After flipping back to the original view to see how much different it is than the new Gmail, I can happily report that they aren’t that much different if you turn off Chat and Meet. In fact, the only real difference is in overall styling because the new Gmail has a refreshed Material You vibe that looks quite nice with blue tones. To see what I mean, in case you are still on original Gmail, check out this post.

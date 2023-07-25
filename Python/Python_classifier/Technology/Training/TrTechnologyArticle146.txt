@@ -1,0 +1,25 @@
+Slingbox, the device and service that was into streaming digital television long before the world was ready for it, will die a cloud-based server death Wednesday, November 9. The service was nearly 17 years old.
+
+Sling Media announced two years ago that the Slingbox would be discontinued, noting that "all Slingbox devices and services will become inoperable." The reason given was decreased demand. Being able to watch the video that would normally be on your television on a non-television screen was a novel—and legally contentious—thing back when Sling started in 2005. Today, there is more content than you can possibly watch in a lifetime, available on devices that can connect from almost anywhere, willingly offered by every major media company and sports league.
+
+Sling was born out of two rich fields: General Magic, the Apple spinoff company where founder Blake Krikorian worked in the early 1990s, and San Francisco Giants baseball in 2002. Krikorian and his brother, Jason, traveled frequently back then while building their own consulting firm. The Giants were headed to the World Series that year, and the Krikorian brothers wanted to watch, or at least listen. They found that they were either blacked out by local broadcast agreements or asked to pay additional fees to stream the games on top of the cable and Internet they already paid for at home.
+
+TiVo existed back then, but it could only play back what you had recorded on the same television. The Slingbox, as the name implied, could project your home's cable video over the Internet to wherever you could access it. It didn't take long after the launch of the Slingbox for the companies providing that video to take notice.
+
+Advertisement
+
+"Will Hollywood sue the SlingBox out of existence?" was Ars' headline in April 2006. The strongest hand content companies could play was their retransmission agreements, which Sling had not signed. Sling CEO Blake Krikorian (who died in 2016) said in 2006 that place-shifted video "is one of the technologies that will help broadcasters stay relevant in this day and age." Ars' Nate Anderson wrote at the time that "if broadcasters were truly interested in getting their product out to as many people as possible, the SlingBox would not even exist: networks would already be streaming their content across the Internet."
+
+There was lots of hemming, and a good deal of hawing, including from sports leagues mad about traveling sports fans being able to see games they'd normally miss for being out of market. Later on, when 3G and the iPhone introduced devices that made watching television on your phone somewhat reasonable, AT&T forced Sling to block 3G devices from accessing Sling devices on the carrier's network.
+
+And yet, the Slingbox (sometimes camel-cased as "SlingBox," but officially just one compound word) persisted. "We're big fans of the SlingBox here at Ars," Jeremy Reimer wrote in early 2007, noting that "we've tested it successfully across the Atlantic Ocean." Sling even guessed correctly a second time about how people would one day watch content. The SlingCatcher, a $300 box released in October 2008, would let you (get this) watch Internet content like Hulu, YouTube, or whatever you could fit on a USB drive on your TV. It was a smart TV upgrade before smart TVs were a category.
+
+Advertisement
+
+Sling would later partner with satellite network Dish to upgrade its Hopper digital video recording (DVR) set-top box to "Hopper with Sling," giving people the ability to watch both live and recorded shows over the web. That drew actual injunctions from content companies like Fox, perhaps due to Dish's larger size. CBS, too, would show its disdain for Sling, albeit in a quieter way. The network reportedly banned its CNET subsidiary from reviewing Dish's Hopper service, leading to the resignation of CNET reporter Greg Sandoval.
+
+Legal challenges kept coming, and perhaps as a result, Dish and Sling pivoted to a more content-compliant streaming offering, Sling TV. The app was targeted at those who were skipping cable but might still want some live cable channels, like ESPN, Food Network, and CNN. There were no local broadcast channels, however, and some notable shows were blacked out. Our review at its launch noted that the age target for those channels was far older than the audience that might be comfortable with a grid of apps rather than a single cable remote. Sling TV survives, however, and has expanded its offerings.
+
+But Slingbox, the hardware product that sends your TV to your devices, will still not work after November 9. If you move quickly, however, you could retrieve your Slingbox device password, then use free open source app Slinger to potentially route your Sling traffic around the company's servers and directly to your apps and devices. At the end, like at the beginning, Slingbox fans are working around existing technology to get access to the TV they want.
+
+Go to discussion...

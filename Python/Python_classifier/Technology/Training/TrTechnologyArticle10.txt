@@ -1,0 +1,7 @@
+If you use an iPhone and a Windows PC, syncing photos is about to get a lot easier. The feature Microsoft announced last month that adds iCloud Photos to the Windows Photos app begins rolling out today. Microsoft says it will be available to all Windows 11 users by the end of November.
+
+Previously, if iPhone users wanted to transfer images to their Windows PCs, they had to either plug in their iPhone with a USB cable or use the iCloud web app in a browser – a dated and clunky setup, though the site is undergoing some much-needed changes soon. Microsoft’s new feature gives you an integrated view of all your iCloud photos through the Windows 11 Photos app.
+
+To use the new feature, you’ll need to ensure your Windows Photos app is up-to-date. Then, you’ll need to install the iCloud for Windows app from the Windows Store, sign in, and choose to sync your photos.
+
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on

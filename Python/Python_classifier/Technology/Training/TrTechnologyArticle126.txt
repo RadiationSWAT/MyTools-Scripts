@@ -1,0 +1,23 @@
+Spotify today announced it’s revamping its Apple Watch experience. The new version of the small-screen streaming app has been redesigned to make it easier for users to find the music or podcasts they want to hear from the “Your Library” section, as well as catch up with the latest podcast episodes, download playlists for offline listening and more. Overall, the app has also been updated with larger artwork and smoother animations, making it feel more like a sized-down version of the Spotify mobile app rather than the text-heavy experience it was previously.
+
+First launched in 2018, the Spotify app for Apple Watch has been through a few iterations over the years. Notably, it gained standalone streaming support two years ago, making it a more useful streaming companion for on-the-go listening. Last year, it also helpfully added the ability for Premium users to download playlists and podcasts to Apple Watch for offline listening.
+
+This year’s update, meanwhile, seems to be aimed at taking better advantage of the bump in screen real estate provided by more recent Apple Watch models, like the new Series 8 and the slightly older Series 7.
+
+You’ll notice the updated app now is more colorful, thanks to the larger artwork, and the titles are easier to read in its new layout. Podcast pages better resemble their mobile counterparts, too, with artwork, the run time and a big, green play button above the show’s episode list — an improvement on how the older version of the app would just show a list of episodes as text.
+
+With today’s changes, Spotify says the app’s design will make it easier for users to find content, like favorite tracks, artists or episodes in “Your Library” as you can now see and select individual tracks and episodes from any playlist, podcast, artist or album directly on your watch.
+
+Here, you’ll also be able to swipe to “like” tracks and you’ll be able to toggle shuffle mode “on” or “off ” before you start playing.
+
+For podcast listeners, the update will now allow you to see where you left off in an episode so you can jump back in and finish listening on your watch. The app will also now mark new episodes with a blue dot so it’s easier to see when your favorite show has updated, similar to how the mobile app uses a blue dot to flag shows with new and unplayed episodes on the home page.
+
+Another new feature helps you download content to your Apple Watch without having to use the Spotify app on your smartphone.
+
+Before, subscribers who wanted to download playlists, albums or podcasts would do so by tapping on the “Download to Apple Watch” option in the Spotify mobile app. The updated version of the Spotify app for Apple Watch, however, will allow users to download favorite songs, albums and playlists directly from the Watch app itself. This makes it easier to quickly prep your watch with some music for your workout or run, perhaps, or other times when you plan to leave your phone behind.
+
+Downloading music to listen offline on the Apple Watch is still only available for Spotify Premium users.
+
+The updated Spotify Apple Watch app is rolling out starting today and will become available to all users globally in the coming week, the company says. That means you may not see these changes immediately but should soon.
+
+Spotify also suggests that users update their Apple Watch to the latest version of watchOS.

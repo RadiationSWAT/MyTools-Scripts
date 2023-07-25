@@ -1,0 +1,13 @@
+A change in the iOS 16.1.1 update for Chinese users is turning some heads. Apple is restricting the “Everyone” option in AirDrop to ten minutes on iPhones purchased in mainland China, according to online user reports. Apple says it is improving the AirDrop experience by automatically reverting the receiving setting back to “Contacts Only” after 10 minutes to help mitigate unwanted file sharing.
+
+Some argue that this feature should have long been an option for all Apple users — sometimes one just forgets to switch Airdrop off and end up with unsolicited content from unknown users — but others interpret the decision as Apple’s response to recent incidents in China. Apple says it plans to bring this capability to users globally in the coming year.
+
+The default setting for AirDrop is “Contacts Only.” A user needs to manually change the setting to receive files from “Everyone.”
+
+Airdrop, which uses Bluetooth Low Energy and peer-to-peer wifi technology to enable instant file transferring, remains one of the few uncensored communication mediums in China, which is why people were using the feature to share politically sensitive content with others in recent weeks as the country’s top leadership reshuffled.
+
+Despite the rise of local rivals like Huawei and Oppo, Apple has managed to hold onto its dominance in China, especially among more affluent demographics. In the second quarter, iPhones accounted for 13% of handset shipments in China, according to Counterpoint’s research, down from 18% and 22% in Q1 and Q4 respectively.
+
+It’s not unusual for Apple to introduce region-specific restrictions to abide by local regulations. In EU countries, for example, users can’t exceed the EU Volume Level as a result of hearing protection standards. In China, Apple has a history of applying more stringent rules on content-related services, including games and podcasts, a closely watched area by the local authorities.
+
+Updated with information from Apple.

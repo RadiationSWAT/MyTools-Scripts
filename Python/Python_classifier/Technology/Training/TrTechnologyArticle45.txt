@@ -1,0 +1,63 @@
+« press release »
+
+Intel Max Series Brings Breakthrough Memory Bandwidth and Performance to HPC and AI
+
+New family of products delivers CPU with high bandwidth memory, 4.8x faster than the competition, and Intel’s highest density GPU, to solve the world’s biggest challenges.
+
+What’s New: In advance of Supercomputing ’22 in Dallas, Intel Corporation has introduced the Intel Max Series product family with two leading-edge products for high performance computing (HPC) and artificial intelligence (AI): Intel® Xeon® CPU Max Series (code-named Sapphire Rapids HBM) and Intel® Data Center GPU Max Series (code-named Ponte Vecchio). The new products will power the upcoming Aurora supercomputer at Argonne National Laboratory, with updates on its deployment shared today.
+
+The Xeon Max CPU is the first and only x86-based processor with high bandwidth memory, accelerating many HPC workloads without the need for code changes. The Max Series GPU is Intel’s highest density processor, packing over 100 billion transistors into a 47-tile package with up to 128 gigabytes (GB) of high bandwidth memory. The oneAPI open software ecosystem provides a single programming environment for both new processors. Intel’s 2023 oneAPI and AI tools will deliver capabilities to enable the Intel Max Series products’ advanced features.
+
+“To ensure no HPC workload is left behind, we need a solution that maximizes bandwidth, maximizes compute, maximizes developer productivity and ultimately maximizes impact. The Intel Max Series product family brings high bandwidth memory to the broader market, along with oneAPI, making it easy to share code between CPUs and GPUs and solve the world’s biggest challenges faster.” –Jeff McVeigh, Corporate Vice President and General Manager, Super Compute Group at Intel
+
+Why It Matters: High performance computing (HPC) represents the vanguard of technology, employing the most advanced innovations at scale to solve science and society’s biggest challenges, from mitigating the impacts of climate change to curing the world’s deadliest diseases.
+
+The Max Series products meet the needs of this community with scalable, balanced CPUs and GPUs, incorporating memory bandwidth breakthroughs and united by oneAPI, an open, standards-based, cross-architecture programming framework. Researchers and businesses will solve problems faster and more sustainably using Max Series products.
+
+When It’s Arriving: The Max Series products are slated to launch in January 2023. Executing on its commitments to customers, Intel is shipping blades with Max Series GPUs to Argonne National Laboratory to power the Aurora supercomputer and will deliver Xeon Max CPUs to Los Alamos National Laboratory, Kyoto University and other supercomputing sites.
+
+What the Intel Xeon Max CPU Delivers: The Xeon Max CPU offers up to 56 performance cores constructed of four tiles and connected using Intel’s embedded multi-die interconnect bridge (EMIB) technology, in a 350-watt envelope. Xeon Max CPUs contain 64GB of high bandwidth in-package memory, as well as PCI Express 5.0 and CXL1.1 I/O. Xeon Max CPUs will provide more than 1GB of high bandwidth memory (HBM) capacity per core, enough to fit most common HPC workloads. The Max Series CPU provides up to 4.8x better performance compared to competition on real-world HPC workloads.1
+
+68% less power usage than an AMD Milan-X cluster for the same HPCG performance.
+
+AMX extensions boost AI performance and deliver 8x peak throughput over AVX-512 for INT8 with INT32 accumulation operations. 2
+
+Provides flexibility to run in different HBM and DDR memory configurations.
+
+Workload benchmarks: Climate modeling: 2.4x faster than AMD Milan-X on MPAS-A using only HBM. Molecular dynamics: On DeePMD, 2.8x performance improvement against competing products with DDR memory.
+
+
+
+What the Intel Max Series GPU Delivers: Max Series GPUs deliver up to 128 Xe-HPC cores, the new foundational architecture targeted at the most demanding computing workloads. Additionally, the Max Series GPU features:
+
+408MB of L2 cache – the highest in the industry – and 64MB of L1 cache to increase throughput and performance.
+
+The only HPC/AI GPU with native ray tracing acceleration, designed to speed scientific visualization and animation.
+
+Workload benchmarks: Finance: 2.4x performance gain over NVIDIA’s A100 on Riskfuel credit option pricing. Physics: 1.5x improvement over A100 for NekRS virtual reactor simulations.
+
+
+
+Max Series GPUs will be available in several form factors to address different customer needs:
+
+Max Series 1100 GPU: A 300-watt double-wide PCIe card with 56 X e cores and 48GB of HBM2e memory. Multiple cards can be connected via Intel Xe Link bridges.
+
+cores and 48GB of HBM2e memory. Multiple cards can be connected via Intel Xe Link bridges. Max Series 1350 GPU: A 450-watt OAM module with 112 X e cores and 96GB of HBM.
+
+cores and 96GB of HBM. Max Series 1550 GPU: Intel’s maximum performance 600-watt OAM module with 128 Xe cores and 128GB of HBM.
+
+Beyond individual cards and modules, Intel will offer the Intel Data Center GPU Max Series subsystem with x4 GPU OAM carrier board and Intel Xe Link to enable high performance multi-GPU communication within the subsystem.
+
+Intel Max GPU Series, Source: Phoronix
+
+What Max Series Products Enable: In 2023, the Aurora supercomputer, currently under construction at Argonne National Laboratory, is expected to become the first supercomputer to exceed 2 exaflops of peak double-precision compute performance3. Aurora will also be the first to showcase the power of pairing Max Series GPUs and CPUs in a single system, with more than 10,000 blades, each containing six Max Series GPUs and two Xeon Max CPUs.
+
+In advance of SC22, Argonne and Intel unveiled Sunspot, Aurora’s Test Development System consisting of 128 production blades. Researchers from the Aurora Early Science Program will have access to the system beginning in late 2022.
+
+The Max Series products will power several other HPC systems critical for national security and basic research, including Crossroads at Los Alamos National Laboratory, CTS-2 systems at Lawrence Livermore National Laboratory and Sandia National Laboratory, and Camphor3 at Kyoto University.
+
+What’s Next: At Supercomputing ’22, Intel and its customers will showcase more than 40 upcoming system designs from 12 original equipment manufacturers using Max Series products. Attendees can explore demos showcasing the performance and capability of Max Series products for a range of AI and HPC applications, as well as hear from Intel architects, customers, and end-users about the power of Intel’s platform solutions at the Intel booth, #2428. More information on Intel’s activities at SC22 is available.
+
+The Intel Data Center Max Series GPU, code-named Rialto Bridge, is the successor to the Max Series GPU and is intended to arrive in 2024 with improved performance and a seamless path to upgrade. Intel is then planning to release the next major architecture innovation to enable the future of HPC. The company’s upcoming XPU, code-named Falcon Shores, will combine Xe and x86 cores on a single package. This groundbreaking new architecture will also have the flexibility to integrate new IPs from Intel and customers, manufactured using our IDM 2.0 model.
+
+« end of the press release »

@@ -1,0 +1,15 @@
+Plugable Quad HDMI Adapter
+
+AppleInsider may earn an affiliate commission on purchases made through links on our site.
+
+Plugable's new Quad HDMI adapter lets Apple users add up to four external displays on a M1 Mac — with some caveats.
+
+Plugable says that its new USB to HDMI adapter is excellent for multitasking or extending a workspace. Connected via a single USB-C cable, the dock supports four monitors, each at a resolution of 1920 x 1080 pixels at 60Hz or lower.
+
+It's great for running office-related apps such as Google Docs or Microsoft Office. The company doesn't recommend the product for gaming or other graphics-intensive work. Playback of HDCP-protected content on sites, including Netflix and Hulu, is not supported.
+
+Typically, support for external displays on Macs has some limitations. The M1 chip can run a single external display connected via USB-C on a MacBook Air or MacBook Pro. The Mac mini supports one monitor through HDMI, and one on USB-C.
+
+However, Plugable says that its adapter can let any M1 or M2 Mac run up to four monitors, even on devices that would otherwise support only one. Driver installation is required through the InstantView app.
+
+Pricing & Availability

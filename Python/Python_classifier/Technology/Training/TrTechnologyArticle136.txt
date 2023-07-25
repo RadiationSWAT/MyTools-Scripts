@@ -1,0 +1,25 @@
+The Google Home app is now available…if you want to sign up for the public preview program.
+
+Today, Google began rolling out a public preview of its redesign of the Google Home app. Users who register for the public preview program will be able to download the new version of the app and put it to the test.
+
+The following features will be available in the app when it officially launches, but are also available now for public preview testers:
+
+Favorites : Easily access your favorite devices and actions. This includes the ability to favorite your cameras so you can view your live streams right when you launch the app
+
+: Easily access your favorite devices and actions. This includes the ability to favorite your cameras so you can view your live streams right when you launch the app Spaces : Quickly access groups of similar devices such as lights
+
+: Quickly access groups of similar devices such as lights Devices : Find all of your devices and easily check their status
+
+: Find all of your devices and easily check their status Refreshed camera and timeline views : Vertical video history timeline : Quickly scrub through hours of video history or jump to live view Event views : Access a list of events and scrub to an exact moment. See video in landscape mode on your phone or tablet Quick actions : See and talk to anyone in front of your camera or doorbell with live or pre-recorded messages. Call emergency services (U.S. Nest Aware subscribers only), access device settings and download any event to your phone
+
+: Media mini player : See what’s playing in your home and adjust the volume or access the remote
+
+: See what’s playing in your home and adjust the volume or access the remote Activity : Review what happened in and around your home
+
+: Review what happened in and around your home Settings: Find and manage devices, services and home members
+
+Anish Kattukaran, Director of Product Management for Google Home & Nest, released a blog post back in October that detailed everything coming with the new Google Home app. In addition to a complete redesign, the new app is built from the ground up for Matter, the new smart home standard that officially launched this year.
+
+With updates on Matter for Android and Nest devices, and a new and improved Google Home app, we’re taking a big step towards that vision. Whether you have a few smart lights or are a smart home enthusiast with dozens of connected devices, the Google Home app will improve your smart home experience.
+
+It’s still unclear when the new Google Home app will launch to everyone but, if you want to test it out now, feel free to sign up for the public preview.

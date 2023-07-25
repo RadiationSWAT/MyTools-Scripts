@@ -1,0 +1,11 @@
+Apple today released iOS 16.1.1 and iPadOS 16.1.1, minor bug fix updates that that come two weeks after the launch of iOS 16.1, an update that added support for iCloud Shared Photo Library, Matter, Live Activities, and more.
+
+
+
+The iOS 16.1.1 and iPadOS 16.1.1 updates can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.
+
+iOS 16.1.1 fixes a few unspecified bugs that iPhone users have been dealing with, according to Apple's release notes. Users have been afflicted with widespread Wi-Fi bug, for example. The Wi-Fi bug resulted in random disconnects, with some users unable to stay connected to their Wi-Fi networks.
+
+It is not clear if the Wi-Fi bug is fixed as Apple did not provide a specific list of bug fixes, instead only saying that the update "includes bug fixes and security updates."
+
+iOS 16.1.1 will be followed by iOS 16.2, an update that is being beta tested and is expected to see a launch in December. iOS 16.2 introduces the Freeform app, new Home app architecture, and other features.

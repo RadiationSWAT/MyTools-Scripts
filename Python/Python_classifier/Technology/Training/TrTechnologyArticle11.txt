@@ -1,0 +1,7 @@
+A month ago, Microsoft announced that Apple is bringing Apple TV and Apple Music apps to Windows PCs. It had also revealed that Windows 11 will feature native integration with Apple’s iCloud Photos library. The integration is finally rolling out to all Windows 11 users.
+
+The iCloud Photos integration with the Photos app on Windows 11 is rolling out via an update to the app. The update is now live on the Microsoft Store. So, in order for you to get the iCloud Photos integration in the Photos app on your Windows 11 PC, you need to download the latest update through the Store and also install iCloud for Windows.
+
+Once the download finishes, you need to sign in to iCloud using your Apple ID and enable photo library sync. After this, all of your photos and videos stored in your iCloud will start automatically appearing in the Windows 11 Photos app. Dave Grochocki, principal product manager lead for Microsoft’s Windows inbox apps, said, “This iCloud Photos integration will make it easier for those with an iPhone to have direct access to all their cherished memories in one organized place and is another step in our continued efforts to make experiences on Windows 11 seamless.”
+
+Apparently, this is a nice move by Microsoft, as this would be beneficial for users who own both Apple devices and Windows PCs. While iCloud was already available for Windows, in order to access the iCloud photos, you needed to access the regular folder. Now, with the integration, you can have all of your photos in one place.

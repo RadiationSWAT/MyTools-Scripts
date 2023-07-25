@@ -1,0 +1,41 @@
+A malicious browser extension that works on both Google Chrome and Microsoft Edge allows attackers to remotely take over someone's browser session and carry out a full range of attacks. It's built to steal cookies and other info, mine cryptocurrency, install malware, or take over the entire device for use in a distributed denial-of-service (DDoS) attack — among other things.
+
+
+
+Thanks to this multitool approach, the Cloud9 botnet basically acts like a remote access Trojan (RAT) for the Chromium browser, which is the framework for Chrome, Edge, and some other browsers, researchers at Zimperium zLabs revealed in a blog post Nov. 8.
+
+The malware is comprised of three JavaScript files and has been active since as far back as 2017, with an update in 2020 that proliferated as a single JavaScript that can be included on any website using script tags, researchers said.
+
+Researchers have linked Cloud9 to the Keksec malware group due to the activity of its command-and-control servers (C2s), which point to domains previously used by the gang. The well-resourced group — known for creating various botnets-for-hire — was seen in June weaponizing a Linux botnet called EnemyBot against vulnerabilities in enterprise services. In Cloud9's case, it's likely being sold "for a few hundred dollars" or offered for free to other groups on various hacker forums, researchers said.
+
+"As it is quite trivial to use and available for free, it can be used by many malware groups or individuals for specific purposes," Zimperium zLabs malware analyst Nipun Gupta wrote in the post.
+
+Enterprise Users at Risk
+
+The malware offers a veritable buffet of nefarious activity, "purposefully designed to target all kinds of users and serves its purpose of retrieving user information," Gupta wrote. This includes enterprise users, where the botnet can be used to infiltrate a user's machine to propagate further malicious activity.
+
+That said, "the Cloud9 malware does not target any specific group, meaning it is as much an enterprise threat as it is a consumer threat," Gupta wrote. "It is quite clear that this malware group is targeting all browsers and operating systems and thus trying to increase their attack surface."
+
+Core capabilities of Cloud9 include: the ability to send GET/POST requests, which can be used to fetch malicious resources; cookie stealing to compromise user sessions; keylogging for nabbing passwords and other info; and the ability to launch a Layer 4/Layer 7 hybrid attack, which can be used to perform DDoS attacks from victims' machines.
+
+Cloud9 also can detect a user's OS and/or browser to deliver next-stage payloads; inject ads by opening 'pop-unders'; execute JavaScript code from other sources for further malicious code delivery; silently load web pages for ad or malicious-code injection; mine cryptocurrency using the browser or the victim's device resources; or send a browser exploit to inject malicious code and take complete control of the device.
+
+Browser Escape and a Multifaceted Attack
+
+Researchers walked through an example of a Cloud9 attack on a Chrome browser, outlining several steps that ultimately perform a slew of nefarious tasks — including mining cryptocurrency from a victim's machine, stealing cookies and clipboard data, and even using exploits to "escape" the browser and execute malware on the victim's device.
+
+The main functionality of the extension is available in a file named campaign.js, JavaScript that also can be used as a standalone and thus can redirect victims to a malicious website that contains the campaign.js script.
+
+The campaign.js starts by identifying the victim's OS and then injects a JavaScript file that mines cryptocurrency using the victim's computer resources, both diminishing the performance of the device while reducing hardware lifespan and increasing energy usage — "which translates into a slow but steady monetary loss," Gupta noted.
+
+Cloud9 then injects another script named cthulhu.js that contains a full-chain exploit for two vulnerabilities — CVE-2019-11708 and CVE-2019-98100 — that target Firefox on a 64-bit Windows OS. Upon successful exploitation, it drops Windows-based malware on the device, enabling the threat actor to take over the entire system.
+
+Researchers also witnessed Cloud9 using other browser exploits for Internet Explorer (CVE-2014-6332, CVE-2016-0189) and Edge (CVE-2016-7200 that, if successful, gives the attacker the same user rights as the current user and can execute code on the victim's device accordingly. Further, if the user is logged on with administrative user rights, an attacker could then install programs; view, change, or delete data; or create new accounts with full user rights, researchers said.
+
+Cloud9 also can use its ability to send POST requests to any domain to carry out Layer 7 DDoS attacks if the attacker has a significant number of victims connected as botnets. In fact, true to its reputation, Keksec likely is selling the extension to provide a botnet service to perform DDoS, Gupta noted.
+
+Protecting the Enterprise
+
+Because of the broad capabilities of Cloud9 and the wide attack surface it can generate, enterprise customers should be on alert, researchers said. Indeed, traditional endpoint security solutions don't typically monitor this type of attack vector, which leaves browsers "susceptible and vulnerable," Gupta observed.
+
+It's unclear how Cloud9 is being spread, but so far, Zimperium zLabs has seen no evidence of the malicious extension on the Google Play Store or any other legitimate mobile app shop. For this reason, enterprises should train users on the risks associated with browser extensions that they encounter outside of official repositories, he said. They also should consider what security controls they have in place for such risks in their security posture overall.

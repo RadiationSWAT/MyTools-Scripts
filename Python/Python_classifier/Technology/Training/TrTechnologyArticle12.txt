@@ -1,0 +1,9 @@
+Microsoft today announced that iCloud Photos integration in the Photos app on Windows 11 is beginning to roll out today with an update to the app on the Microsoft Store. Microsoft expects the update to be available to all Windows 11 customers by end of the month.
+
+
+
+iCloud Photos integration allows iPhone users to access all of their photos in the Photos app on Windows 11 devices. In a blog post, Microsoft says users simply need to download the iCloud for Windows app from the Microsoft Store, enable iCloud Photos syncing, and the photos will appear in the updated Photos app automatically.
+
+Microsoft previously announced that standalone Apple Music and Apple TV apps are coming to Windows next year. Currently, Windows users must access the Apple TV+ streaming service on the web at tv.apple.com, while Apple Music is available on the web or within the antiquated iTunes for Windows app. Microsoft said previews of both apps would be available on the Microsoft Store starting later this year.
+
+Last month, the Apple Music app launched on the Xbox Series X, Xbox Series S, and Xbox One.

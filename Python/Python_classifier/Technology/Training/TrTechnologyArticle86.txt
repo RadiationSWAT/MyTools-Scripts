@@ -1,0 +1,69 @@
+With the iPhone 14, Apple gave us many of the upgrades we've been waiting for -- especially on the Pro models. Such features include an always-on display for showing the time at a glance and better multitasking through the Dynamic Island.
+
+But there are a few ways I'm hoping Apple takes things further with the iPhone 15. For example, the company could do a better job of bringing certain Pro-exclusive features down to its less expensive iPhone models. Samsung frequently does this with its cheaper phones, and I'd like to see Apple embrace this approach more fully too. The Dynamic Island also shows a lot of promise already, but Apple could make it an even more integral part of the iPhone experience.
+
+Apple typically announces its new iPhones in September and releases them shortly thereafter. Here's what I'm hoping to see from the iPhone 15 next year.
+
+Now playing: Watch this: How to Pick the Best iPhone for You
+
+USB-C charging
+
+Sarah Tew/CNET
+
+The Lightning connector has been around for 10 years, and it's time for a change. With so many Apple products making the switch to USB-C, there's never been a bigger need for one charger that powers all devices. Apple currently has four different types of chargers on the market: Lightning (for iPhones, the 2021 iPad, AirPods and a few other accessories), USB-C (for most new iPads and MacBooks), MagSafe (the wireless magnetic charger for iPhones) and MagSafe 3 (the magnetic charger for the 2022 MacBook Air, 14-inch MacBook Pro and 2021 16-inch MacBook Pro).
+
+Making new iPhones compatible with USB-C instead of Lightning means you could use the same cable to charge your new phone, the Mac and new iPads. There's a good chance most of your other electronics use USB-C too.
+
+The good news is that a USB-C iPhone may not be very far away. Greg Joswiak, Apple's senior vice president of worldwide marketing, confirmed that the company would comply with the European Union's mandate that all phones sold in the region would need to have a USB-C charging port. He made the comments during an interview at the Wall Street Journal Tech Live conference. Apple has also previously tested USB-C iPhones, according to Bloomberg.
+
+However, Apple has not revealed any specifics about its plans. We don't know if Apple will begin making the switch to USB-C with the iPhone 15 or if it will wait until the following year, since the new rules require USB-C by the end of 2024. Apple also has not said whether USB-C will be coming to all iPhones or just European models, although analysts expect Apple to make a complete shift to USB-C.
+
+Higher refresh rates on the regular iPhone 15
+
+James Martin/CNET
+
+Starting with last year's iPhone 13 Pro, Apple added higher refresh rates to the displays on its premium smartphones. The iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14 Pro and iPhone 14 Pro Max have a feature Apple calls ProMotion, which can boost the screen's refresh rate as high as 120Hz depending on what's being shown. This results in more fluid scrolling and smoother animations.
+
+It's a small touch, but one that makes the experience feel more pleasant -- as my colleague Patrick Holland wrote in his review of the iPhone 13 Pro. While having a high refresh rate isn't a deal breaker, it's become standard on most smartphones. Google's $599 Pixel 7 has a 90Hz refresh rate and Samsung's $800 Galaxy S22 includes a 120Hz refresh rate, for instance. Even the $450 Galaxy A53 5G has a 120Hz display, making its absence on the $799 iPhone 14 feel even more noticeable.
+
+More features that use the Dynamic Island
+
+James Martin/CNET
+
+The Dynamic Island, which is available only on the iPhone 14 Pro and Pro Max, is essentially a second miniature screen. Instead of getting rid of the notch, Apple gave that space a new purpose by using it to display information from other apps.
+
+For example, you can see music that's currently playing, timers, and directions in Maps at the top of the screen -- eliminating the need to switch between apps. The Dynamic Island makes it easier to multitask on the iPhone 14 Pro, an area in which Apple has traditionally lagged behind Samsung and other Android phones that support split-screen apps.
+
+Now that the Dynamic Island has proven its value, I'd like to see Apple do even more with it next year. It would be interesting to see Apple use this space to make proactive suggestions, like apps that may be useful based on your activity, the time of day or your schedule. Part of the Dynamic Island's usefulness also depends on what app developers decide to do with it, too. There are already a handful of apps that incorporate the Dynamic Island, such as Pixel Pals, which essentially looks like a Tamagotchi for your iPhone. But I'm hoping to see more practical use cases for the Dynamic Island that make it feel like a more critical part of your phone, similar to the iPhone's home screen widgets.
+
+If Apple does expand the Dynamic Island's functionality in the future, there's a chance you may not need the iPhone 15 to take advantage of it. Instead, Apple could build new Dynamic Island features into its next major software update, which is likely to be called iOS 17.
+
+A smaller notch on the regular iPhone 15
+
+James Martin/CNET
+
+If Apple isn't going to bring the Dynamic Island to the base iPhone 15, I hope it at least makes the notch less intrusive. The notch hasn't changed all that much since its debut on the iPhone X in 2017, aside from the Dynamic Island on the iPhone 14 Pro and Pro Max. Meanwhile, other smartphone makers like Samsung, Google and OnePlus have found ways to provide edge-to-edge screens on their devices without carving out a large notch for the front-facing camera. Reducing the notch's size would likely result in more screen space and a more modern look for the iPhone 15.
+
+If Apple does move in this direction, we might have to wait until the iPhone 16 to see it. Ming-Chi Kuo, an analyst with TF International Securities known for his Apple predictions, estimates under-display Face ID and front-facing camera sensors will be coming in 2024.
+
+That said, there are good reasons why the iPhone still has a larger notch than many of its competitors. It mostly comes down to Face ID, which is more sophisticated than the facial recognition systems found on other phones like the Pixel 7, which Google cautions shouldn't be used for authenticating sensitive data like payment information.
+
+Reverse wireless charging
+
+Sarah Tew/CNET
+
+Many Android phones have reverse wireless charging, which is exactly what it sounds like. You can use the back of phones like the Galaxy S22 and Pixel 7 to charge other devices, like a smartwatch or earbuds. While it's likely not a must-have for most people, I can imagine it being very useful for avid AirPods users.
+
+No one likes being stuck on their morning commute with a dead pair of AirPods. Having the option to get just enough juice to make it through my 30-minute train ride by placing my AirPods on the back of my phone for a few minutes could be a game changer. Yes, you'll have to sacrifice some of your phone's battery. But if you're traveling to a destination where you'll easily be able to charge your phone once you arrive -- like the office -- it might be worth that tradeoff.
+
+The return of Touch ID
+
+Scott Stein/CNET
+
+While Face ID is convenient in many situations, there are instances in which using your finger to unlock your phone is just more practical. That's why I'm hoping Touch ID makes a comeback on the iPhone. Maybe you haven't had time to set up Face ID so that it works with a mask yet, or perhaps you're just not holding your iPhone at the right angle for Face ID.
+
+Apple clearly sees the value in fingerprint recognition, considering the top button on the latest standard iPad and iPad Air have Touch ID. Doing the same for the iPhone 15 would add more convenience, giving users the choice to use Face ID or Touch ID depending on the situation. Most Android phones have both a fingerprint reader and some form of facial recognition, so it would be great to see iPhone users get the same options.
+
+It's unclear whether Apple will ever bring Touch ID back to the iPhone. While the analyst Kuo previously predicted that future iPhones would get an under-display fingerprint sensor, he changed his outlook in March 2022.
+
+The iPhone 14 Pro and Pro Max already address many of the previous shortcomings of Apple's smartphones. The updates I'm hoping to see in the iPhone 15 may not seem revolutionary, but they're bound to make everyday tasks like charging and unlocking your phone a bit easier.

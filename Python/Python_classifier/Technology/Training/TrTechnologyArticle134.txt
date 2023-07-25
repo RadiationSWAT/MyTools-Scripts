@@ -1,0 +1,23 @@
+Google Home is scheduled to receive a huge makeover in the near future. We know because Google told us as much about a month ago, only they said the new experience would arrive first through a public preview program. Well, friends, the public preview is opening up and you should be able to sign-up.
+
+On the support page for the Google Home app Public Preview, Google says that you should be able to jump into the current Google Home, tap into Settings and then look for “Public Preview” under the General section. From there you can “request invite” or revoke if the experience ends up not being for you at this time.
+
+We aren’t sure how you get accepted (can you get denied?), but Google did mention that if you are accepted, you’ll receive a notification that the Public Preview will soon arrive. A “Got it” button will let you officially join or you could “Decline acceptance.”
+
+So what’s new in the new Google Home experience? We talked about it in early October, with imagery and descriptions for things like the refreshed camera and timeline views, quickly grouping similar device into Spaces, and the ability to setup favorite devices and actions. There’s much more than that, which you can see in the official changelog below:
+
+Favorites: Easily access your favorite devices and actions. This includes the ability to favorite your cameras so you can view your live streams right when you launch the app
+
+Easily access your favorite devices and actions. This includes the ability to favorite your cameras so you can view your live streams right when you launch the app Spaces : Quickly access groups of similar devices such as lights
+
+: Quickly access groups of similar devices such as lights Devices: Find all of your devices and easily check their status
+
+Find all of your devices and easily check their status Refreshed camera and timeline views: Vertical video history timeline : Quickly scrub through hours of video history or jump to live view Event views : Access a list of events and scrub to an exact moment. See video in landscape mode on your phone or tablet Quick actions : See and talk to anyone in front of your camera or doorbell with live or pre-recorded messages. Call emergency services (U.S. Nest Aware subscribers only), access device settings and download any event to your phone
+
+Media mini player: See what’s playing in your home and adjust the volume or access the remote
+
+See what’s playing in your home and adjust the volume or access the remote Activity: Review what happened in and around your home
+
+Review what happened in and around your home Settings: Find and manage devices, services and home members
+
+Again, if you’d like to join, head into the Google Home app, tap on the Settings shortcut in the top section of the app, and then look for the Public Preview section to request an invite.

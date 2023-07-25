@@ -1,0 +1,15 @@
+Pokemon Scarlet and Violet will officially release on November 18th, and it appears that it will be playable on PC on day-1. Last week, the game was leaked online and from the looks of it, the Nintendo Switch emulator, Ryujinx, can run it.
+
+As we can see, emulation is not perfect yet as there are a number of graphical glitches and performance issues. Still, we’re talking about an unreleased triple-A game. Thus, it’s quite impressive that the game can already run on this Nintendo Switch emulator.
+
+YouTube’s ‘Lucas Reis’ has shared the following video, packing 2 hours of gameplay footage from it. In order to capture this footage, the YouTuber used an AMD Ryzen 5600g with 16GB of RAM and an NVIDIA GeForce RTX3050.
+
+As always, we won’t be allowing links to the actual ROM.
+
+You can download the latest version of Ryujinx from here.
+
+Enjoy!
+
+POKÉMON SCARLET FULL GAMEPLAY RYUJINX (DOWLOAD)
+
+Watch this video on YouTube

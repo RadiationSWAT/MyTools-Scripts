@@ -1,0 +1,19 @@
+Scientific and technological aesthetics/YouTube
+
+TL;DR A YouTuber and his team created a foldable iPhone with functional iOS software.
+
+The engineers that put the DIY folding iPhone together used internals from various iPhones, including the iPhone X.
+
+They packed them inside the chassis of the Motorola Razr to create the foldable form factor.
+
+Talk about crazy DIY projects — a Chinese YouTuber and his teammates just made a foldable iPhone that took nearly a year to complete.
+
+In his video, the YouTuber talks about sourcing parts from different iPhones to create the foldable iPhone. He scooped out the internals of an iPhone X and other donated devices and packed them inside the chassis of the flip-style Motorola Razr to ultimately achieve a working iPhone that folds in half.
+
+Of course, the process was not as simple as described above. It took meticulous construction and a lot of trial and error to get everything working. The YouTuber’s ultimate goal was to preserve as many parts of the donor iPhones as possible. He tested multiple hinges to make the phone fold, including the one from the Samsung Galaxy Z Flip. He ultimately chose the Moto Razr’s hinge because it resulted in the least amount of creasing.
+
+The team even had to 3D print some parts to complete the painstaking process. They also compromised on the battery life and built a tiny 1,000mAh cell into the phone, with no wireless or MagSafe charging.
+
+The final result is far from what a finished foldable iPhone might look like someday, but the device can be seen running iOS smoothly. The touch functionality also worked just fine. The engineer even named his foldable iPhone, calling it the iPhone V.
+
+Comments

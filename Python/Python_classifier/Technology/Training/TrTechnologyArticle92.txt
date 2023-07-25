@@ -1,0 +1,23 @@
+Following iOS availability earlier this year, the Google One VPN is now available for Mac and Windows through new desktop apps.
+
+The Google One VPN is available to those on the 2 TB or greater “Premium” plan, which is above the 100 GB “Basic” ($1.99/month or $19.99/year) and 200 GB “Standard” ($2.99/month or $29.99/year) tiers.
+
+Besides storage and the VPN, the required $9.99 per month ($99.99 annually) subscription can be shared with up to five users, offers better customer support, and 10% back on the Google Store. The latest perk is Google Workspace premium, starting with longer group Meet calls, YouTube livestreaming, recording, and noise cancellation.
+
+The Mac and Windows apps for the VPN can be installed directly from the Google One website by navigating to Benefits > VPN protection for multiple devices > and Download app. Click VPNbyGoogleOneSetup.exe or VPNbyGoogleOne.dmg afterward to start the install process.
+
+Some users will be able to download the apps starting today, and fully availability is expected over the next few days.
+
+A VPN key with signals that radiate out the top-left corner and a green checkmark will appear in your Windows taskbar or macOS menu bar. This opens a small window to turn on/off the virtual private network. Each Google One user (including those in your family group) can have up to six devices using the VPN.
+
+On Apple devices, you need macOS 11+ and Intel or Apple Silicon (M series) hardware, while Windows 10+ and 64-bit (no 32-bit or ARM) CPU support is required. More details will be available here, while country availability is as follows: Austria, Australia, Belgium, Canada, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Mexico, Netherlands, Norway, South Korea, Spain, Sweden, Switzerland, Taiwan, United Kingdom, United States.
+
+The Google One VPN is focused on masking your traffic and IP address, reducing online tracking, and providing protection on public Wi-Fi and other unsecured networks. The company says it “will never use your VPN connection to track, collect, or sell your online activity.”
+
+The only info that’s logged and tied to you is your level of usage. This usage is categorized as low, medium, or high. Some aggregate or de-identified logging is also performed to ensure quality of service.
+
+In the coming weeks, Google will release an updated independent audit that covers the VPN’s Windows and Mac implementations.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Google on YouTube for more news:

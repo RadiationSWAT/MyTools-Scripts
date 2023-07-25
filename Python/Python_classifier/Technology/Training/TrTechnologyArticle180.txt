@@ -1,0 +1,17 @@
+Just because your phone comes with certain features doesn’t mean they’re all beneficial in terms of battery power. When it comes to default settings on your iPhone, the truth of the matter is that some can sap your phone of battery power faster than others. If you’ve noticed your phone lagging recently, the problem could be one that’s easily resolvable: change these four default iPhone settings that are slowly draining your battery, according to tech experts.
+
+1. Wi-Fi
+
+“If you have Wi-Fi turned on and your phone is not connected to a Wi-Fi network, it will continually search for Wi-Fi networks, which can drain your battery,” said Robin Salvador and I am the Chief Marketing Officer of Seekfast. To turn off Wi-Fi, go to Settings > Wi-Fi and turn off Wi-Fi. This simple act can save you so much battery power.
+
+2. Location Services
+
+Not only does the location services setting track your every move (disastrous for your privacy if that’s a concern). But it’s also bad news for your battery. “This setting allows apps to use your location information,” Salvador said. “While this can be convenient, it can also drain your battery if you have it turned on and the app is not in use.”
+
+3. Push Notifications
+
+“This setting allows apps to send you notifications, even when they’re not open,” Salvador said. “While this can be useful, it can also drain your battery if you have too many apps sending you notifications.” Head over to Settings > App Settings > Most recent > and locate the apps that have you sent you notifications so that you can then individually turn them off.
+
+4. Background App Refresh
+
+The Background App Refresh setting allows apps to refresh their content in the background, so that when you open them, they’re up-to-date, according to Salvador. “While this can be convenient, it can also drain your battery if you have too many apps refreshing their content in the background,” Salvador said. “The best solution to deal with these settings is to turn them off when you’re not using them. That way, you can save your battery power for when you need it most.”

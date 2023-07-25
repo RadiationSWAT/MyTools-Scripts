@@ -1,0 +1,21 @@
+All editions of Windows 10 21H1 are set to reach their end of service at the end of November 2022, Microsoft has confirmed.
+
+In an advisory, the company noted that its upcoming December 2022 security update, to be released on December 13, 2022, will be the last update available for Windows 10 21H1.
+
+After that date, devices running this version will no longer receive monthly security and quality updates containing protection from the latest security threats.
+
+Microsoft recommends that any users still using Windows 10 21H1 on their devices should upgrade to the latest version of Windows 10, or upgrade their eligible devices to Windows 11, immediately. For information about servicing timelines and lifecycles, the company also provided a Windows 10 release guide. (opens in new tab)
+
+Microsoft announced the availability of Windows 10 22H2 on October 18, which is now rolling out to all eligible devices.
+
+Users who are responsible for upgrading their own machines can do so by heading to Settings > Update & Security > Windows Update, and then clicking on the "Check for updates" button.
+
+The news comes shortly after a recent report found many PC users are still clinging to Windows 10, despite Windows 11 launching on October 5, 2021 - well over a year ago.
+
+According to data gathered by Statcounter, Windows 11 still has comparatively poor adoption rates, with only 15.44% of all Windows systems having made the jump.
+
+In excess of 70% of users are still running Windows 10, while Windows 7 still maintains 10% of the overall Windows user base, even though it lost its official Microsoft support in January 2020.
+
+Users' general reluctance to upgrade has been attributed to the high system performance requirements that Windows 11 demands of its users, which are simply out of reach for many common PCs and mobile workstations in the market.
+
+If you are still in the dark about how best to update your Windows machine, you can follow this guided walkthrough (opens in new tab) that Microsoft has put together.

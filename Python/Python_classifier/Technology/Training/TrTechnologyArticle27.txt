@@ -1,0 +1,67 @@
+Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here.
+
+The Apple Of Apple’s Eye
+
+Apple tracks iOS users even when they explicitly choose to “disable the sharing of Device Analytics altogether,” Gizmodo reports.
+
+“Opting out or switching the personalization options off did not reduce the amount of detailed analytics that the app was sending,” according to Tommy Mysk, an app developer and researcher.
+
+This isn’t new. Apple’s definitions of privacy and tracking – not in an abstract sense but what is set down as policy – only consider tracking to be a violation when third parties (as in any company not named Apple) are involved.
+
+When ATT went live last year, every app had to resubmit consent requests to collect data or location for advertising purposes. But that wasn’t the case with Apple Maps or its Stocks and News apps. When Apple eventually began collecting consent for its own apps, it used completely different (and friendlier) wording than it requires of everyone else.
+
+If any other company were to use the exact same language Apple uses in its consent requests – that data is collected to personalize and improve experiences, for instance – it could get booted from the App Store.
+
+Apple didn’t respond to Gizmodo or the researchers. But that’s not surprising. No one at Apple has ever addressed the issue in a public forum – and that speaks even more loudly.
+
+The Ad Spend Spigot
+
+Don’t call it a loss. Call it an investment.
+
+Or, at least, that’s how large advertisers are rationalizing ad spend during this economic slump, Digiday reports.
+
+Advertisers are trimming their media budgets, paying more attention to performance-based media plans and focusing on measurable tactics.
+
+Although that’s not to say that branding and performance campaigns are mutually exclusive.
+
+P&G, for example, moved ad spend from linear to programmatic and streaming where it gets better targeting, which means its brands can still prioritize reach as their go-to metric while spending a lot less. Voilà.
+
+Airbnb is also focused on one-to-one targeting, but through the lens of branding and PR.
+
+So, what media budgets are in danger? Pretty much anything that isn’t designed to generate ROAS.
+
+For brands, getting through a period of inflation requires a mix of more efficient advertising and hoping consumers are willing to pay more, too.
+
+“Consumers are clearly taking on more of the price increases than many companies had expected,” media and tech consultant Ian Whittaker noted at a recent event hosted by Ebiquity.
+
+The TikTok Content Miners
+
+ByteDance, which owns TikTok, recently shared with some merchants and brands the framework that it uses to score creators on the platform based on their ability to sell merch and attract eyeballs, MarketWatch reports.
+
+Some of the homegrown metrics include a “cooperation index,” which gauges how enthusiastic creators are to work with brands, and a “diligence index” for willingness to consistently feature sponsored products on their feed. (“Diligence,” lol.)
+
+Let’s be honest. TikTok’s ad platform is a bit janky, and its attribution is a mess. But one area where TikTok outpaces Meta or YouTube is in how it’s able to matchmake brands with creators through a browsable marketplace.
+
+TikTok sells “top sales stars” to brands looking to drive performance and top “growth index” creators for brands looking to capitalize on newbies who are on the up and up.
+
+What underscores these, well, scores, is their ability to drive shopping behavior.
+
+TikTok’s live shopping initiatives may not have taken off outside China, but TikTok is positioning itself as a platform for selling goods, dealing with customer-service-type user requests in a timely manner and putting the creator/brand relationship front and center.
+
+But Wait, There’s More!
+
+How the ad spend slump is affecting TV. [Marketing Brew]
+
+Influencers share just how little they make on the TikTok Pulse ads program. [Insider]
+
+A Sincera study commissioned by ID5 shows how incredibly inefficient and energy intensive the cookie matching process is. [release]
+
+Microsoft’s cloud licensing deals spur EU antitrust complaints by an Amazon-linked group. [Bloomberg]
+
+Twitter files paperwork to enter the payments business. [NYT]
+
+You’re Hired!
+
+WPP hires Frank-Michael Schmidt as president of its Germany business. [release]
+
+Scope3 names Trade Desk exec Brenda Tuohig to its senior leadership team as the head of global and strategic partnerships. [release]

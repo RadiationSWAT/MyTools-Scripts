@@ -1,0 +1,53 @@
+Just days before Supercomputing 22 kicks off, Intel introduced (opens in new tab) its next-generation Xeon Max CPU, previously codenamed Sapphire Rapids HBM, and Data Center GPU Max Series compute GPUs, known as Ponte Vecchio. The new products cater to different types of high-performance computing workloads or work together to solve the most complex supercomputing tasks.
+
+The Xeon Max CPU: Sapphire Rapids Gets 64GB of HBM2E
+
+General-purpose x86 processors have been used for virtually all kinds of technical computing for decades and therefore support many applications. However, while the performance of general-purpose CPU cores has scaled rather rapidly for years, today's processors have two significant limitations regarding performance in artificial intelligence and HPC workloads: parallelization and memory bandwidth. Intel's Xeon Max 'Sapphire Rapids HBM' processors promise to remove both boundaries.
+
+Image 1 of 3 (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel )
+
+Intel's Xeon Max processor features up to 56 high-performance Golden Cove cores (spread over four chiplets interconnected using Intel's EMIB technology) further enhanced with multiple accelerator engines for AI and HPC workloads and 64GB of on-package HBM2E memory. Like other Sapphire Rapids CPUs, the Xeon Max will still support eight channels of DDR5 memory and PCIe Gen 5 interface with the CXL 1.1 protocol on top, so it will be able to all those CXL-enabled accelerators when it makes sense.
+
+In addition to vector AVX-512 and Deep Learning Boost (AVX512_VNNI and AVX512_BF16) accelerators support, the new cores also bring Advanced Matrix Extensions (AMX) tiled matrix multiplication accelerator, which is essentially a grid of fused multiply-add units supporting BF16 and INT8 input types that can be programmed using only 12 instructions and perform up to 1024 TMUL BF16 or 2048 TMUL INT8 operations per cycle per core. Also, the new CPU supports Data Streaming Accelerator (DSA), which offloads data copy and transformation workloads from the CPU.
+
+64GB of on-package HBM2E memory (four stacks of 16GB) provides a peak bandwidth of around 1TB/s, which translates to ~1.14GB of HBM2E per core at 18.28 GB/s per core. To put the numbers into context, a 56-core Sapphire Rapids processor equipped with eight DDR5-4800 modules gets up to 307.2 GB/s of bandwidth, which means 5.485 GB/s per core. Meanwhile, Xeon Max can use its HBM2E memory in different ways: use it as system memory, which requires no code change; use it as a high-performance cache for DDR5 memory subsystem, which does not require change code; use it as a part of a unified memory pool (HBM flat mode), which involves software optimizations.
+
+Depending on the workload, Intel's AMX-enabled Xeon Max processor can provide a 3X – 5.3X performance improvement over the currently available Xeon Scalable 8380 processor that uses conventional FP32 processing for the same workloads. Meanwhile, in applications like model development for molecular dynamics, the new HBM2E-equipped CPUs are up to 2.8X times faster than AMD's EPYC 7773X, which features 3D V-Cache.
+
+Image 1 of 13 (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel )
+
+But HBM2E has another important implication for Intel as it somewhat reduces data movement overhead between CPU and GPU, which is essential for various HPC workloads. It brings us to the second of today's announcements: the Data Center GPU Max Series compute GPUs.
+
+The Data Center GPU Max: The Pinnacle of Intel's Datacenter Innovations
+
+Intel's Data Center GPU Max compute GPU series will employ the company's codenamed Ponte Vecchio architecture, first introduced in 2019 and then detailed in 2020 ~ 2021. Intel's Ponte Vecchio is the most complex processor ever created, as it packs over 100 billion transistors (not including memory) over 47 tiles (including 8 HBM2E tiles). In addition, the product extensively uses Intel's advanced packaging technologies (e.g., EMIB) as different tiles are made by other manufacturers using different process technologies.
+
+Image 1 of 6 (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel )
+
+Intel's Data Center GPU Max compute GPUs will rely on the company's Xe-HPC architecture tailored explicitly for AI and HPC workloads and therefore support appropriate data formats and instructions as well as 512-bit vector and 4096-bit matrix (tensor) engines.
+
+Swipe to scroll horizontally Data Center Max 1100 Data Center Max 1350 Data Center Max 1550 AMD Instinct MI250X Nvidia H100 Nvidia H100 Rialto Bridge Form-Factor PCIe OAM OAM OAM SXM PCIe OAM Tiles + Memory ? ? 39+8 2+8 1+6 1+6 many Transistors ? ? 100 billion 58 billion 80 billion 80 billion loads of them Xe HPC Cores | Compute Units 56 112 128 220 132 114 160 Enhanced Xe HPC Cores RT Cores 56 112 128 - - - ? 512-bit Vector Engines 448 896 1024 ? ? ? ? 4096-bit Matrix Engines 448 896 1024 ? ? ? ? L1 Cache ? ? 64MB at 105 TB/s ? ? ? ? L2 Rambo Cache ? ? 408MB at 13 TB/s ? 50MB 50MB ? HBM2E 48GB 96GB 128GB at 3.2 TB/s 128 GB/s at 3.2 TB/s 80GB at 3.35 TB/s 8GB at 2 TB/s ? Multi-GPU IO 8 16 16 8 8 8 ? Power 300W 450W 600W 560W 700W 350W 800W
+
+Compared to Xe-HPG, Xe-HPC has considerably more sophisticated memory and caching subsystems, differently configured Xe cores (each Xe-HPG core features 16 256-bit vector and 16 1024-bit matrix engines, whereas each Xe-HPC core sports eight 512-bit vector and eight 4096-bit vector engines). Furthermore, Xe-HPC GPUs do not feature texturing units or render back ends, so they cannot render graphics using traditional methods. Meanwhile, Xe-HPG surprisingly supports ray tracing for supercomputer visualization.
+
+One of the most important ingredients of Xe-HPC is Intel's Xe Matrix Extensions (XMX) that enable rather formidable tensor/matrix performance of Intel's Data Center GPU Max 1550 (see the table below) — up to 419 TF32 TFLOPS and up to 1678 INT8 TOPS, according to Intel. Of course, peak performance numbers provided by compute GPU developers are important but may not reflect performance achievable on real-world supercomputers in real-world applications. Still, we cannot help but notice that Intel's range-topping Ponte Vecchio is significantly behind Nvidia's H100 in most cases and fails to deliver tangible advantages over AMD's Instinct MI250X across all cases except FP32 Tensor (TF32).
+
+Swipe to scroll horizontally Data Center Max 1550 AMD Instinct MI250X Nvidia H100 Nvidia H100 Form-Factor OAM OAM SXM PCIe HBM2E 128GB at 3.2 TB/s 128 GB/s at 3.2 TB/s 80GB at 3.35 TB/s 80GB at 2 TB/s Power 600W 560W 700W 350W Peak INT8 Vector ? 383 TOPS 133.8 TFLOPS 102.4 TFLOPS Peak FP16 Vector 104 TFLOPS 383 TFLOPS 134 TFLOPS 102.4 TFLOPS Peak BF16 Vector ? 383 TFLOPS 133.8 TFLOPS 102.4 TFLOPS Peak FP32 Vector 52 TFLOPS 47.9 TFLOPS 67 TFLOPS 51 TFLOPS Peak FP64 Vector 52 TFLOPS 47.9 TFLOPS 34 TFLOPS 26 TFLOPS Peak INT8 Tensor 1678 TOPS ? 1979 TOPS | 3958 TOPS* 1513 TOPS | 3026 TOPS* Peak FP16 Tensor 839 TFLOPS ? 989 TFLOPS | 1979 TFLOPS* 756 TFLOPS | 1513 TFLOPS* Peak BF16 Tensor 839 TFLOPS ? 989 TFLOPS | 1979 TFLOPS* 756 TFLOPS | 1513 TFLOPS* Peak FP32 Tensor 419 TFLOPS 95.7 TFLOPS 989 TFLOPS 756 TFLOPS Peak FP64 Tensor - 95.7 TFLOPS 67 TFLOPS 51 TFLOPS
+
+Meanwhile, Intel says that its Data Center GPU Max 1550 is 2.4x faster than Nvidia's A100 on Riskfuel credit option pricing and offers a 1.5x performance improvement over A100 for NekRS virtual reactor simulations.
+
+Intel plans to offer three Ponte Vecchio products: the top-of-the-range Data Center GPU Max 1550 in OAM form-factor featuring 128 Xe-HPC cores, 128GB of HBM2E memory, and rated for up to 600W thermal design power; the cut-down Data Center GPU Max 1350 in OAM form-factor with 112 Xe-HPC cores, 96GB of memory, and a 450W TDP; and the entry-level Data Center GPU Max 1100 that comes in a dual-wide FLFH form-factor and carries a processor with 56 Xe-HPC cores, has 56GB of HBM2E memory and rated for a 300W TDP.
+
+Meanwhile, to its supercomputer clients, Intel will offer Max Series Subsystems with four OAM modules on a carrier board rated for a 1,800W and 2,400W TDP.
+
+Image 1 of 17 (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel ) (Image credit: Intel )
+
+Intel's Rialto Bridge: Enhancing the Max
+
+In addition to formally unveiling its Data Center GPU Max compute GPUs, Intel today also gave a sneak peek at its next-generation Data Center GPU, codenamed Rialto Bridge which arrives in 2024. This AI and HPC compute GPU will be based on enhanced Xe-HPC cores, presumably with a slightly different architecture, but will maintain compatibility with Ponte Vecchi-based applications. Unfortunately, that additional complexity will increase the TDP of the next-generation flagship compute GPU to 800W, though there will be simpler and less power-hungry versions.
+
+Availability
+
+One of the first customers to get both Intel Xeon Max and Intel Data Center GPU Max products will be Argonne National Laboratory, which is building its >2 ExaFLOPS supercomputers based on over 10,000 blades using Xeon Max CPUs and Data Center GPU Max devices (two CPUs and six GPUs per blade). In addition, Intel and Argonne are finishing building Sunspot, Aurora's test development system consisting of 128 production blades that will be available to interested parties in late 2022. The Aurora supercomputer should come online in 2023.
+
+Intel's partners, among server makers, will launch machines based on Xeon Max CPUs and Data Center GPU Max devices in January 2023.

@@ -1,0 +1,17 @@
+Best Buy is selling an Asus ROG Zephyrus G14 gaming laptop with a Ryzen 7 CPU, an Nvidia RTX 3060, and a Full HD display with a 144 Hz refresh rate for US$500 off. The Zephyrus is currently listed at $899.99.
+
+4 Reviews
+
+November is typically a fantastic time to buy new tech, thanks in large part to the numerous Black Friday sales from a variety of retailers. Those in search of a mid-range gaming laptop may want to take a look at the Asus ROG Zephyrus G14, on sale from Best Buy for US$899.99.
+
+The model on sale is the Asus ROG Zephyrus G14 GA401QM-G14.R73060. As specified by the last numbers in the model name, this version of the Zephyrus G14 boasts an AMD Ryzen 7 5800HS, Nvidia GeForce RTX 3060, 16 GB of DDR4 RAM, and a 512 GB PCIe Gen 3 SSD. The screen is a 14-inch FHD (1920x1080) panel with a refresh rate of 144 Hz. Asus claims the display covers 100% of the sRGB gamut and hits a peak brightness of 300 nits.
+
+We reviewed a similar model last year, though our review unit was equipped with an AMD Ryzen 9 5900HS. The only difference between the model we reviewed and the one on sale is that our review unit's CPU hits a slightly higher clock speed (4.6 GHz vs 4.4 GHz).
+
+Our review praised the Zephyrus' long battery life, great CPU performance, and strong typing experience. We also noted that the Zephyrus is equipped to hit over 100 FPS in most games at 1080p, taking advantage of its 144 Hz panel.
+
+We did notice the lack of Thunderbolt 3 support, which means external GPU enclosures aren't supported. The laptop also gets very warm while gaming (~55° C under load in the middle of the keyboard). It also lacks a webcam and RGB lighting.
+
+While the design and internals may be a year old at this point, laptops with an RTX 3060 and Ryzen 7-class CPU are rare under $1000, let alone one with this level of build quality and a 144 Hz display. The Zephyrus typically sells at Best Buy for $1399.99 but has been reduced $500 to $899.99 for Black Friday. If you're in the market for a compact mid-range gaming laptop, this may be the one for you.
+
+You can purchase the Asus ROG Zephyrus G14 (AMD Ryzen 7 5800HS, Nvidia RTX 3060) at Best Buy.

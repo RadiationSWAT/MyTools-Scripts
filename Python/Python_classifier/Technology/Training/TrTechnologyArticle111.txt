@@ -1,0 +1,98 @@
+
+
+
+
+MediaTek has upgraded its portfolio with a new flagship system-on-chip (SoC) for Android devices, the Dimensity 9200. This supplants the Dimensity 9000 and the clock-boosted Dimensity 9000+ as the fastest-performing mobile chip solution on tap from MediaTek, and with it comes some additional goodies, such as support for Wi-Fi 7 connectivity and hardware-based real-time ray tracing.
+
+
+
+
+
+If you recall, the Dimensity 9000 made waves as the first mobile chip to flaunt 4-nanometer DNA. Built around the Arm v9 architecture, the chip featured an 8-core CPU comprised of a Cortex-X2 core clocked at 3.05GHz, three Cortex-A710 cores clocked at 2.85GHz, and a four Cortex-A510 cores clocked at 1.8GHz, along with an Arm Mali-G710 MC10 GPU. Then came the Dimensity 9000+ refresh with the same 1+3+4 configuration, but with the primary core boosted to 3.2GHz.
+
+
+
+
+
+The Dimensity 9200 ups the ante with a Cortex-X3 clocked at 3.05GHz and three Cortex-A715 cores clocked at 2.85GHz for more demanding tasks, while enlisting the same four Cortex-A510 clocked at 1.8GHz for less demanding workloads. Then there's the Immortalis-G715 GPU.
+
+MediaTek Dimensity 9200 CPU And GPU Performance And Power Consumption Claims
+
+At first look, it may seem as though MediaTek took a step back with a slower clock speed versus the Dimensity 9000+. However, MediaTek points out that this is the first smartphone chip to feature a Cortex-A3 core operating north of 3GHz. What does that translate to?
+
+
+
+
+
+
+
+
+
+MediaTek doesn't make any direct comparisons to the Dimensity 9000+, but versus the Dimensity 9000, the company claims its Dimensity 9200 flagship benches 12 percent higher in Geekbench's single-core test and 10 percent higher in the multi-core test. It does this while consuming 25 percent less power, according to MediaTek.
+
+
+
+
+
+Given that MediaTek touted the Dimensity 9000+ as delivering around a 5 percent CPU performance uplift over the non-Plus model, we're not looking at huge CPU gains with its latest flagship. However, it is slightly faster (according to MediaTek's numbers) while consuming significantly less power. Not to be overlooked, these kinds of efficiency gains can potentially have a huge impact on battery life.
+
+
+
+
+
+
+
+
+
+The more exciting upgrade is the GPU. MediaTek is claiming even bigger gains in graphics, to the tune of 32 percent better performance at 41 percent less power. Granted, these figures are based on a single benchmark—GFXBench's Manhattan 3.0 test—but even coming anywhere close to those metrics would represent an impressive uplift.
+
+
+
+
+
+It's also worth noting that this is the first smartphone chip to employ Arm's Immortalis-G715 GPU, and the first with hardware-based ray tracing. In addition, it supports gaming amenities such as variable rate shading (VRS), Vulkan 1.3, and 5K resolution output.
+
+
+
+
+
+"The chipset also packs MediaTek's HyperEngine 6.0 Gaming Technology for fast, fluid action so gamers can immerse themselves in every scene, in epic detail. With support for extreme performance gaming displays, eye-catching resolution and extended foldable designs, the chipset's MediaTek MiraVision 890 display technology brings content to life," MediaTek says.
+
+Bringing Wi-Fi 7 Connectivity To Future Flagship Android Phones
+
+Beyond the CPU and GPU upgrades, the Dimensity 9200 is notable for its high-end connectivity options. Chief among them is support for Wi-Fi 7. In a bit of a future-proofing move (as much as such a thing can be possible), the Dimensity 9200 is the first smartphone chip to support Wi-Fi 7 with download speeds of up to 6.5Gbps.
+
+
+
+
+
+The caveat is that your network must also support Wi-Fi 7 to take full advantage of the wireless standard's protocol, so for the time being this is more of a bragging point. It also features Bluetooth 5.3 support and 5G connectivity. As it applies to the latter, the Dimensity 9200 supports both Sub-6GHz and mmWave.
+
+
+
+
+
+"Users can connect everywhere thanks to MediaTek's Bluetooth and Wi-Fi coexistence technology, allowing Wi-Fi, Bluetooth low energy (LE) audio and wireless peripherals like gamepads to connect at the same time without interference. Additionally, the chipset's dual antenna system intelligently switches between extreme performance and ultra-low power antennas based on real-time user needs," MediaTek says.
+
+Cameras And Imaging Upgrade -- The Imagiq 890 Image Signal Processor
+
+
+
+
+
+All of the processing power and fancy connectivity features in the world don't amount to much if a smartphone stinks at snapping photos. MediaTek is doing its part to avoid that scenario by infusing the Imagiq 890 image signal processor (ISP) into the Dimensity 9200.
+
+
+
+
+
+In another 'first', this is purportedly the ISP with native support for RGBW sensors. Compared to traditional RGB, MediaTek says users the Imagiq 890 captures 30 percent brighter images to enhance nighttime photography, while capture 20 percent more details.
+
+
+
+
+
+MediaTek also claims it understands motion better and, combined with AI tricks, will snap "super crisp photos with no blur" of moving objects.
+
+
+

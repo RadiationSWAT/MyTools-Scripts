@@ -1,0 +1,21 @@
+Audio player loading…
+
+The European Union Commission has opened an in-depth investigation (opens in new tab) into Microsoft's proposed takeover of Activision Blizzard (opens in new tab). As we've been seeing in other jurisdictions, the concern is that the deal may "significantly reduce competition" in the gaming market, and give Microsoft the ability to "foreclose access to Activision Blizzard's console and PC video games" such as Call of Duty.
+
+The Commission is also concerned about the potential impact on streaming and subscription services "in particular", noting not just that Microsoft could both choose to engage in "foreclosure strategies" (i.e. not put the games on competing services) or "degrading the terms and conditions" for access.
+
+Which is all to say that the anti-competitive practices klaxon is sounding. The Commission does have an odd digression on the proposed acquisition's impact on the PC market, saying it "may reduce competition on the market for PC operating systems." Essentially it's saying that the combination of Windows, Game Pass, and Activision Blizzard's games could "discourage users to buy non-Windows PCs."
+
+That's a relatively new one, and may bring back some unpleasant memories for Microsoft, which has had to go to bat over Windows' marketplace dominance countless times over the decades. But the idea that Microsoft has serious competition in the OS area for everyday gamers and users is a hard sell indeed.
+
+Activision Blizzard CEO Bobby Kotick responded to the announcement with an open letter to the company's staff (opens in new tab). "As we said when we announced our merger, this is a long process" writes Kotick. "We have already received approvals from countries including Brazil (opens in new tab) [...] We continue to work cooperatively with regulators in other jurisdictions, and the process is moving along as we expected."
+
+Kotick notes that due to its scale "regulators are trying to better understand the games business" and that Activision Blizzard "will continue to cooperate with the European Commission where, in the countries they represent, we have many employees."
+
+He ends by saying that "we continue to expect [the deal] to close in Microsoft’s current fiscal year ending June 2023" and this will allow the publisher to "better compete", which is quite amusing. If Modern Warfare 2's tremendous launch numbers (opens in new tab) are anything to go by, Kotick and crew are doing just fine competing.
+
+It's impossible to say where this will end up. While other jurisdictions have waved the deal through, the UK's regulators and the US FTC still have big questions, and the EU has in recent years been trying to get tough on big tech. The scale of this deal, and the recent context of Nvidia's failed takeover of ARM, makes it a prime target for regulators. The Commission's concerns about how it could affect the sales of non-Windows PCs may seem almost quaint, but when you're talking about an anti-competition probe that's exactly the kind of thing Microsoft doesn't want in the discussion.
+
+Oh well, at least it's getting some practice with its counter-arguments. The most creative one being that, y'know, what if Call of Duty sucked (opens in new tab)? What then regulators?
+
+The Commission will now carry out an in-depth investigation into the deal, and has 90 working days to report: the deadline for a decision is May 23, 2023. It notes that the "opening of an in-depth inquiry does not prejudge the outcome of the investigation."

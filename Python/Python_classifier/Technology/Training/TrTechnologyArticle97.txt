@@ -1,0 +1,17 @@
+With the Pixel 7 and 7 Pro, At a Glance picked up a handful of new features, and Package delivery alerts are now rolling out to older Google phones.
+
+Building on Doorbell notifications, which “show who’s at the door when your Nest doorbell rings,” At a Glance will now “show when a package is delivered or collected.” This requires a Nest Doorbell and will show an image preview on your lockscreen or the top of your homescreen.
+
+This is accompanied by “Package seen” and a time increment, while At a Glance also notes the name of the device that saw it. It’s enabled by default but can be turned off and joins the eight other features in the main list.
+
+We’re seeing At a Glance Package delivery rolled out on a Pixel 5 and 6 Pro today as part of a server-side update.
+
+It follows daily weather forecasts (and precipitation alerts) expanding beyond the Pixel 7 series at the start of the month. The other new feature is a flight landing card that notes where your baggage (belt info) is. This feature doesn’t have a manual on/off toggle, so it could also be rolled out at this point.
+
+This is a much faster rollout for At a Glance than in the past and could be ahead of new ones coming with the December Feature Drop next month.
+
+More on Pixel Launcher:
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Google on YouTube for more news:

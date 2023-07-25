@@ -1,0 +1,85 @@
+Intel's latest plan to ward off rivals from high-performance computing workloads involves a CPU with large stacks of high-bandwidth memory and new kinds of accelerators, plus its long-awaited datacenter GPU that will go head-to-head against Nvidia's most powerful chips.
+
+After multiple delays, the x86 giant on Wednesday formally introduced the new Xeon CPU family formerly known as Sapphire Rapids HBM and its new datacenter GPU better known as Ponte Vecchio. Now you will know them as the Intel Xeon CPU Max Series and the Intel Data Center GPU Max Series, respectively, which were among the bevy of details shared by Intel today, including performance comparisons.
+
+These chips, set to arrive in early 2023 alongside the vanilla 4th generation Xeon Scalable CPUs, have been a source of curiosity within the HPC community for years because they will power the US Department of Energy's long-delayed Aurora supercomputer, which is expected to become the country's second exascale supercomputer and, consequently, one of the world's fastest.
+
+We're always going to be pushing the envelope. Sometimes that causes us to maybe not achieve it
+
+In a briefing with journalists, Jeff McVeigh, the head of Intel's Super Compute Group, said the Max name represents the company's desire to maximize the bandwidth, compute and other capabilities for a wide range of HPC applications, whose primary users include governments, research labs, and corporations.
+
+McVeigh did admit that Intel has fumbled in how long it took the company to commercialize these chips, but he tried to spin the blunders into a higher purpose.
+
+"We're always going to be pushing the envelope. Sometimes that causes us to maybe not achieve it, but we're doing that in service of helping our developers, helping the ecosystem to help solve [the world's] biggest challenges," he said.
+
+In case you were wondering if any server vendors plan to use these chips, the answer is yes. Intel said there are more than 30 system designs for Xeon Max coming from 12 vendors, including Hewlett Packard Enterprise, Dell, Lenovo, and Supermicro. Those will likely overlap with the more than 15 designs for the datacenter CPU Max Series coming from five vendors.
+
+The first x86 CPU with HBM
+
+The Xeon Max Series will pack up to 56 performance cores, which are based on the same Golden Cove microarchitecture features as Intel's 12th-Gen Core CPUs, which debuted last year. Like the vanilla Sapphire Rapids chips coming next year, these chips will support DDR5, PCIe 5.0 and Compute Express Link (CXL) 1.1, which will enable memory to be directly attached to the CPU over PCIe 5.0.
+
+Xeon Max, which comes with a thermal design power (TDP) of 350W, comes with 20 accelerators built in for artificial intelligence and HPC workloads. These accelerator types include Intel Advanced Vector Extensions 512 (AVX-512) and Intel Deep Learning Boost (DL Boost), Intel Data Streaming Accelerator (DSA), and Intel Advanced Matrix Extensions (AMX).
+
+With AVX-512, Intel claimed a Xeon Max-based system can provide double the deep learning training performance of a system using AMD's high-end Epyc 7763 CPU, using the MLPerf DeepCAM benchmark. But with AMX, the company said the Xeon Max system can provide 3.6 times faster performance. As usual, we should take any performance claims with a grain of salt.
+
+Unlike vanilla Sapphire Rapids, Xeon Max will come with 64GB of HBM2e, which will give the CPU roughly 1TB/s of memory bandwidth and more than 1GB per core.
+
+This isn't the first time a CPU has incorporated HBM. That honor would go to Fujitsu's Arm-based A64FX, which powers one of the world's fastest supercomputers in Japan. But Xeon Max is the world's first x86 CPU with HBM, which McVeigh said will bring the benefits of HBM to a much wider audience.
+
+With 64GB of HBM2e, a dual-socket server with two Xeon Max CPUs will pack 128GB total. This is significant because you can use the HBM as system memory and, as a result, forget about putting in any DRAM modules if you're fine with that kind of capacity.
+
+McVeigh said this configuration, called HBM only mode, can help datacenter operators save on money as well as power, and there is no need to any code changes for software to recognize HBM.
+
+But for datacenter operators who want to use DDR memory as extra capacity or as the system memory, there are options. In HBM flat mode, the HBM and DDR act as two memory regions, but for software to recognize this, code changes are needed. In HBM caching mode, the HBM acts as a cache for the DDR; this requires no code changes.
+
+McVeigh claimed that HBM helps Xeon Max deliver a major improvement in performance per watt over AMD's HPC-focused Epyc 7773X, which comes with 768MB of L3 cache. With DDR5 memory installed, Intel said a Xeon Max-based system uses 63 percent lower power than the Epyc-based system to provide the same level of performance for the High Performance Conjugate Gradients benchmark. With only HBM, the Xeon Max system uses 67 percent less power, according to Intel.
+
+Intel shared several other performance comparisons where a Xeon Max system was anywhere from 20 percent to 4.8 times faster than an Epyc-based system depending on the HPC workload. But, as we said before, any competitive juxtaposition offered by a vendor needs to be viewed with great scrutiny.
+
+We also need to consider that AMD is planning a successor to its cache-heavy Epyc chips, code-named Genoa-X, which may arrive sometime next year or 2024.
+
+A GPU worthy of Nvidia's attention?
+
+While Intel's Data Center GPU Max Series lacks a creative brand name like Xeon, the company is hoping the accelerator formerly known as Ponte Vecchio will make the company more competitive with datacenter GPUs from Nvidia, which has a solid lead, and AMD, which is catching up.
+
+The chipmaker called the Max Series GPU its "highest density processor" because of how it packs more than 100 billion transistors into a system-on-package comprising 47 chiplets, known as "tiles" in Intel lingo. These tiles are brought together on the package using Intel's advanced packaging technologies: embedded multi-die interconnect bridge (EMIB) and Foveros.
+
+The Max Series GPU comes with up to 128 cores based on the Intel Xe HPC microarchitecture, an HPC-focused branch of the chipmaker's Xe GPU architecture. McVeigh said this allows the GPU's most powerful configuration to provide 52 teraflops of peak FP64 throughput, a key measure for HPC.
+
+The GPU also comes with up to 128 ray tracing units, which are geared for traditional simulation software as well as digital content creation and pre-visualization applications. Each GPU has 16 Xe Link ports to allow multiple GPUs to directly communicate with each other.
+
+Like Xeon Max, the Max Series GPU comes equipped with HBM2e, except the capacity in this case goes up to 128GB. The GPU also packs a lot of cache, with a maximum of 408MB of Rambo L2 cache (Rambo stands for "random access memory, bandwidth optimized") and up to 64MB of L1 cache.
+
+McVeigh said Intel designed the GPU's memory hierarchy to keep as much data as close to the processor's compute engines as possible.
+
+"It's all about: How do we feed that compute, how do we feed that very large, multi-teraflop engine with enough data, with enough processing so that it can really execute those applications?" he said.
+
+The Max Series GPU will be available in a few different form factors and configurations.
+
+For standard servers, there's the Intel Data Center GPU Max 1100, which is a double-wide PCIe card that comes with 56 Xe cores and ray tracing units and 48GB of HBM2e with a 300W TDP. The card also comes with a 53G SerDes Intel Xe Link bridge for linking up to four cards.
+
+For datacenters that adhere to the Open Compute Project's server designs, there are two OCP Accelerator Modules. The Max Series 1350 GPU comes with 112 Xe cores and 96GB of HBM2e with a 450W TDP. The most powerful configuration is the Max Series 1550 GPU, which comes with 128 Xe cores and 128GB of HBM2e with a 600W TDP. Both modules come with a 53G SerDes Intel Xe Link bridge that allows up to eight OAMs to communicate directly.
+
+Intel is also providing four Max Series GPU OAMs in a subsystem, which can support up to 512GB of HBM2e and 12.8 TBps of total memory bandwidth. The TDP for the subsystem, which is meant for datacenters with lots of GPU servers, is 1,800W or 2,400W, depending on the specs.
+
+The chipmaker said it has conducted several tests for HPC and AI workloads that show its Max Series GPU performing anywhere from 30 percent to 2.4 times better than Nvidia's A100 GPU, which originally came out in 2020, if you needed a reminder. Unfortunately, Intel's footnotes make it difficult to discern which form factor or configuration is used for the Max Series GPU in multiple cases.
+
+What's also important to note here is that Nvidia plans to soon release its A100 successor, the H100, which the GPU maker has said will significantly improve performance across several measures. Nvidia has already said the H100 will be capable of 60 teraflops for FP64 compute, which, at least on paper, would make the H100 faster than the Max Series GPU in this one measure.
+
+McVeigh said Intel doesn't yet have access to Nvidia's H100.
+
+"We'll be eager to share results when we have those," he said, adding that the company expects to continue improving performance through tweaks to the code.
+
+We should remember, too, that AMD is working on becoming more competitive in the datacenter GPU space with the Instinct MI300, which is due out next year.
+
+Aurora supercomputer: If not now, when?
+
+While Intel is getting close to commercializing its new Max CPU and GPU, the DOE's Aurora supercomputer that uses the chip has yet to go online.
+
+Aurora has faced multiple delays that now span four years. First announced in 2015, the supercomputer was delayed from its original 2018 completion timeline to 2021 because the chipmaker canned its high-end Xeon Phi chips. Then Intel's well-documented manufacturing issues, impacting its new Max CPU and GPU, prompted another pushout to 2022.
+
+Will Aurora actually become operational in 2022? The chances aren't looking great, based on the latest update from McVeigh, especially given that there are now less than 60 days left on the calendar.
+
+McVeigh said Aurora's operator, Argonne National Laboratory, won't be submitting results for the updated fall list of the world's 500 fastest supercomputers, expected to land next week, because the system is still coming together.
+
+"We're eager to do that in 2023, and where our focus right now is really around full installation, full optimization of the work as well as the system optimization," he said. ®

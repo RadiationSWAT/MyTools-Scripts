@@ -1,0 +1,49 @@
+Microsoft has released .NET 7, the latest version of its popular development platform that brings a host of new features and capabilities, including increased performance and new features for C# 11/F# 7, .NET MAUI, ASP.NET Core/Blazor, Web APIs, WinForms, WPF, and for the cloud native set, the ability to easily containerize .NET applications.
+
+In short, .NET 7 has a little bit of something for practically every type of developer. Microsoft announced .NET 7 at its .NET Conf 2022.
+
+One Stack for All Kinds of Apps
+
+“We’re the only stack that you can build console, web, cloud, mobile, desktop, whatever,” Scott Hunter, VP Director of Product, Azure Developer Experience at Microsoft, told The New Stack. “The one thing about .NET is, most stacks are great at building server apps or building client apps and we build every single kind of app.”
+
+Moreover, with .NET 7, Microsoft has removed friction in bringing .NET for cloud native workloads with Docker-less flows.
+
+Containerization
+
+“Containers are becoming the currency of deployment on the cloud, and we’ve made it much simpler with .NET. 7 to deploy your apps into the cloud, without the need of having the Docker Desktop enabled or installed on your machine,” Gaurav Seth, head of product for Developer Platforms and Languages at Microsoft, told The New Stack. “With a simple CLI command you can now customize the container, deploy a custom container, etc., and this support works with any of the container runtimes: Docker, Podman, Containerd, etc.”
+
+And this is available not only from the command line interface (CLI) but Microsoft has brought support into its Visual Studio IDE for this purpose.
+
+“Visual Studio also makes it seamless to not only develop your application but deploy and provision into various Azure PaaS services like Azure App Service, Container Apps and so on,” Seth said.
+
+In addition, with .NET 7 Microsoft has made it easy for developers to set up CI/CD through GitHub Actions with a simple right click.
+
+“My favorite feature [of .NET 7] is the Docker-less, or the Docker Desktop-less support, primarily because as somebody who builds the container services in Azure, we have an effort we call code to cloud about how easy can we make it from a developer writing or fixing some of their code to get it up in the cloud? And anytime I can remove a layer and a layer and a layer, it makes it even faster,” Hunter said.
+
+For building client applications developers typically like to have choices, they select the right stack for building a client application. It comes down to a choice that they have to make, and it is a choice between reach and power. And it’s a sliding scale.
+
+“Depending upon the application needs, one can choose the right mix you know, fully web for most reach, and fully native for power or depth of integration with the OS, with the device, etc.,” Scott said. “In case some people need a little bit of both, there is always the hybrid client apps. Now .NET supports this entire spectrum.”
+
+Regarding observability features, .NET 7 has integration with Azure App Insights as well as support for the OpenTelemetry framework to enable developers to measure their .NET 7 cloud native application’s reliability and performance.
+
+Linux Support
+
+In addition, .NET 7 is the first major release following Microsoft’s collaboration announcement with Canonical, making .NET 7 available with Chiseled Ubuntu Containers.
+
+Microsoft recently announced that .NET is now available in the default package feed starting with the Ubuntu 22.04 LTS release. The company keeps pushing the bounds of making sure .NET runs well on Linux, as a platform.
+
+“Who would have ever thought in 2016 when we first started this journey, that Red Hat would come and ask for us to get in the box? Or Fedora would want us to be in the box,” Hunter said. “They want .NET in the box with Java and Node and Python and Go. I think that’s an amazing change from our closed source 2002-era .NET.”
+
+Other Features
+
+.NET 7 was released in conjunction with several other products, libraries, and platforms including ASP.NET Core 7, Entity Framework Core 7, .NET MAUI, Windows Forms, WPF and Orleans 7. And .NET 7 comes with native support for ARM 64.
+
+Orleans is a Microsoft cross-platform software framework that makes .NET a key platform for writing distributed applications for the cloud. “We’re making Orleans a core part of the .NET family,” Seth said. “Orleans helps make building distributed applications a lot more approachable. And several Microsoft services like Halo, Mesh and Azure actually already use this technology.”
+
+In addition, “.NET used to be this really verbose kind of language if you built an API, you had to write a lot of code, and we’ve been reducing the amount of code you have to write,” Hunter said. “That’s taking what we learned from things like Node.js and Python and making those kinds of capabilities available to our .NET customers.”
+
+Community Input
+
+.NET is used by more than 5.7 million developers on a monthly basis. It also continues to be one of the most loved frameworks by developers — three years in a ranking in that category in the Stack Overflow Survey of 2019, 2020, and 2021.
+
+The open source community can claim responsibility for several enhancements in the new release. .NET 7 has more than 28,000 contributions from over 10,000 community members, Seth said.

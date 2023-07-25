@@ -1,0 +1,19 @@
+EVGA left the GPU market with a bang, citing a poor partnership with Nvidia as the reason. Before it quit, it seems that it managed to make one last RTX 4090 GPU, or at least a prototype of it.
+
+This early prototype of the card shows us what could have been were EVGA still making GPUs. Surprisingly, it appears that this model could have been able to avoid the RTX 4090 melting debacle.
+
+EVGA made a 4090... and I have it!
+
+EVGA itself has delivered this early prototype to YouTuber JayzTwoCents. The fact that this prototype, which is perfectly functional, even exists proves just how sudden EVGA’s decision to quit making GPUs must have been. After all, what we’re seeing here is a proper flagship EVGA FTW3 GPU; if it was ever mass-produced, it certainly would have made our best GPU rankings. Due to the lack of a contract with Nvidia, EVGA doesn’t officially label it as an Nvidia card anymore, instead putting “Next Gen Graphics” on the shroud.
+
+The shroud is quite elegant and not overly massive for an RTX 4090. The card itself is matte black and silver, with three large fans, lacking the typical “gamer aesthetic.” Despite only running a “homemade” version of the vBIOS, the card is functional, but it doesn’t support GPU core overclocking; the card’s power limit cannot be raised above 100% in typical overclocking software.
+
+The card’s rear I/O backplate is screwed directly into the shroud, preventing issues with sagging — even though it’s such a bulky card that it takes up around four PCIe slots. Another interesting thing to note is the placement of the 16-pin power connector, which was relocated at the rear of the card and means the power cable is located there too.
+
+This is especially interesting because of the ongoing saga of melting RTX 4090 power connectors. Although Nvidia is yet to take an official stance on the matter, all signs point to the fact that bending the cable can cause thermal problems that then lead to melting. Seeing as EVGA placed the power cable in a different position, this could have helped — provided users had enough room to spare within their case.
+
+As far as performance goes, Jay was impressed with how the card did. It apparently reached a memory frequency only rivaled by MSI’s RTX 4090 Suprim, and this is with a locked power limit. If not for that, the EVGA RTX 4090 would have fared even better.
+
+We’ll never know if EVGA could have avoided the melting problem, but it’s certainly nice to see what could have been. It’s only a shame that this prototype will never make it to the market.
+
+Editors' Recommendations

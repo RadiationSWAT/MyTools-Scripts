@@ -1,0 +1,13 @@
+Sonic Frontiers is finally out now on Xbox Series X and Xbox Series S (along with a bunch of other platforms), and it's been getting some fairly good reviews so far - although the Series S version has suffered quite a few complaints.
+
+Basically, a lot of Series S owners have been discovering that Sonic Frontiers appears locked to 30FPS on the console, which seems strange considering Sonic Frontiers is designed to be focused around fast and smooth gameplay.
+
+Here's what one owner had to say about the problem on Reddit earlier this week:
+
+"Just started playing my pre-order and I'm still in shock. A fast-paced Sonic game on a current gen console... at 30fps? Also, yes, I searched the menu for a performance mode, but nothing. You would think maybe they could patch in a 60fps mode, but considering the large amounts of environmental pop-in I saw on my first playthrough? I'm not too optimistic..."
+
+Following multiple reports of this, TheGamer reached out to SEGA for a response, and was provided with a workaround which involves going into the main settings of your Xbox and changing the display to 1080p rather than 4K.
+
+Apparently, doing this should allow Sonic Frontiers to run at 60FPS, although obviously it's not an ideal solution in the long-term, and hopefully SEGA will patch the game to run at 60FPS regardless of your console's display settings.
+
+In another separate message this week, Sonic Social Media Manager Katie Chrzanowski confirmed that the development team was still looking into the problem:

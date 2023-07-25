@@ -1,0 +1,9 @@
+You no longer need to pull out your phone to use Google One's virtual private network. Google has released One VPN apps for Mac and Windows systems. As on mobile, the VPN encrypts and otherwise masks your internet traffic. You can't use it to access content from other regions like you can with some VPNs, but it should help if you're worried about exposing your IP address (potentially useful for tracking) or using a public hotspot.
+
+The VPN requires at least the $10 per month 2TB Google One plan, although you can share access with up to five other people. Desktop support is available in all 22 countries where the service is available, including the US, Canada, Mexico, UK and much of Europe. You'll need at least macOS Big Sur or Windows 10. There is a caveat — while the Mac app works for both x86 and ARM users, the Windows app doesn't support 32-bit or ARM-based systems. You'll have to look elsewhere if you're hoping to secure your ARM-powered Surface Pro.
+
+As before, Google has independent bodies audit its VPN. It also shares the source code for its app libraries to ensure transparency. The audit for the desktop apps will be made public in the "coming weeks."
+
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on
+
+The desktop apps are arguably overdue when many VPN providers have long supported multiple platforms. This isn't necessarily the best option, depending on your needs. Mozilla's VPN includes regional server choices for $60 per year, and you can even get a free Opera VPN if you're only worried about protecting your browser activity. Google's advantage remains the bundle — you're really buying cloud storage that happens to include a VPN among its benefits.

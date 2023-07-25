@@ -1,0 +1,69 @@
+Apple may not be the pro-privacy company it so proudly proclaims to be.
+
+A new study finds the tech giant is collecting data on its customers while they use its apps, even when they have turned off analytics sharing.
+
+The discovery was made by two developers who found the tech giant is recording your every move in their own pre-installed App Store, Apple Music, Apple TV, Books and Stocks apps.
+
+These apps were found to send Apple requests that include what apps a user looked at, including those relating to sexual preference and religion, the stocks they are watching and what advertisements they saw.
+
+The data collection also includes ID numbers and the type of device used, which is enough for device fingerprinting.
+
+The study comes just a little over a year since Apple released its controversial privacy control that required iPhone users to give permission for apps to track their activity for advertising purposes, which dug into revenues of many companies and developers that relied on advertising.
+
+It is not clear why Apple is backtracking on its pro-privacy stance, but it recently added advertisements to the App Store app and the data collection could be a way to better understand how their ads are working.
+
+The independent study was conducted by a pair of software developers who found Apple is recording your every move in its built-in apps, including the App Store, Apple Music, Apple TV, Books and Stocks
+
+Apple Device & Privacy support page states that it must have consent from the user to collect such information from devices.
+
+‘None of the collected information identifies you personally,’ the page reads.
+
+‘Personal data is either not logged at all, is subject to privacy preserving techniques such as differential privacy, or is removed from any reports before they’re sent to Apple.’
+
+DailyMail.com has contacted Apple for comment.
+
+Tommy Mysk and Talal Haj Bakry, the security researchers who uncovered the data collection, posted videos on Twitter showing how the information is stored by Apple.
+
+The team, however, notes in a video about their study that ‘the behavior of iOS 16 is likely to be the same.’ The video shows a screen with several requests, all time stamped, that are sent to Apple from the App Store app
+
+The data in a single request shows Apple is collecting ID numbers that can identify the user
+
+This was only found in iOS 14.6 - ‘It's unclear if Apple still collects analytics data in iOS 16,’ the team shared in a tweet posted to their company account, Mysk.
+
+The team, however, notes in a video about their study that ‘the behavior of iOS 16 is likely to be the same.’
+
+The video shows a screen with several requests, all time stamped, that are sent to Apple from the App Store app.
+
+The requests are each time the user was in the App Store app.
+
+Within a single request are redacted IDs that can identify the session and map it to the user’s data profile.
+
+Also hiding in the collection of data is the user’s device that is being used.
+
+The example shown in the video shows the person is using an ‘iPhone 10’.
+
+Also hiding in the collection of data is the user’s device that is being used. The example shown in the video shows the person is using an ‘iPhone 10’
+
+The request also shows the user viewed the app Daily Themed Crossword Puzzles while searching through the App Store and how long they spent looking at it
+
+The video also shows the user viewed the app Daily Themed Crossword Puzzles while searching through the App Store and how long they spent looking at it.
+
+While a crossword puzzle app might sound harmless, Gizmodo provides a more serious reason why Apple's data collection should not be ignored.
+
+If you are searching for mental health, sexual orientation and religious apps in the App Store, this data is sent directly to the tech giant's servers and stored - some of this may be sensitive information for some people.
+
+The researchers conducted similar testing with the Google Chrome and Microsoft Edge apps and found that when the analytic sharing is disabled the apps cannot collect data from the device.
+
+Not only is collecting data without consent a serious issue, but Apple positions itself as a company that respects its user's privacy.
+
+Apple rolled out the privacy control feature in 2021, which CEO Tim Cook said is giving people back the power to decide which companies and developers can track them - but it seems Apple is above its own values
+
+On its Privacy page, the tech giant clearly shares: 'Privacy is a fundamental human right. It’s also one of our core values. Which is why we design our products and services to protect it. That’s the kind of innovation we believe in.'
+
+The findings also suggest that Apple is more of a 'do what I say and not as I do' type of company, as its privacy controls penalized many companies and developers for collecting similar data on users.
+
+The control appeared as a full-screen notification that asked users if they consent to being tracked 'across apps and websites owned by other companies'.
+
+Those ads in large part paid the bills for Facebook and other app makers, publishers and small businesses.
+
+But Apple CEO Tim Cook has repeatedly defended the update, which was part of Apple's iOS14 operating system, arguing it was necessary because targeted advertising is 'manipulating' people and being served to their devices without their explicit permission.

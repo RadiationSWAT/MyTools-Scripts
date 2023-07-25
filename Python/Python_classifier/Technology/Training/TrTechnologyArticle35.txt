@@ -1,0 +1,21 @@
+If you stumble upon a website asking you to download the latest update for the Adobe Flash Player - maybe think twice, as a new campaign to distribute a malicious browser add-on for Chromium-based browsers has been discovered by cybersecurity researchers from Zimperium
+
+The experts warn that the only thing you’ll be downloading is the Cloud9 browser botnet that can do all kinds of nasty things through the Chromium browser (opens in new tab).
+
+According to their research, Cloud9 is an add-on that can do various malicious acts, such as stealing online accounts, logging keystrokes, silently loading ads, and using the browser in Distributed Denial of Service (DDoS (opens in new tab)) attacks. Should it be allowed to do so, the add-on will also abuse various exploits to drop additional malware to the target endpoint, becoming even more dangerous.
+
+Keksec is at it again
+
+"Layer 7 attacks are usually very hard to detect because the TCP connection looks very similar to legitimate requests," Zimperium explained. "The developer is likely using this botnet to provide a service to perform DDOS."
+
+The researchers believe a group known as Keksec is behind the latest malware distribution campaign, as it uses the same command & control (C2) servers that were used by Keksec in the past. This wouldn’t be Keksec’s first botnet, as they’ve developed EnemyBot, Tsunamy, Gafgyt, DarkHTTP, DarkIRC, and Necro, already.
+
+With this latest product, they don’t seem to be targeting anyone specific, as the victims are spread all over the world. Another possibility is that Keksec is actually selling or renting the tool to other threat actors, hence the diverse victims list.
+
+Responding to the findings to BleepingComputer, Google warned users to always update their browsers to the latest version and have up-to-date security protections.
+
+“Users can also stay better protected from malicious executables and websites by enabling Enhanced Protection in the privacy and security settings in Chrome,” Google added. “Enhanced Protection automatically warns you about potentially risky sites and downloads and inspects the safety of your downloads and warns you when a file may be dangerous.”
+
+These are the best firewalls (opens in new tab) right now
+
+Via: BleepingComputer (opens in new tab)

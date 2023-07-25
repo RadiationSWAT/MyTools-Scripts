@@ -1,0 +1,41 @@
+Google
+
+Ron Amadeo
+
+Starting this month, users who have been holding out on the new Gmail design introduced earlier this year will be forced to switch.
+
+The latest design was first introduced as an opt-in update in February and then became opt-out this summer. Now it's just Gmail, full stop.
+
+The design didn't change too much about how Gmail works; it mostly just changed the color scheme—gone is the Gmail-brand red styling in favor of a more neutral and blue-ish-by-default look in line with the company's "Material You" design principles. You can tweak the coloring yourself anyway.
+
+The most notable change in the new design is the addition of a second sidebar on the far-left side of the screen next to the regular Gmail sidebar; it includes things like your Inbox and Labels. The additional sidebar was Google's effort to push Chat, Spaces, and Meet—the products the company built to compete with Slack and Zoom in the virtual office world. By default, the bar included links for Gmail, Chat, Spaces, and Meet... and a whole lot of unused white space.
+
+Google said this sidebar was introduced to make it easier to move between these apps without having to bounce between browser tabs, but it was a promotional move as much as anything since those services aren't nearly as popular as competitors like Slack, Zoom, and Microsoft Teams are with some companies.
+
+Advertisement
+
+All that said, you can remove the new sidebar completely—which wasn't the case when it was first introduced early this year.
+
+In July, Ars Technica's Ron Amadeo wrote about how you can ditch that sidebar:
+
+This new "no-sidebar" option isn't very obvious, but you can kill the Gmail sidebar by turning off Google Chat and Google Meet. Just head to the settings gear, then the "Customize" link under "Chat and Meet." Un-tick both checkboxes and the sidebar will disappear, allowing you to reclaim a lot of screen real estate.
+
+Doing so makes the regular Gmail sidebar behave more like it did in the previous design, too. Whether you stick with the sidebar or not, though, you can no longer configure Chat on the right side of Gmail.
+
+Amadeo also explained how you can tweak the background color to get it a bit closer to what you knew before:
+
+Gmail still has a theme system, so you can change the color to whatever you want. Click on the settings gear in the top right, and then under the "theme" section, click "view all." The background closest to the old Gmail is the solid "soft gray" background option. To truly match the Old Gmail background, you would want "white," but that's not an option.
+
+That won't quite get you an exact replica of the old look, but it's pretty close. Of course, if you're not too fussed about the new design, you can just roll with it—it's likely more convenient in the event that your organization makes heavy use of Chat or Meet.
+
+Ron Amadeo
+
+Ron Amadeo
+
+Google
+
+Ron Amadeo
+
+Go to discussion...
+
+Listing image by Samuel Axon

@@ -1,0 +1,17 @@
+Early next year, Samsung is expected to unveil the Galaxy S23, Galaxy S23+, and the Galaxy S23 Ultra, featuring the Snapdragon 8 Gen 2 chipset. But how good will that new chipset be? Well, the MediaTek Dimensity 9200, which went official yesterday, should give us a fair idea about Qualcomm’s upcoming flagship chipset.
+
+Previous leaks have hinted towards a similar performance from the Dimensity 9200 and the Snapdragon 8 Gen 2, and they could have better GPU performance than Apple’s A16 Bionic chipset.
+
+Dimensity 9200 is a 4nm chip with ARM’s latest CPU and GPU cores
+
+The Dimensity 9200 is fabricated using TSMC’s second-generation 4nm process node, which means it is quite power-efficient. It has one ARM Cortex-X3 CPU core clocked at 3.05GHz, which offers 25% higher peak performance over the Cortex-X2 CPU core. The chipset has three ARM Cortex-A715 CPU cores clocked at 2.85GHz and four ARM Cortex-A510 CPU cores clocked at 1.8GHz.
+
+Overall, MediaTek claims its new chipset offers 12% faster single-core performance and 10% faster multi-core performance. Moreover, the company claims that its new chip consumes 25% less power compared to the Dimensity 9000. The Dimensity 9200 also takes a lot more time to heat up, thanks to its new thermal layer, which means that you can game for longer without any performance drop. The new processor is compatible with LPDDR5X memory (up to 8,533Mbps) and UFS 4.0 storage chips.
+
+The new ARM Immortalis-G715 GPU is 32% faster than the Dimensity 9000 and has a 41% drop in power consumption. MediaTek claims that its new chipset offers the industry’s best graphics performance. It features hardware raytracing, too. The DSP can drive Full HD+ screens at 240Hz, WQHD screens at 144Hz, and 5K displays (or two 2.5K displays) at 60Hz. We can expect similar (or slightly better) GPU performance from the Galaxy S23’s Snapdragon 8 Gen 2 SoC.
+
+Dimensity 9200 is MediaTek’s first chipset with integrated mmWave 5G connectivity, Wi-Fi 7
+
+While previous high-end MediaTek processors have had integrated 5G modems, they only had support for sub-6GHz 5G. The Dimensity 9200 is the first SoC from the company to feature mmWave 5G connectivity. It means that the chipset can finally compete with Qualcomm’s chips, which is essential to succeed in North American markets. Other connectivity features include Wi-Fi 7 and Bluetooth 5.2 (with LE Audio and Auracast support).
+
+The chipset’s Imagic 890 ISP natively supports RGBW camera sensors, which means that it can capture 90% brighter images. It supports 200MP sensors (like ISOCELL HP1 and ISOCELL HP3) and up to 4K 60fps and 8K 30fps videos with EIS support. The ISP can also process HDR videos captured from multiple cameras simultaneously.

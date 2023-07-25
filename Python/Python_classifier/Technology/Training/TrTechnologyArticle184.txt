@@ -1,0 +1,9 @@
+Following the release of the Leonardo Softhouse Fly the Maddog earlier this year, the team has been noticeably quiet. Outside of some updates here and there, the team hasn’t really provided information on what they have been working on. However, that changes today with the latest forum post from the team.
+
+In Stefano’s post, he recognised how quite they have been, but this has been for a good reason. Over the past few months, the team has been working on a new ’bridge’ application that will allow more features and functionality to overcome some of the limitations of working within MSFS. This new bridge, known as the ’MDClient’ allows ACARS pages to be added, CPDLC functionality, full integration with GSX Pro and much more.
+
+The new update for the Fly the Maddog on Microsoft Flight Simulator is currently in beta testing and the release is expected in the next few weeks.
+
+What is also exciting about this new information is the fact that the team can refocus its efforts on bringing the MD-88 and the MD-83 to the simulator. There isn’t any additional information on those right now, but we will be sure to keep our eyes peeled.
+
+Upcoming Update Changelog

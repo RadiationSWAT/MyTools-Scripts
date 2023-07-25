@@ -1,0 +1,25 @@
+Beijing (AFP) – Apple limited file-sharing for Chinese iPhone users Thursday, a month after reports that anti-government protestors used the function to share digital leaflets with strangers.
+
+Advertising Read more
+
+Smartphones sold by Apple in China can now only receive files from non-contacts for 10 minutes through the AirDrop mechanism before the feature automatically shuts off. AirDrop did not previously have a time limit.
+
+The update, rolled out in the operating system released overnight, means iPhone users will have to deliberately turn AirDrop on shortly before a file is shared to receive it.
+
+This makes it virtually impossible to receive unexpected files from strangers.
+
+The change comes after people used AirDrop to spread leaflets critical of the Chinese Communist Party in crowded public spaces after a man hung banners on a bridge in Beijing last month that called for the removal of "dictator and national traitor Xi Jinping" and an end to China's zero-Covid policy.
+
+Chinese censors quickly scrubbed online videos and posts referencing the protest, while hundreds of users on the popular payment and chat app WeChat had their accounts blocked after speaking about the rare act of rebellion.
+
+Apple did not immediately respond to AFP's request for comment, and did not give a reason for this specific change, but said in its update description for users that the operating system now "includes bug fixes and security updates".
+
+Apple phones sold outside of mainland China did not appear to be affected by the update, while iPhones sold in China displayed the limit regardless of which country the user's App Store account was based in.
+
+The California-based tech giant has previously faced criticism for appearing to make concessions to China's authoritarian government, including opening a data centre in the country as well as removing an app in 2019 that allowed Hong Kong pro-democracy protestors to keep track of police.
+
+On Thursday some Chinese social media users hailed the iPhone update as a positive step in preventing unsolicited messages from strangers, with one Weibo user saying the change would "greatly reduce the probability of iPhone users being harassed".
+
+Only a handful questioned why the function was only being rolled out on Chinese iPhones, with one Weibo commenter making a joke about Apple's CEO Tim Cook's friendliness with Chinese authorities: "So is Tim Cook a Party member or not?"
+
+© 2022 AFP

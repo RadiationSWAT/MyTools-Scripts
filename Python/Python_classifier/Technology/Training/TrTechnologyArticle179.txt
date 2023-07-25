@@ -1,0 +1,25 @@
+Vulkan 1.3.233 was released yesterday, and with the newest build comes three extensions to assist NVIDIA vendors with memory & ray tracing control.
+
+Vulkan adds three new additions for NVIDIA ray tracing and memory optimization for the company's graphics card architectures
+
+Vulkan 1.3.233 offers new NVIDIA vendor extensions and includes extended and updated documentation for the Vulkan API. The latest Vulkan NVIDIA implementations are
+
+Memory decompression
+
+Ray tracing invocation reorder
+
+Copy memory indirect
+
+Michael Larabel has broken down the individual additions to Vulkan for NVIDIA, which you can read on the website Phoronix. We will provide a summary below for easy reference.
+
+Vulkan is by design a low-level API that removes many of the abstractions found in previous generation graphics APIs. This is great for delivering maximum performance, but has the side effect of exposing more complexity to the developer. Fortunately, several excellent tutorials exist to help clear this hurdle and get productive quickly.
+
+Decompression for memory-to-memory is the most minimal addition to the newest API integration and allows for more efficient decompressing between graphics memory. Ray tracing invocation will allow more control of Vulkan ray-tracing, offering more efficient sorting between information. Finally, the copy memory indirectly executes copies within memory and imaging sections using indirect instruction sets. This process is done by a device reading indirectly from a buffer while the procedure is active. This action speeds up command buffer creation periods, especially when the system does not know the details.
+
+NVIDIA also sees the introduction of NVK, an open-source driver within Mesa specifically for NVIDIA. It is so far implemented for architectures ranging as far back as Turing to newer graphics sets. You can find the development information here.
+
+You can find more details at the Vulkan.org website, which is implemented in Windows, Nintendo Switch, MoltenVK (Mac systems), Linux, and Android operating systems. Regarding hardware, AMD, Arm, Imagination, Intel, NVIDIA, Qualcomm, Samsung, and Raspberry Pi utilize tools in one form or another.
+
+Also, check out their growing list of applications and games made explicitly with Vulkan, which are on the operating systems mentioned above. League of Legends Wild Rift and Marvel Future Revolution are some of the newest titles made with Vulkan's API.
+
+News Sources: Phoronix, Vulkan main website, Made with Vulkan page,

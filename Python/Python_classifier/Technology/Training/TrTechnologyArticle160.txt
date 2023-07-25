@@ -1,0 +1,73 @@
+Hello everyone!
+
+With the full spoiler now out, players are fervently poring over the cards that will soon be introduced onto Arena and either discussing their applications, brewing with them, and everything in between. Par for the course, I’m meticulously going over the spoiler for inspiration, but also, because I would hate to miss out on a sick card that goes unnoticed otherwise! With Wedding Announcement and Fable of the Mirror-Breaker being the most prominent examples, in recent memory, finding more of those cards would be an absolute delight, especially when you’re ahead of the pack.
+
+To that end, I spent yesterday discussing the cards I thought many players were overrating. While those cards could still have their place, I believe providing historical and present context can let players move on quicker to the real juicy stuff.
+
+While I was being a bit of a pessimist yesterday, today we get to the more exciting cards! Personally, I somewhat struggled to get to five overrated cards as I think a lot of these designs are not only cool as hell, but very functional in the right setting. For cards that I believe are currently being underrated, I had the exact opposite problem! I think there are so many cards flying under the radar right now that it was hard to narrow it down to five, but I did my best to pick the ones that seemed the most undervalued.
+
+With that out of the way, let’s talk about the top five cards that I think are currently being underrated in The Brothers' War.
+
+Honorable Mention: Citanul Stalwart
+
+I have this here as a quick honorable mention because it seems really easy to miss that this is in the set. While Jaspera Sentinel lost a toughness and Reach, having the ability to be a Jaspera Sentinel or Springleaf Drum seems really strong, maybe even bordering on nuts. It’s hard to say how much impact this will have, but definitely keep an eye on this one.
+
+Teething Wurmlet
+
+Look at that cute Lizard guy, 10/10.
+
+What? You still want a review? Fine.
+
+Scaling one drops always get a lot of attention of preview because, historically, many of these effects have not only been playable, but very strong. There’s different types from Experiment One to Pelt Collector to something like Evolved Sleeper, and Wurmlet obviously falls much more into the Experiment One territory. However, many players wrote off this Wurmlet quickly as the way to grow it is tougher than most others in this design space. Rather than just playing creatures, you have to play artifacts instead! This seems at odds with what a scaling one drop would want as you generally want to play these effects in Aggro and follow up with creatures, not with artifacts!
+
+If this was a normal set, I would agree that this would be a huge issue as you simply wouldn’t have enough good artifacts to make this card tenable – but this isn’t a normal set! I don’t think it would be difficult to get the requisite number of artifacts that you would be happy to play into an aggressive shell, and if this is consistently a 2/2 that can grow even larger, I think you got a pretty good deal. I’ll definitely be exploring this card more closer to the set coming out, but a scaling one drop you can just play cards into is quite powerful.
+
+Fauna Shaman
+
+Now here’s a nifty reprint! We actually already have Fauna Shaman on Arena as it was introduced to Historic some time ago, but they’re bringing it back once again!
+
+The last time it was in Standard was M11, and while I don’t believe it saw widespread play, it worked really well with Vengevine which was a nifty deck back in the day. In that vein, I feel a lot of players only view Fauna Shaman as some sort of combo card or synergy card, because in fairness, that’s where tutors generally work the best. However, despite that being the general use case of Fauna Shaman, I’m here to argue that you don’t need to be doing that for Shaman to be good!
+
+While it was before the huge power level spike in Historic, one of my favorite decks was Selesnya Company. The deck was decently fast, reasonably disruptive, and pretty grindy when it needs to be. It definitely wasn’t an incredible deck, but it was solid and powerful enough to win a lot of games.
+
+It’s weird looking at this and understanding that this, at one point, was not just a playable deck, but actively good! None the less, I thought the list couldn’t be further iterated on, but the deck desperately needed more two drops. On a whim, Fauna Shaman got a few slots to see if it was at all good, and once we got it into play, we instantly bumped it up to four copies of added a small toolbox to the deck.
+
+This deck was good, and as you can see, didn’t rely on Shaman, but made really good use of it. Just the ability to add generally good, but more situational cards to your main deck that you can tutor up at a moments notice is a really powerful ability for a deck to have. Obviously Historic has a big card pool which made this easier, but even in decks without the toolbox element, you can still use it to exchange the worst creature in your hand with the best creature in your deck. I think you do need to build around this slightly to make it worthwhile, but it’s far from crazy.
+
+However, we were only talking about not using it in any synergy or combo driven way, obviously you still very much can! I envision maybe using this in a reanimator deck that wants to play a midrange game as you can either tutor for your Titan of Industry or put your Titan in the graveyard to help find a more niche reanimator target. If we look at older formats, what if we have a more creature heavy version of Abzan Greasefang and we can more consistently find Greasefang? There are a lot of possibilities for this card and I believe it’s going to see more play than most will expect.
+
+Hurkyl’s Final Meditation
+
+This is something I have messed up time and time again, and I don’t intend on messing up for the millionth time.
+
+Let’s be clear, Time Walk effects are extremely powerful, and within the past few years, have dominated many Arena formats. Even decks like Mono Blue Oracle or Jeskai Control in Alchemy were/are really powerful because they had a chance to find a Time Warp effect, and not even the most consistently! These effects can be game breaking as you can accrue an insane amount of value, and if you ever chain them, good luck beating that. The last effect that Standard was subjected to was Alrund's Epiphany, which didn’t seem so bad at first, but was quite broken once insanely powerful sets like Eldraine and Ikoria rotated out of Standard.
+
+Now here we are again. I see a Time Warp esque spell that doesn’t look very good, but I want to think I learned my lesson. I didn’t think Nexus of Fates was good as it was expensive and looping it would be too difficult. I didn’t think Alrund's Epiphany was good as the good part of Nexus of Fates was looping it, seven mana would be too prohibitive and just getting some Birds isn’t enough of a payoff. Now, I initially didn’t think Hurkyl's Final Meditation was good as it’s not an inherent win condition and is ten mana for the Time Walkeffect (that lets the opponent untap). However, considering my track record for these effects isn’t good, I’m assuming this is going to be undervalued by most as well for similar reasons.
+
+Ten mana is definitely a lot of mana for a Time Warp, and worse yet, letting the opponent untap first so they could potentially counter it is brutal. However, being able to simply cast this for seven mana to bounce everything is still quite powerful. Better yet, if the opponent casts something on your end step, you can use this as a counterspell and reset button which is pretty powerful as well.
+
+Like Nexus of Fates and Alrund's Epiphany before it, it’ll probably take some time for the right shell to be found for this, but I would be very surprised if it rotates out without a powerful deck constructed around it.
+
+Bladecoil Serpent
+
+Moving on to the artifacts section of the artifact set, we have a super sweet Mythic that has already been relegated to Commander – Bladecoil Serpent
+
+Here’s what I think is a somewhat easier case, I think this card is just a good card. The color requirements are a bit wonky, but let’s break down the general modes of this card.
+
+If you spend all Blue on it, it’s a six mana 5/4 that draws three cards on entry, all Black and it makes the opponent discard three, all Red and it’s a 8/4 Trample Haste the turn it comes in. The Blue and Black modes on this are really powerful, while the pure Red one is pretty weak. However, there are two major things to note – you can spend different types of mana and you can go above six mana!
+
+The most typical place you would find Serpent is in a Grixis deck, and if you can control what modes you’re getting (which you should most of the time), you’re going to get a pretty great deal. The most general uses of this are going to be the card advantage aspects of it – drawing cards or forcing the opponents to get rid of theirs, but being able to give it Trample and Haste can easily kill people out of nowhere which would have to be respected if it’s in your deck.
+
+The main issue I have with this card is that it’s hard to say if this would be played alongside Invoke Despair, as personally, I still think Invoke Despair is the more powerful card, but I think it would at least be worth looking into. Furthermore, this could see play in two color, or even mono colored decks, so there’s a lot of flexibility there. The bar is really high for expensive cards in Standard, and six mana is generally a pretty prohibitive cost, but if any card has the chops to make a splash despite that, I’m thinking it’s Bladecoil Serpent.
+
+Razorlash Transmogrant
+
+For the final underrated gem of the article and one of my favorite cards in the set, we have Razorlash Transmogrant.
+
+First off, I would say that this card is only being half underrated at this point. Since this is similar to Scrapheap Scrounger, many players correctly identified that this seems solid in Mono Black Aggro. However, know what card also seemed good in Mono Black Aggro and turned out to be a multi-deck all star? Tenacious Underdog.
+
+I’ll admit that Tenacious Underdog is a really tough act to follow as the card does a lot of things. It attacks, it blocks, it draws cards and provides pressure all throughout the game. Razorlash Transmogrant can only do half of these things – it can’t block unfortunately and it doesn’t draw cards. That may seem like it’ll relegate it solely to aggressive strategies, but I think this has an absurd amount of potential off the back of its activated ability. For six mana, you can bring it back at any time from your graveyard with a +1/+1 counter on it! Nifty! While that’s rather expensive, it gets a nice cost reduction of 4 if the opponent controls four or more non-basic lands making it a BB ability when that happens. So what decks run that many non-basics? Try practically all of them. Tenacious Underdog is such a pain as it gives players things to do when they run out of gas, and while drawing cards and dealing damage is great, it still costs four mana and two life to do that. Transmogrant, on the other hand, only asks for two mana later in the game to get a sizable attacker. This may seem like it’s not that powerful, but having a threat that really doesn’t stay down and can come back easily is really scary. Furthermore, a four power attacker is really hard to ignore with only Sheoldred, the Apocalypse matching up well against it. The obvious disadvantages of this card are that it can’t block with that solid stat line and the opponent needs to have the non-basics to bring this back, but realistically, you’re not looking to bring this back until later in the game anyway. Even if Transmogrant turns out to not make a splash in midrange decks, this will still be a Scrapheap Scrounger that doesn’t require additional resources to come back with! If that’s not powerful, I don’t know what is.
+
+Overall, while still worse than Tenacious Underdog, I think this is much closer than people give it credit for.
+
+Thank you for reading! Agree or disagree? Come join our Discord community, discuss the new spoilers, and more.

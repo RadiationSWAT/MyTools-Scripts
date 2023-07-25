@@ -1,0 +1,31 @@
+Oculus VR was founded by Palmer Luckey while he simultaneously designed the Oculus Rift back in 2012. That said, Luckey did not stop there. Well, until 2014 when Facebook acquired Oculus, and Luckey then went on to work in a rather different area of the technology industry.
+
+Speaking of Oculus, take a look at the trailer for experimental physics action game, Bonelab, which recently came to VR.
+
+That said, Luckey clearly hasn’t let his passion for virtual reality sit by the sidelines, with the creator having created an all-new VR headset that is capable of killing you.
+
+The monstrous headset is inspired by the popular Japanese light novel and anime series that is Sword Art Online. If you’ve not seen the show, the story follows Kirito who takes part in an MMO RPG using a virtual reality headset that, in this instance, is called NerveGear.
+
+Now, the catch is that a dozen players find themselves trapped inside the game, and thus, trapped inside the NerveGear. You can probably gather where this is going, but the MMO Kirito finds himself in soon becomes all too real, and those who die in-game… well, they die in real life too.
+
+"This might be a game, but it is not something you play."
+
+
+
+To commemorate the Sword Art Online Incident of November 6th 2022, I made the OQPNVG, the first virtual reality device capable of killing the user - if you die in the game, you die in real life.https://t.co/F3nkP5EU61 — Palmer Luckey (@PalmerLuckey) November 6, 2022 To see this content please enable targeting cookies. Manage cookie settings
+
+So, it makes perfect sense as to why Luckey took inspiration from the story of Sword Art Online, and if you’re an anime fan that hasn’t seen it, I wholly recommend it. That said, it kinda sucks after the first season.
+
+The new headset from Luckey, named the OQPNVG, was unveiled in a blog post on November 6. This date aptly aligns with the day in which the events of Sword Art Online started. A real commitment to the cause from Luckey, that’s for sure.
+
+Get your ears wrapped around VG247's Best Games Ever Podcast. It's brilliant, and that's not just a view we hold as the people that make it. 30 mins, funny, and you can even play along at home by shouting out your suggestions. We won't hear you, but you'll have fun! Get all the podcast episodes here.
+
+In his blog post, Luckey explains in depth as to how the creation of the Oculus Rift and Sword Art Online coincided with eachother. He shares how the headset itself made the series seem all the more grounded in reality, and in turn, the show actively aided with sales. Ultimately, Lucky says, “this synergy had meaningful impact on our dev kit sales and adoption – literally thousands of people reached out to me asking variations of ‘Have you seen Sword Art Online? When will you make the NerveGear real?!’.”
+
+Luckey then follows up by discussing what everyone is actually interested in, and that’s the killer headset that could very well be an all-too-real NerveGear in the years to come. “The good news is that we are halfway to making a true NerveGear The bad news is that so far, I have only figured out the half that kills you,” shares Luckey.
+
+So, how does the headset intend on killing players? Well, in the series, NerveGear contains a microwave emitter that can reach lethal levels. It appears Luckey attempted to do something similar, and the final result was three explosive charge modules, which he notes he’d normally use for a different project (likely referring to his work with military defense technology…).
+
+Now, the OQPNVG is yet to be tested, or even worn for that matter. There are simply too many risks involved that could see the headset kill someone unintentionally, so it’s no doubt safer sat on Luckey’s desk (in a room as far away as possible, I hope), rather than a test dummy’s head.
+
+Last, but not least, Luckey concludes by sharing that as far as he’s aware, this is “the first non-fiction example of a VR device that can actually kill the user. It won’t be the last.”

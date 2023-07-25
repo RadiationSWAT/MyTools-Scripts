@@ -1,0 +1,21 @@
+The European Commission today said its preliminary investigation of Microsoft's proposed $69 billion purchase of Activision Blizzard "may significantly reduce competition on the markets for the distribution of console and PC video games." As such, the government group is now opening what it calls an "in-depth investigation" of the proposed merger, which it says will be completed by March 23, 2023.
+
+"We must ensure that opportunities remain for future and existing distributors of PC and console video games, as well as for rival suppliers of PC operating systems," European Union Competition Commissioner Margrethe Vestager said in a statement. "The point is to ensure that the gaming ecosystem remains vibrant to the benefit of users in a sector that is evolving at a fast pace. Our in-depth investigation will assess how the deal affects the gaming supply chain."
+
+Specific concerns
+
+In announcing the new investigation, the Commission says that it is worried "in particular" that the merger will "foreclose access" to "high-profile and highly successful games... such as Call of Duty" on non-Microsoft platforms. In response to such concerns, Microsoft recently promised that it would ensure Call of Duty remained on PlayStation platforms "as long as there is a PlayStation."
+
+The Commission's announcement also highlights concerns that the merger may cut off access to Activision Blizzard games on competing "multi-game subscription services and/or cloud game streaming services." Such a move could be to "the detriment of its rival distributors of console and PC video games" by making competing subscription services such as PlayStation Plus less appealing.
+
+Advertisement
+
+There might be something to that argument—in September, a Microsoft blog post highlighted how the company intends to make Activision Blizzard franchises like Overwatch, Diablo, and Call of Duty a core part of Game Pass subscriptions post-acquisition. But Microsoft argues that this move would actually "bring more games to more players, not fewer" because of cloud-streaming technology that allows for Game Pass titles to be played on mobile platforms (but probably not, say, on the Nintendo Switch ).
+
+Finally, the Commission says it worries that Microsoft's control of Activision Blizzard's games catalog could "discourage users to buy non-Windows PCs." That's a bit of a strange argument, though, since Windows currently represents over 96 percent of total usage on the popular PC gaming platform Steam. It's hard to see total control of Activision content meaningfully increasing that number.
+
+The EU's in-depth investigation is operating parallel to a similar "Phase 2" investigation by the UK's Competition and Market Authority . Hearings are scheduled for December in that investigation, which is expected to wrap up by March 1, 2023
+
+In the US, the Federal Trade Commission has reportedly and privately expressed "significant concerns" about the proposed transaction as part of a "staff level" review. An initial decision in that case could come as soon as late November, at which point it would be sent on to the FTC's full Bureau of Competition.
+
+Go to discussion...

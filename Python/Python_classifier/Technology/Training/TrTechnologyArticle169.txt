@@ -1,0 +1,19 @@
+PCI-SIG working on updated 12VHPWR connector, but it won’t address the melting problem
+
+PCI-SIG, the organization behind all things PCI Express, is now reviewing a potential change to the 12VHPWR connector.
+
+Although the data is not available to the public, some revision updates have been posted by the organization members, such as Amphenol. The change would add more shroud and gripping features around the extra 4 data pins.
+
+PCI 12VHPWR connector revision, Source: Moddiy
+
+However, this will not solve the problem of melting connectors because data pins do not carry high electrical loads. If those pins are accidentally damaged, either through a user error or broken data path, the graphics card will simply operate at a lower wattage.
+
+According to Corsair PSU Expert Jon Gerow (Johnguru), the issue of melting power connectors may be as simple as the wrong connection between the cable/adapter and the connector on the graphics card. There should be no gap between the cable and connector, as shown below.
+
+Incorrect (left) and correct (right) way to plug the 12VHPWR cable, Source: John Gerow
+
+What is important to note here though is that not all connectors will fit this way. Since this recommendation was made by Johnguru, some users claim that their 12VHPWR cables simply do not go all the way as recommended. This raises the question of whether the connector specs are wrong, or the power adapter is to blame.
+
+If the problem is really as easily solved as mentioned above, then there is no reason for NVIDIA to stay silent. The company could simply post a recommendation on how to insert the cable correctly and what to do if it does not fit. Unfortunately, the company has gone silent after it confirmed it is investigating the issue.
+
+Source: JohnGuru (archive), MODDIY, Wccftech

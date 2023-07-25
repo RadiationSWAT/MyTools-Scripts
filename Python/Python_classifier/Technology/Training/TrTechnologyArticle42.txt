@@ -1,0 +1,17 @@
+12VHPWR is no longer an exclusive to NVIDIA
+
+The company behind the ATX 3.0 specs adopts the new power connector.
+
+Data Center GPU Max 1100 GPU with 12VHPWR connector, Source: Intel
+
+The so-called PCIe Gen5 or 16-pin or 12VHPWR power connector is not technically a requirement for ATX 3.0 power supplies. However, modern ATX 3.0 PSUs that have been announced thus far feature such connector for at least one graphics card.
+
+NVIDIA was first to adopt this power connector for its RTX 40 GPUs. It can replace up to four 8-pin cables worth of 600W of power. This revolutionary design is not entirely a success for NVIDIA, though, as a few cases of melting connectors and adapters have already been reported by users. NVIDIA is now set to launch its second RTX 40 GPU (4080) next week, while the company’s investigation on the matter continues.
+
+Meanwhile, Intel announced its new Data Center GPU Max 1000 GPUs based on Ponte Vecchio processor. The company will be offering various implementations of this graphics architecture, based on OAM form factor or PCIe. Interestingly, the latter is equipped with 12VHPWR connector, meaning NVIDIA will no longer be the only company using it.
+
+Data Center GPU Max 1100 GPUs, Source: Intel
+
+The 12VHPWR connector will remain exclusive to NVIDIA until January 2023, which is when Intel is planning to launch its Max 1100 PCIe series. However, no desktop gaming products besides GeForce are now expected to feature this connector. Neither AMD with their Radeon RX 7000 series, not Intel with Arc Alchemist, were eager to join NVIDIA in adopting the standard.
+
+Source: Intel via Hassan Mujtaba

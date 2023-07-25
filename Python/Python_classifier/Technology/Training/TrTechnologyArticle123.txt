@@ -1,0 +1,13 @@
+Spotify is giving its Apple Watch users some love, adding UI and playback upgrades that more closely align with the familiar experience from larger screens. In an update that starts rolling out today, watchOS users will see a beefed-up Your Library view with more in-depth music controls and the ability to download playlists without going back to your iPhone.
+
+Before today's update, Spotify's Apple Watch features were rudimentary. For starters, the app displayed the Your Library view as a text-only list of titles. The new update provides a more attractive UI, including artwork thumbnails. In the watchOS app's old version, once you tapped on an album or playlist, it would immediately launch playback without letting you choose any options beforehand. The new update adds a screen with two prominent buttons for downloading and shuffling your music.
+
+Spotify initially added offline playback in an update from May of last year, but that version still required you to use your iPhone to choose offline music, and you could only download individual songs to your wearable. Downloading entire playlists and albums without pulling out a phone will be a welcome addition for Apple Watch owners. The new update also lets you swipe to like a song from the list view, a gesture already familiar to users of the Spotify iOS app.
+
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on
+
+Spotify
+
+Today's update also improves Apple Watch podcast playback, letting you view your listening progress and pick up right where you left off. The previous version would always restart podcasts from the beginning.
+
+In addition to the Apple Watch app upgrades, Spotify also highlighted new tap-to-listen controls for Meta's Ray-Ban Stories and music curation for the overhead boarding music on Delta airlines. The company also announced support for the “Ambient Experience” that displays playlist or podcast artwork on Fire TV Omni QLED Series TVs when you aren’t watching anything. Owners of the $800 and up television can scroll through their music using either the TV's remote control or Spotify Connect devices.

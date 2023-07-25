@@ -1,0 +1,21 @@
+Apple has made a useful little enhancement in the latest iOS 16.2 beta for iPhone 14 Pro users. In earlier versions, iPhone 14 Pro would only show two status icons (battery and either WiFi or single bars), as the activated Dynamic Island content was very wide.
+
+However, this is no longer the case. Now when playing music, the island compresses down in width to allow all three status icons to be visible — complete with a sleek animation.
+
+Depending on the Live Activity, the iPhone 14 Pro can show two or three icons. Activities with more content naturally take up more space, and induce status icon truncation.
+
+The truncation state is suboptimal. It isn’t immediately obvious that the island is the reason the status indicators have been hidden. You can sometimes accidentally think you have lost cellular signal altogether, because the icons vanish.
+
+But with the 16.2 beta change, one of the most common activities that users see — Now Playing audio — will no longer be such a cause.
+
+In keeping with the fluid vitality users expect from the Dynamic Island, this 16.2 behaviour also features a very smooth animation. As seen in the example video, after closing the Music app, the island first takes up the larger width and gradually shrinks down. The single bars animate in their appearance in coordination.
+
+Note that iPhone 14 Pro Max users did not have this annoyance because the bigger screen meant there was enough space to show three icons at all times.
+
+This is the latest enhancement to the Dynamic Island, which has seen several improvements in successive software updates since the iPhone 14 Pro launched in September.
+
+For instance, iOS 16.1 added Dynamic Island support for Reachability, and added a battery status view while in landscape orientation. iOS 16.1 also launched Live Activities API, allowing third-party apps to take advantage of the shiny new hardware feature.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

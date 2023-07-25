@@ -1,0 +1,53 @@
+‘Cablegate’ is in full flow right now. Nvidia is in hot water, with rising cases of new GPUs encountering thermal issues and becoming damaged. The situation is still developing, so this is our full roundup of all the details and a timeline of events.
+
+Nvidia’s newest flagship GPU, the RTX 4090 , is allegedly the victim of a fatal flaw found within its 16-pin power adapter. To date, 23 confirmed cases (and 6 more unconfirmed) have been recorded in a Reddit mega thread (opens in new tab), with more reports landing regularly. Nvidia has responded to complainants (and some inquiring YouTubers) to say that it is investigating the issue.
+
+The GPU was released on October 12, with the first reports emerging less than two weeks later. The mega thread on the r/nvidia subreddit started recording cases on October 24, with new cases emerging almost every day. Shoutout here to the diligent work of the r/nvidia moderators for compiling the list of reports and providing links to the original posts.
+
+What is happening?
+
+Essentially, the overheating issue is caused by a type of power adapter included with the RTX 4090. Called the ‘12VHPWR’ adapter, it’s a 16-pin connector that allows ATX 2.0 power supplies to connect with the gargantuan GPU via standard PCIe cables.
+
+The 12VHPWR adapter was developed in partnership with the PCIe Special Interest Group (PCI-SIG), a consortium of tech manufacturers that oversees the development of the PCIe connection standard. Nvidia is a key member of the PCI-SIG, and employed the 12VHPWR adapter for the RTX 4090 (and the upcoming RTX 4080 ) because the power-hungry GPU was designed for use with newer ATX 3.0 PSUs, which aren’t yet widely used by PC gamers.
+
+Earlier this year, the PCI-SIG sent a memo to its member companies informing them that there could be ‘thermal variance’ issues in a small number of cases where the 12VHPWR connector was used with high-power connections. You can read our full analysis of the memo right here . The RTX 4090 has a base operating power of 450W, which certainly falls under ‘high-power’ components.
+
+What this means is that Nvidia was warned of the issue ahead of time, but it seems that Team Green conducted its own internal tests and concluded that the card was safe. Judging by the now double-figure count of documented cases, it isn’t; although nobody has actually been hurt yet, affected users have remarked that the plastic of the connector melts and the card emits smoke, meaning that an unattended one could pose a serious fire hazard.
+
+A damaged RTX 4090 power connector. (Image credit: Reggie_Gakil)
+
+Why is this happening?
+
+The exact cause of the melted power connectors has yet to be determined, which we believe is the reason for Nvidia’s relative silence on the topic - the GPU giant hasn’t released a major public statement or safety warning commenting on the overheating issue, presumably because it’s trying to work out the cause itself behind the scenes.
+
+There is, of course, an army of tech journalists and influencers trying to replicate the melting problem. There are a few different theories; the RTX 4090 is an enormous graphics card , meaning that users with smaller PC cases have had to bend the power cable at some rather harsh angles to make it fit against the window panel, and the argument goes that this is damaging the cable and causing the adapter to overheat.
+
+This theory has yet to be confirmed, and we recently learned that Corsair’s resident PSU wizard JonnyGuru published a report where he suggests that the adapter being improperly inserted into the GPU could be the cause. The issue appears to be localized to users with ATX 2.0 PSUs, since ATX 3.0 models don’t require the adapter.
+
+Judging by the reports coming through Reddit, no specific third-party model of the card is falling victim to melted cables; MSI, Gigabyte, and Asus have all been mentioned, among others. Interestingly, it seems that none of the reported cases have involved a Founders Edition card purchased directly from Nvidia.
+
+(Image credit: JonnyGuru)
+
+What is being done about it?
+
+At first glance: not much! As we noted above, Nvidia has yet to release a proper statement. In fact, Nvidia’s senior technical marketing manager said in an email to a concerned YouTuber that they were “worrying about issues that don’t exist”.
+
+Don’t worry though, Nvidia’s actual response isn’t so flippant. The short response we got from Team Green was this: “We continue to investigate the reports, however we don’t have further details to share yet. NVIDIA and our partners are committed to supporting our customers and ensuring an expedited RMA process for them.”
+
+The PCI-SIG has revealed that a revision process for the 12VHPWR connector is in place, with an expected completion date of December 20. There’s little doubt at this point that Nvidia is working frantically behind the scenes with its manufacturing partners to figure out a fix for this issue.
+
+Fortunately, the rest of the computer hardware industry hasn’t been resting on its laurels. In a fit of schadenfreude, AMD has triumphantly announced that it won’t be using the 16-pin connector on its next-gen Radeon RX 7000 GPUs , instead opting for a pair of conventional 8-pin PCIe connectors for its graphics cards .
+
+Elsewhere, some manufacturers have tried to produce their own solutions to the problem. Seasonic and CableMod have both announced that they will be producing right-angled connectors to prevent users from bending their cables at horrible angles.
+
+A render of CableMod's proposed power adapter. (Image credit: CableMod)
+
+What can we do about it?
+
+If you want to buy an RTX 4090 yourself (or you’ve been lucky enough to already find one), the odds of it catching fire are admittedly vanishingly low. While we don’t know exactly how many units Nvidia has sold, it’s sure to be a lot - the card sold out on day one, after all - but 23 confirmed failure cases isn’t astronomical, even if it’s also not statistically insignificant.
+
+If you want to basically guarantee the safety of your GPU, you can shell out for a new ATX 3.0 power supply, which should prevent the need to use the offending 12VHPWR adapter. Making sure that the adapter is properly connected is also a must (as per JonnyGuru’s advice) and if at all possible, avoid bending the cable too aggressively.
+
+Of course, our actual advice in this situation is to simply not buy an RTX 4090. Unless you’re a cash-flush Twitch streamer or a professional animator, you really don’t need $1,599 worth of graphics card. Hell, looking at the most recent Steam Hardware Survey (opens in new tab), we can see that the majority of PC gamers are still using older 1000- and 2000-series Nvidia GPUs. Our recommendation? Either wait for more cards to release, or look for a deal on a mid-range last-gen card, like the fantastic RTX 3070 .
+
+We’ll be back to update this article with any major developments in the ‘cablegate’ situation.

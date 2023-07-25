@@ -1,0 +1,29 @@
+Lenovo has fixed two high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models that could allow an attacker to deactivate UEFI Secure Boot.
+
+UEFI Secure Boot is a verification system that ensures no malicious code can be loaded and executed during the computer boot process.
+
+The consequences of running unsigned, malicious code before OS boot are significant, as threat actors can bypass all security protections to plant malware that persists between OS reinstallations.
+
+The problem arises from Lenovo mistakenly including an early development driver that could change secure boot settings from the OS in the final production versions.
+
+This means the vulnerabilities are not caused by a bug in the code but rather a practical error of including the incorrect driver on production devices.
+
+The presence of these drivers in multiple Lenovo products was discovered by ESET researchers, who reported it to the computer vendor.
+
+"The affected drivers were meant to be used only during the manufacturing process but were mistakenly included in the production," explains the Twitter thread by ESET.
+
+ESET says that the vulnerabilities can be exploited simply by creating special NVRAM variables and shared a link to a Twitter thread by Nikolaj Schlej that explains why UEFI firmware developers should not use NVRAM as trusted storage.
+
+The two flaws fixed by Lenovo via BIOS fix the following vulnerabilities:
+
+CVE-2022-3430 : Vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable.
+
+: Vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable. CVE-2022-3431: Vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable.
+
+There's also a third flaw of similar nature, tracked as CVE-2022-3432, impacting only Ideapad Y700-14ISK. Lenovo will not address this vulnerability as the affected product has reached its end of life (EOL).
+
+Owners of supported Lenovo computers can check the model list on the vendor's security bulletin to determine if either flaw impacts them.
+
+The firmware versions that fix the vulnerabilities are mentioned under the CVE IDs, so make sure to upgrade to that version or later.
+
+For official Lenovo software, check out this online support portal or run the update tool pre-installed on your computer.

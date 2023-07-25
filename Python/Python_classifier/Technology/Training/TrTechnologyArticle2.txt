@@ -1,0 +1,41 @@
+As expected, Apple is now rolling out iOS 16.1.1 to iPhone users. The update includes additional bug fixes and security improvements. It comes following the release of iOS 16.1 with a number of major new features last month and the continued beta testing of iOS 16.2.
+
+iOS 16.1.1 now available
+
+Users can now update to iOS 16.1.1 by going to the Software Update menu within the iPhone Settings app. The build number for the update is 20B101. Apple is also rolling out iPadOS 16.1.1 as well for iPad users.
+
+Apple’s release notes for iOS 16.1.1 indicate that the update includes bug fixes and performance improvements. The company hasn’t shared any specific details on what’s been fixed, but there were issues affecting the SKAdNetwork for developers as well as complaints about Wi-Fi connectivity.
+
+Apple says:
+
+This update includes bug fixes and security updates and is recommended for all users.
+
+Apple is also rolling out macOS Ventura 13.0.1 to all Mac users today as well. Here are the details on the security fixes:
+
+libxml2
+
+Available for: iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generation and later
+
+Impact: A remote user may be able to cause unexpected app termination or arbitrary code execution
+
+Description: An integer overflow was addressed through improved input validation.
+
+CVE-2022-40303: Maddie Stone of Google Project Zero
+
+libxml2
+
+Available for: iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generation and later
+
+Impact: A remote user may be able to cause unexpected app termination or arbitrary code execution
+
+Description: This issue was addressed with improved checks.
+
+CVE-2022-40304: Ned Williamson and Nathan Wachholz of Google Project Zero
+
+Following today’s release of iOS 16.1.1, Apple’s next software update for iPhone users will be iOS 16.2. This update is currently in testing with developers and public beta users. It includes a number of new features and changes, such as Apple’s new Freefrom collaboration app, updates to the Home app, and more. It’s expected to be released in mid-December.
+
+Have you found any other changes in today’s update? Let us know in the comments section below or on Twitter @9to5Mac.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

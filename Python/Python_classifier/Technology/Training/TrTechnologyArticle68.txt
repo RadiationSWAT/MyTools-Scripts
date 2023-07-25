@@ -1,0 +1,35 @@
+Palmer Luckey, originator of the device that evolved into the cornerstone of Mark Zuckerberg's crumbling metaverse empire, has developed a new headset with a twist: It can kill gamers in real life when they die in VR.
+
+Lest the idea of a billionaire being in possession of a murder headset concern you, Luckey said it's still just a piece of office art.
+
+The entrepeneur developed the first Oculus headset and sold his company to Facebook in 2014 for $2 billion. He has apparently used part of his fortune and spare time to develop a less advanced version of the headset from Sword Art Online, a Japanese novel, manga and anime series, that Luckey says will shoot users in the head with three explosive charges when it detects too much red light on the screen.
+
+In Sword Art Online the situation is a bit more advanced: The fictional headset, called NerveGear, isn't so much a pair of VR goggles as it is a direct brain interface that overwrites a person's senses, making their VR experience seem completely real.
+
+The premise of the series involves the creator of said game and headset trapping thousands of players in the virtual world of Aincrad, with the only escape being to reach the 100th floor of the game's primary dungeon.
+
+The creator of the NerveGear also developed the massive multiplayer online roleplaying game that gives the series its title, but slipped some secret code into the device that, if the player dies in Sword Art Online, uses microwaves to fry their brain and kill them.
+
+Those sorts of stakes are the only way to make a video game "feel" truly real, at least according to Luckey, who said so in a blog post. "This is an area of videogame mechanics that has never been explored, despite the long history of real-world sports revolving around similar stakes."
+
+Luckey said the "good news" in his post is that he's halfway to making a real world NerveGear, but so far he hasn't managed to develop the perfect VR half of the system, which he said is many years out. "So far, I have only figured out the half that kills you."
+
+Deadly microwave-producing devices won't fit in a headset, Luckey said, so in lieu of those he opted for three explosive charge modules that he cryptically said he "usually use[s] for another project." Those charges are tied to narrow-band photosensors that can detect when the headset's display flashes red at a certain frequency "making game-over integration on the part of the developer very easy," Luckey said.
+
+When the right game over screen appears, "the charges fire, instantly destroying the brain of the user."
+
+Expect more from murder headset 2
+
+Luckey's time at Meta, née Facebook, ended in 2017, not long after Oculus lost a lawsuit that found it guilty of infringing on software copyrights owned by game studio ZeniMax, and Luckey personally guilty of violating an NDA with the software company.
+
+Prior to that, Luckey was revealed as the source of $10,000 paid to pro-Trump internet trolls, causing several Oculus developers to boycott the platform and demand the Oculus founder be fired. Luckey was marginalized at Facebook when the company hired someone else to head up its VR efforts, and two months later "stepped down" from the company.
+
+Along with building murderous VR headsets in his spare time, Luckey has gone on to form defense technology company Anduril Industries, which developes autonomous technology for the US government. The company has been awarded multiple government contracts totaling over $1 billion.
+
+The billionaire said his new killer headset is far from a perfect system at present.
+
+For example, it needs an anti-tamper mechanism, which Luckey said he's working on – for art, of course. He's also worried that the photosensors could fail, leading to a user being killed at the wrong time. To get around that, "the final triggering should really be tied to a high-intelligence agent that can readily determine if conditions for termination are actually correct," Luckey said.
+
+AI, as we all know, never makes mistakes.
+
+Until Luckey can tear himself from defense contracts and online trolling, his version of the NerveGear will only serve as "a thought-provoking reminder of unexplored avenues in game design," he said. It's the first VR headset outside of fiction that can kill its user, Luckey said, but ominously noted that "it won't be the last." ®

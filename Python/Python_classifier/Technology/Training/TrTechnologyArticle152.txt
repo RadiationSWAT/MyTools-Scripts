@@ -1,0 +1,229 @@
+The Garmin Instinct 2 apparently shacked up with a prettier colleague from the Vivomove series division, resulting in this new hand-laden Garmin Instinct edition, aptly called the Instinct Crossover. As with most Instinct things, whether or not it’s pretty is in the eye of the beholder. Some people love this style, others hate it. However, setting aside fashion considerations – what I can tell you is that this thing has all the power of the Instinct 2 series inside it. Except, in areas it has more powerful things, like a new expanded GPS chipset. As well as the mind-bogglingly large slate of updates the Instinct 2 series has received since launch back in February, including things like HRV Status tracking, native running power support, and more sport modes.
+
+Albeit confusing, this is not called the Instinct 2 Crossover, despite being based on the Instinct 2 series. But hey, ya can’t win ‘em all. Instead, it’s got two hands. Those hands show the time of day as you’d expect, but also are used in other areas. On the heart rate zone page? The hands become a dial on the gauge. Looking at your steps for the day? The hands become a progress meter. And during a workout or umpteen other times, they instantly swing out of the way, simply becoming a line on the horizon. But with all that, they ditched the small circle portion of the display seen at the top of previous Instinct editions.
+
+With that overview, I’ve been putting the Instinct Crossover through its paces, seeing how this $499 watch handles, as well as how it compares in areas like accuracy to other $499 watches. After all, it’s still a sport watch designed for sport tracking. Or at least, that’s the way I look at it.
+
+Garmin sent over a few Instinct Crossover media loaners to test out. And I’ve been wearing them 24×7 accordingly, for both sport tracking and daily activity/life tracking. As usual, this review is not sponsored (nor does any company get to preview anything I review), and I don’t take any advertiser money from any companies I review. And as regular readers know, if something is crap, I’m gonna tell it brutally like it is – no matter the brand. Once this unit goes back, I’ll go out and get my own for any future testing needs. If you found this review useful, you can use the links at the bottom, or consider becoming a DCR Supporter which makes the site ad-free, while also getting access to a mostly weekly video series behind the scenes of the DCR Cave. And of course, it makes you awesome.
+
+What’s New:
+
+In most ways, the Garmin Instinct Crossover is basically just an Instinct 2, but, there are a few worthy differences, so I’ll quickly summarize them here:
+
+– Addition of analog watch hands
+
+– Addition of glowing “Super-LumiNova” coating on hands and hour markers
+
+– Removal of the secondary circular display portion previously on Instinct watches
+
+– Full square-ish display, so it’s no longer broken up
+
+– The glass isn’t inset so far down into the watch, it’s still protected, but not in a canyon
+
+– Change of GPS chipset from Sony to Airoha, including expanded ‘All Systems’ option (not Multiband/Dual-Frequency)
+
+– Addition of Garmin Pay on all models (only Instinct 2 Solar/DEZL/specialty models had it)
+
+– Slightly different battery life claims
+
+There are three separate Instinct Crossover models:
+
+– Instinct Crossover (base): $499
+
+– Instinct Crossover Solar (with solar): $549
+
+– Instinct Crossover Solar Tactical Edition: $599 (includes Instinct Tactical features):
+
+On the battery life claims, most of the categories are slightly increased. Here are the official Instinct Crossover charts:
+
+And here are the basic differences outlined:
+
+Smartwatch Battery life: Stayed at 28 days (no solar), and from ‘Unlimited’ with Solar to ‘70 days’
+
+Battery Saver Mode: Went from 65 days to 71 days (no solar), stayed at ‘Unlimited’ with Solar
+
+GPS: Went from 30 hours to 25 hours (no solar), and 48 hours to 31 hours with Solar
+
+Max Battery GPS Mode: Went from 70 hours to 111 hours (no solar), and from 370 hours to 553 hours (solar)
+
+Expedition GPS Mode: Went from 32 days to 40 days (no solar), and from ‘Unlimited’ to 327 days (solar)
+
+I think basically what you’re seeing here is Garmin getting a little more specific with the ‘Unlimited’ claim in those categories. We’re also seeing a slight reduction on GPS time, which kinda makes sense as the new ‘battery baseline’ is ‘All Systems’ (5 satellite systems), whereas before it was GPS+GLONAS (2 systems). Yet at the same time, you can see how in Max Battery mode, the new chipset is far more efficient. They do not quote a ‘GPS Only’ option, which is usually a big battery saver, with some hit on accuracy.
+
+The Basics:
+
+Hands aren’t new to Garmin. They’ve added them more recently in their Vivomove Sport series watches, and before that in the Vivomove watches. The Vivomove Sport earlier this year probably set the stage a bit more clearly for what was possible here. And the Instinct Crossover takes that leap here too, ditching the previous small circle display portion on earlier Instinct editions.
+
+To begin, this section is all about the basics of the watch – stuff like usability/display/buttons, daily activity tracking, smartwatch features, and more. Whereas the sports stuff you’ll find in the next section (titled ‘Sport Usage’). Now admittedly, this watch is 98% the same as the Instinct 2 series. It runs the same firmware, and Garmin says everything feature-wise is the same (and I haven’t seen any differences there – save hardware differences). So I’m going to try and thread the needle of explaining the new hardware bits here, without getting bogged down in the massive review I did earlier this year on the Instinct 2 series. I’ll probably fail in that challenge, but hey, I’ll try.
+
+To begin, the Instinct Crossover has five buttons, like most Garmin sports-focused watches. This watch is not a touch screen, cause well…you’d be touching the hands. And that’s too much hands-on hands action. These buttons allow easy access via the menu system:
+
+Next, we’ve got the hands. These electronically controlled hands show the time of day, but also, countless other things. They move at sub-second rates to whatever position is needed for that particular page. You can change the watch face, just as on any other Garmin Instinct series watch, but here’s a slightly tweaked variant of the default:
+
+I swapped out the solar energy graph at the top for my heart rate, given it’s now fugly-weather time in Amsterdam, and we won’t see the sun till next year anyway. However, on those hands, the second you tap down to go to one of the widgets (for example), the hands instantly swing out of the way, flat-lining, so the menu can be navigated:
+
+Go down to the steps page? Then you’ll see the hands show your progress for the day against your goal:
+
+The hands, and hour markers, have glow-in-the-dark Super-LumiNova (that’s the brand name for the coating that Garmin utilized). No, it’s not radioactive, though in the not-too-distant past watches used a variant that was. Welcome to my internet rabbit hole. You can ‘charge it up’ either via daylight, or just your phone’s flashlight. It’ll glow for maybe an hour or so. It’s not great for long periods, just like it was never great decades ago. Though somehow, my iPhone makes this look spectacular.
+
+Fear not, the watch still has a perfectly functional and bright backlight.
+
+Anyways, back on those hands. The hands can be calibrated, or they can be left in an auto-calibrate mode. Supposedly, if you manage to ‘impact’ the watch hard enough, it’ll actually trigger the calibration instantly, which takes about 1 second to complete. It basically just spins in two loops. You can turn this on/off in the settings too:
+
+In fact, Garmin somehow decided to give this calibration procedure a trademarked marketing name. Which, wait for it, is called RevoDrive. I kid you not. They say:
+
+“If misalignment is detected, RevoDrive then kicks in, moves the hands through a brief calibration process to make sure time is accurate. This will often happen so quickly a user will never see it occur and thus never observe hands out of alignment. RevoDrive is also monitoring the hand alignment during daily use of the smartwatch functions to keep the analog hands accurate.”
+
+I’d love to know whether an engineer came up with RevoDrive, or a marketing person. In fact, I’d just have loved to have been a fly on the wall in that conference room as they discussed this topic.
+
+Now, not one to let this topic pass me by, I’ve been whacking the crap out of this watch with everything from a silicon spatula like a World Series batter, to a soup ladle – all trying to get RevoDrive excited and trigger. Sadly, I can’t seem to do it. I can only assume that if you manage such an impact on your watch, that frankly, the watch is the least of your concerns. But hey, at least your watch hands will be properly aligned, even if your body is otherwise in pieces.
+
+Given the watch is still in one piece, we’ll continue on with this review. As I was saying, if you scroll down, you’ll get to the widget glances. These are bits of information that cover a variety of data the watch gathers or displays. Everything from steps, to your heart rate, sleep, the weather, your training/recovery/HRV status, compass, etc…
+
+Each of these glances can then be opened to get more detailed information about it, usually a few different pages worth.
+
+I am continually impressed with how much effort Garmin has spent keeping the hands out of the way – note the differences above between where the hands hang out in those two different portions of the weather widget. I will say it takes a few days, maybe a day or so, to get used to the hands. The first few hours I wasn’t really sold. But they’re growing on me.
+
+And then all of this information is then synced to Garmin Connect on your smartphone, so you’ll have access to the information there as well, for example, these pages here:
+
+The Instinct Crossover will track sleep as well as HRV status. HRV status was added this past summer as part of a firmware update, bringing it closer in line to the Forerunner 255 series. You’ll get nightly HRV values, and then after 19 nights of data, you’ll start getting more trend information as well.
+
+As far as sleep data goes, you’ll see that here too. I’ve found it’s easily hitting the times I wake up and fall asleep, though I can’t really speak to the sleep phase portions:
+
+That data is finicky at best to compare to, given even the best consumer-grade (though now medical-grade) systems are only 80% accurate. Thus, comparing something to something else that’s only 80% accurate is kinda iffy. I certainly wouldn’t do that for heart rate accuracy for example. In any case, the sleep phase/stage data is there if you want it:
+
+Of course, much of this data is coming from the optical heart rate sensor on the back of the watch. This sensor is on and recording 24×7:
+
+In non-workout scenarios it uses less power, but still monitors and records data every second. Whereas in workout scenarios it adds more power to the sensor to get more accurate results, given the usually heavy movement associated with workouts. Additionally, this sensor package also monitors SpO2 if you’ve enabled it (Blood Oxygen levels), which Garmin calls PulseOx. Keep in mind that’s a battery blowtorch, so I wouldn’t recommend enabling it (it’s off by default). Instead, for most people what’s far more useful is respiration rate, which is on by default and has no meaningful impact to battery life. Many people and studies have seen good correlation between a spike in respiration rate, and then some sort of sickness following shortly thereafter (COVID19 being one in particular). Obviously, a spike in respiration rate can also mean other things too. Note, there is no ECG/Afib/etc functionality on this watch.
+
+Also on the back is that charging port, it’s the same as almost every other Garmin device these days, save some of the MARQ series or diving watches.
+
+Meanwhile, rounding home here on general features, there’s the ability to receive smartphone notifications. These can be from any app, be it Twitter, Facebook, or simply text messages. These will follow whatever settings you have on your phone. It’ll show most emoji as well:
+
+Note that you can’t respond to text messages, at least not on iOS, due to Apple limitations that prohibit 3rd party devices from responding to native text messages. In addition, while there is music control (to control the music on your phone), there isn’t the ability to load music on this watch. So you’re simply controlling whatever music/media is on your phone, if within range.
+
+However, while there isn’t music, there is contactless payments. All of the Garmin Instinct Crossover units contain Garmin Pay, so as long as your bank is supported (good chance in the US, less so elsewhere – full list here), then you’ll be able to load your credit/debit card onto the watch and simply tap to pay. As long as your bank is supported, I find it works pretty well across all Garmin devices. In my case, my US credit cards are supported, but not my Netherlands Bank. Win some, lose some.
+
+Finally, the Garmin Instinct Crossover has solar charging. I’ve talked extensively about Instinct 2 series solar charging in this dedicated review section here, all of which applies here. In a nutshell though, there are two levels of solar charging on the Instinct Crossover. Looking at the edge area first, if you look directly at the watch (not on an angle), this mostly disappears. However, when viewing at an angle you’ll see the solar panels easily. This area can collect 100% of the sun’s rays. Well, technically it’s of course less than that, but in terms of simple relativity here, we’ll go with that being 100% from a Garmin spec standpoint. Here’s that section in red:
+
+Then there’s the whole chunk atop the display – basically atop the words/text/numbers, and such. This area doesn’t gather as much solar goodness, only 10% of the sun’s rays. This is because if it were 100% you wouldn’t be able to see the screen. Whereas at 10%, it’s basically invisible to you and doesn’t impact clarity. I’ve roughly outlined that part in red below:
+
+You can then see in real-time how much sun power you’re getting. Regrettably for me it’s been pretty ugly here weather-wise the last week. Though I did get a brief kinda-sorta-barely-there sun break today at the end of the run, and you can see I got 3 out of 10 sun segments….which, isn’t much:
+
+Generally speaking though, the Instinct 2 series devices (including crossover), can basically go forever-power in the summer if you spend enough time outdoors (depending on how much GPS time you do). Whereas inversely, in the winter below a coat jacket or long-sleeves, you’ll get no meaningful solar power. Fun fact: If you play your sunny locale cards right, the remaining battery time on the Instinct will even show an ‘infinity’ symbol when it’s getting enough solar rays to live forever.
+
+Sport Usage:
+
+While the Instinct Crossover might have hands, those don’t get in the way of its sports features – where it retains the massive slate of Instinct Series 2 features. Everything from all the same sport modes, all the same in-depth sports analytic training features, as well as all the same external connectivity via 3rd party sensors and apps/Connect IQ data fields. None of that changes.
+
+Starting with the sport modes, earlier this year the Instinct 2 series significantly expanded the sport types, notably now including triathlon/multisport modes, as well as a slate of cycling-specific modes (like MTB with MTB-specific metrics). However, since then more sport modes have been added as well. Here’s your complete look at all the sport modes you can configure (some of these fall within the sport menu, even if they’re more like utilities, but I’m listing them here for simplicity’s sake):
+
+Bike Indoor, Run, Bike, Treadmill, Navigate, Expedition, Track Me, Project Waypoint, Reference Point, Area Calculation, Pulse Ox, Triathlon, Duathlon, Brick, Swimrun, Trail Run, Virtual Run, Track Run, Indoor Track, Walk, Hike, Climb, MTB, eBike, eMTB, Cyclocross, Gravel Bike, Bike Commute, Bike Tour, Road Bike, Pool Swim, Open Water, Ski, Snowboard, Climb Indoor, Bouldering, XC Classic Ski, XC Skate Ski, Backcountry Ski, Snowshoe, Kayak, SUP, Surf, Kiteboard, Windsurf, Row, Row Indoors, Strength, Cardio, HIIT, Yoga, Elliptical, Stair Stepper, Floor Climb, Tactical, Boat, Fish, Hunt, Golf, Tennis, Pickleball, Padel, Breathwork, Tides, Horseback, Health Snapshot, Other
+
+There are two main purposes to having sport modes. The first is to have data specific to that sport. For example, in cycling you’ve got everything from cycling power meter support to cycling cadence. Meanwhile, on a Track Run (outdoors), it’ll snap to the track, giving you perfect ovals each time. In openwater swim mode, it’ll use different algorithms to handle the watch being underwater without GPS connectivity half the time.
+
+The second reason though for different sport modes is simply categorization, and wanting different data fields. Functionally speaking, there’s not much of a difference to how your body responds calorie-wise between a “Walk” and a “Hike”, however, you might want to categorize your completed activities in two buckets, or simply have different data fields for each sport type.
+
+You can customize all these data fields on the watch itself, or on Garmin Connect Mobile (smartphone app). In fact, you’ll notice that you’ve got a more standard data page layout set of options, given that the little mini-circle of the Instinct 1/2 series is gone:
+
+There’s also still full Connect IQ support, and Garmin says that developers will shortly see the updated watch options for this Instinct Crossover (since the formatting is different than existing Instinct units).
+
+In any case, once you’re ready to start a workout you can access the sport mode list on the watch by pressing the upper right button, which always takes you to the sport mode screen seen above. After choosing the sport mode, you’ll basically be in the waiting page, letting it connect to sensors, find satellites (if outdoors), and ensure heart rate lock:
+
+It’s here you can do things like add structured workouts, add a course to follow, or one of umpteen other customizations. In fact, by default for running and cycling, it’ll even offer daily suggested workouts automatically. You can disable this if you don’t like it. These workouts can also track against a specific race goal, if you put that on your calendar, or you can just let it try and keep you fit.
+
+Now, one notable change on the Instinct Crossover compared to the existing Instinct 2 Series is that Garmin has changed the GPS chipset. Instead of using the Sony chipset as found on the original Instinct 2 series, they’ve switched to the Airoha chipset, which is the same chipset powering the Garmin Fenix 7 & Epix series, as well as the Forerunner 255 & 955. However, it is not multiband (dual-frequency) capable in the Instinct Crossover. Though, this isn’t the first Garmin device lately to use that chipset and not be multiband.
+
+However, while it’d be easy to at first dismiss it, wait till the GPS accuracy section. Just like we saw with the Fenix 7 base (which isn’t multiband) and Epix base (also, not multiband) – the accuracy there in All Systems mode is stunningly good in tough spots. So while multiband is better, in general, I’m finding Garmin’s Airoha chipset implementation in non-multiband to be beating everyone else’s multiband implementations.
+
+In any case, you can toggle that setting in the GPS settings, though it’s on by default:
+
+Now, once you’ve started your workout, you’ll see all the data pages you’ve confirmed. Here are a few of them:
+
+If you’ve got ‘gauge’ pages, like the heart rate gauge, it’ll even use the hands for that. It’s super clever. Logical, but still clever:
+
+The display is easily readable in all the conditions I tested it in, from darkness to daylight, and even underwater while freezing my balls off this morning:
+
+Now in terms of routing and course following, the Instinct 2/Crossover series doesn’t have any onboard maps. Instead, you follow a breadcrumb trail, though you will get turn-by-turn directions. In addition to following courses, you can route directly to waypoints and a slew of other features:
+
+I’ve got an entire section on routing/navigation (including lots of caveats) here in my Instinct 2 In-depth review, that’s worth diving into. Obviously, putting maps on the Instinct series would be ideal functionality-wise, but at the same time it’d also destroy battery life in a product that’s really aimed at long battery life. Undoubtedly though that’s probably a bridge Garmin will need to cross for an Instinct 3 series, going without it would be a pretty big omission.
+
+Once your workout is done, you can iterate through the workout summary data pages:
+
+Alternatively, you can find all this information in the Garmin Connect app as well:
+
+And if you’ve got Strava, TrainingPeaks, or any other platform, it’ll all show up immediately there, near-instantly as well.
+
+Now of course, just finishing a workout isn’t quite good enough on this watch. After that workout (or any other time), you can look at your training status and recovery pages. To begin, depending on the sport type, you’ll get VO2Max estimates, as well as trending reports automatically. These can be viewed in full widget format (at left), or widget glance format (at right)
+
+You can then look at your training load. While the Instinct series doesn’t support the higher-end watch ‘Training Readiness’ feature, it does have the revamped Acute Load and other wrapped-in training load 2.0 updates. Acute Load is essentially the last 7 days of training load, but weighted so that older stuff isn’t as impactful as the long run you did yesterday for instance. You can also see the type of load as well, showing where it benefits your training:
+
+Each workout will give a recovery time as well, which is cumulative. In this case, I have 19 hours of remaining recovery till my next hard workout (note, it’s not till your next easy workout). If it were hot out, or I was at altitude, I’d also get advice on how acclimated my body is to that temperature or altitude.
+
+While I’d love to see Garmin’s Training Readiness feature here, as it gives a bit better split of guidance between training hard as part of a training cycle, versus letting your body recover for other reasons, I recognize that for this iteration, that’ll likely remain on the Fenix/Epix/Forerunner 955 units. I suspect on an Instinct 3 series down the road (whenever that is), it’ll probably get included.
+
+Either way, I find that I generally use the Acute Load (aka 7-day load) as a good marker for keeping my training load at a consistent level, if I’m not training for a specific race and on a specific training schedule.
+
+GPS & Heart Rate Accuracy:
+
+In this section, I’ll take a look at the GPS & heart rate accuracy of the Garmin Instinct Crossover. In these tests, I’m comparing them against a ‘known good’ chest strap (the Polar H10 or Garmin HRM-PRO Plus), as well as one or more other watches or optical heart rate sensors. In these tests, only one watch is worn per wrist to ensure optical HR accuracy is still valid. Additional sensors may be worn on the upper arm (Whoop or Polar Verity Sense), the finger (Oura), or the chest (various chest straps).
+
+For all these tests, the Instinct Crossover was set in the highest accuracy mode possible (All Systems). All other watches were set in their highest respective modes. Multiband/dual-frequency for Garmin watches, multiband for COROS APEX 2 Pro & Vertix 2, ‘All Systems’ for COROS Apex 2 base, and the ‘All Systems’ for the Suunto 9 Peak Pro.
+
+For this sweep of tests, we’re just gonna dive right into it with the most painful test I have in my local arsenal – a run up and down the business district of Amsterdam, complete with 25-30 story buildings:
+
+And to have fun with this, I decided to take along a bunch of buddies on this one. This includes the existing Instinct 2 Solar (on the latest RC candidate firmware set to go live any day now), simply to show how much better this new chipset is. Also, the COROS APEX 2 Pro (a multiband unit), as well as the cheaper-priced Garmin Forerunner 255 (also multiband). I had the Forerunner 955 (same chip as FR255), but apparently didn’t press the start button at the start when I thought I pressed it. Doh. In any case, here’s that data, starting with the less demanding first portion:
+
+Ok, not gonna lie – there’s a lot to take in here. The Crossover is in Green, the Instinct 2 Solar in blue. You can immediately see in this picture how much the Instinct 2 Solar meanders compared to the Crossover, which is basically right to the side of the road on the sidewalk where I ran.
+
+Next, let’s look at a straightaway with some buildings on both sides, but nothing crazy yet. Also, there’s tree cover here. I’ve made a line, that’s where I crossed the street. You can see the Instinct 2 Solar and COROS APEX 2 Pro both go too early, offset, as does the Suunto 9 Peak Pro (slightly). The Garmin Forerunner 255 (multiband), and Crossover are nearly in lockstep, properly cutting across the street at the crosswalk:
+
+Now, let’s get to the messy part: The first two sweeps of the real legit buildings, down skinny roads. On the lower of the two sweeps, we see the Crossover basically nails it, spot-on the road. All the other units basically meander at some point, some more than others. This is where you can likely see a bit of body-side placement luck, though I ran down the middle of the lower street (since it’s one-lane and basically closed to traffic).
+
+However, as I make the turn on the left side, you can see the Instinct 2 Solar cuts the corner. The Instinct Crossover overshoots slightly out into the street. The other units actually manage to mostly get this turn correct – a rarity lately from this group.
+
+After the turn, I head back down the street, and all heck breaks loose. The Crossover finally succumbs to lack of multiband, and goes off into the buildings. It’s hard to award an exact winner here, as nobody perfectly nailed it. I’d say it’s a wash for this block between the APEX 2 Pro, Forerunner 955 (which I then noticed hadn’t started, and started it), and Forerunner 255. But again, they all made mistakes in different ways.
+
+So, let’s regroup and do one more upper pass, starting from the right side. Here we can see that while we regroup on the right nicely, we lose the Crossover to the water’s edge, along with the Suunto 9 Peak, and Instinct 2 Solar. The COROS APEX 2 Pro doesn’t get wet, but does go off into the bushes. The FR255 and FR955 somehow manage to pull off this pre-building section (above the lake), correctly.
+
+Then it’s time to enter the last building portion (above next to where it says “Europe LLP”. Everyone is temporarily regrouped, and then we immediately lose the Instinct 2 Solar as we start the buildings, along with the COROS APEX 2 Pro. Off getting a coffee or something. The others roughly pull through, with again the FR255/955 clear winners here initially, though the Crossover actually completes the final turn correctly. The others are all off wrong.
+
+After that, things settle down and it’s mostly more of the same near another set of buildings. We lost the Instinct 2 Solar again to playing in traffic, but also the Crossover gets a bit out into the roadway too. Meanwhile, the multiband COROS APEX 2 Pro cuts through some more buildings along with the Suunto 9 Peak Pro.
+
+Overall though, despite not having multiband in the Crossover, I’d say it does no worse than the COROS APEX 2 Pro, if not better in some sections. But it doesn’t quite do as well in the toughest parts as the multiband FR255/955.
+
+Next up we’ve got an openwater swim. This one is silly easy, cause it’s nearly perfect. It’s also a good example of the new Airoha chipset, and is precisely what I’d expect to see with Garmin’s implementation of it. On the left wrist is Garmin Instinct Crossover, and on the right wrist is the Suunto 9 Peak Pro. On the swim buoy reference track I’ve got a GPS as well, tracking in non-swim mode to compare against:
+
+As you can see, it’s virtually identical to the reference track. It also passed the treading water test without issue. However, if we zoom in a bit, we do see a bit of curvature, if I wanted to nitpick slightly. Mind you, at this point the Suunto 9 Peak Pro had literally stopped tracking and drowned itself or something. So being a few meters off is, as noted, very much nitpicking.
+
+Next, just a couple of random screenshots from bike commuting around town, simply to show how near-identical to the bike paths this was. I don’t have reference tracks, because frankly, I don’t need them. If it’s on the bike path, that’s where I was. If it’s not, then it’s wrong. It’s very simple.
+
+In the vast majority of cases it was exactly on the bike path. In some cases it was within a meter or two, primarily when I was right next to multi-story buildings (middle screenshot above)
+
+So, let’s look at some heart rate charts. These will all be fairly quick as well. First up a ride on Rouvy, doing a bit of a meandering workout without too much structure, but a bit of climbing. As you can see, the Instinct Crossover (in reddish), is virtually identical to the chest strap (in purple). You can tap to zoom in if you want to, or open the set up above.
+
+Next, we’ve got a set of VO2Max intervals over on Zwift, lots of fun repeats, and a great way to test optical HR sensors:
+
+Here we see a couple of seconds of lag coming down from an interval (literally, just a couple seconds, like 1-3), which is typical from optical HR sensors, though it ramps up nicely, and doesn’t have any dropouts like we see a little bit from the Suunto 9 Peak Pro here and there. Either way, without mentioning the 1-3 seconds lag, you’d likely never have noticed it (and certainly not in real life).
+
+Next, another ride – and yet more intervals, this time on Zwift, and a slate of more suffering. Just like with the intervals above, we see about 1-3 seconds of lag coming down from some of them, but that’s just about it. That random flat-line you see there towards the end is when the TrainerRoad app oddly dropped all sensors, and I had to briefly and quickly troubleshoot. Nothing to do with the Crossover, since it didn’t even impact it, but just figured I’d explain what was up.
+
+While I don’t quite have yet as much GPS comparison data as I might normally have, I decided to throw the gauntlet at it, and took it for a spin through the most difficult environments – the city buildings and an openwater swim. Short of taking it to New York City for a run, these are both very demanding test environments. Plus, I can do NYC on Thursday. I’ll add in the datasets here, plus anything else I do.
+
+From a heart rate standpoint, I’ve got more data sets there, and clearly, they all look great. Zero concerns there. But then again, this is a pretty well understand heart rate sensor, and has been around the Garmin block for more than 18 months now on almost all their devices.
+
+(Note: All of the charts in these accuracy sections were created using the DCR Analyzer tool. It allows you to compare power meters/trainers, heart rate, cadence, speed/pace, GPS tracks, and plenty more. You can use it as well for your own gadget comparisons, more details here.)
+
+Wrap-Up:
+
+When I first put on the Instinct Crossover, it wasn’t exactly my favorite cup of tea visually. That said, it’s been growing on me, especially when earlier today I picked up an Instinct 2 Solar for some comparison stuff, and realized how much more polished the Instinct Crossover looks in person. There are a lot of factors there – probably the raised display/glass level, the removal of the mini-display, and probably the shimmering inset bezel, compared to the fabric-grabbing Instinct 2 interior bezel.
+
+As for the hands themselves, again, for the first evening I wasn’t sold on the concept, since it blocked some of my watch face components for a few minutes each hour. Of course, I could just tap a button to get the hands out of the way and see the widgets, if I really needed to (which, I never did). I’m still not sold on the glow-in-the-dark bit, but I get that some people will be. I am however constantly amused by the hands moving instantly out of the way to all sorts of positions ensuring it’s not covering data for everything you actually use the watch for. It’s like a constant dance, and it’s geekily fun to watch to see where they snap to.
+
+I’m glad to see that they switched to the Airoha chipset, as the performance is clearly superior to the Garmin Instinct 2 series. But of course, we knew that back in February when it launched without it. And that was reinforced in June when Garmin announced the $349 Forerunner 255 with multiband GPS. Which gets us to the weird situation where we have (again), watches launching at higher price points than watches with more accurate GPS. And arguably, people would use multiband more with a deep-outdoors watch like Instinct over a runner/triathlon-focused Forerunner 255. Once Garmin set that bar at $349 this past June, I’d have expected that future $500-$600 watches (as this is), would match it GPS-wise. And while the GPS performance here was better than their competitors, it wasn’t better than the FR255.
+
+And as much as I find the Crossover interesting, it does add yet another model type that Garmin has for consumers to wade through and try and make sense of. The ever-growing list of variants is nearly impossible to explain to anyone. And while historically Garmin could counter that argument with record profits in each quarter, the last quarter showed pullback. Of course, so did just about every other company on the planet – thus, one can’t quite tie those two together at this stage. And while I think there are probably places for unique style-variants like this, I think Garmin really needs to keep asking whether another variant is actually needed each time they release a new product.
+
+Still, I like it. It’s quirky in a fun way, yet somehow kinda classy once on your wrist, without feeling quite as Casio-like as the rest of the Instinct series. And most of all, it’s a powerhouse of training and sports features – which, is what I’m here for.
+
+With that, thanks for reading!

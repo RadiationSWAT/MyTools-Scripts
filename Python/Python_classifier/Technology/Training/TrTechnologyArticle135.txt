@@ -1,0 +1,19 @@
+Last month, Google announced a redesign of the Home app that promised to bring more device compatibility, courtesy of the Matter standard, and customization options that will allow each user to personalize their experience further. This announcement came with a timeline tied to a Public Preview that was to become available for users to sign up. We have been waiting for this Public Preview to become available ever since, and it’s finally rolling out starting today.
+
+Google has confirmed its availability via a blog post today, which will require a signup via the Home app’s settings. While the rollout has already begun, as it usually goes with these things, it may take a few more days or weeks to reach your device. Meanwhile, Google is offering the below disclaimer in regards to signing up for the Public Preview in order to try out the new Google Home app features:
+
+Public Preview features are early and not complete. They may have issues that can cause the app to behave unexpectedly or not perform as well as the standard app. You can opt out at any time. Leaving the program is as easy as hitting a button in the Public Preview menu, available under Settings. We do not provide the ability to turn off individual features. Google Nest Community Blog
+
+Additionally, Google is encouraging users that sign up to try out the new app to submit feedback as they are using it in order to help make the app even more useful. To request an invite, open the Google Home app and select Settings > Public Preview > Request invite. However, you will not be able to start using the features right away, as you have to wait for the invite to be accepted and for the new features to be completed and ready for you to use. Once you are set, you should see a notification letting you know.
+
+Testing a caption
+
+If you are not familiar with the benefits the new app brings, you can check out our post when the announcement was made or check out the summary below showing the new features that will be part of the new app experience in Public Preview:
+
+New app design with a five-tab layout to give you your home, your way: Favorites : Add devices and actions to this tab for quick access to the most important things in your home. This includes the ability to favorite your compatible cameras so you can view your live streams as soon as you launch the app. At the top of the tab, you will see a new Spaces view that helps you quickly view and control groups of similar devices such as compatible lights, cameras, and thermostats. Devices : Easily find all of your compatible devices and check their status. Automations : Create and manage all your Household and Personal Routines in one place. With new starters, conditions and actions, you can now easily build and customize home automations that can make your home safer, your life easier, and your day more fun. Activity: Review what happened in and around your home. Settings: Find and manage settings for all of your devices, services and home members.
+
+Refreshed camera and timeline views (see which cameras are compatible here): Vertical video history timeline: Quickly scrub through hours of video history or jump to live view. Event views: Access a list of events and scrub to an exact moment. You can also see video in landscape mode on your phone or tablet. Quickly view live video on the home screen: See video from your Nest Cams and Doorbells all in one convenient place.
+
+Media mini player: See what’s playing in your home with quick access to controls so you can adjust the volume or access the remote.
+
+Newsletter Signup

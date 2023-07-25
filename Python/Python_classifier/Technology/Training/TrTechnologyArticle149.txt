@@ -1,0 +1,13 @@
+A new workplace accessory looks to solve the issue of adding fiddly extra screens to your laptop or work PC.
+
+The newly released 4 HDMI Multi Monitor Adapter from Plugable is able to add four HDMI displays to almost any computer running Windows 10 and newer, or macOS 11, including Macs with M1 or M2 chips that would otherwise only support one external monitor.
+
+Although smaller than you might expect, the adapter still manages all the heavy lifting involved with delivering your video signal across multiple displays, connecting to the host computer through USB-C or USB 3.0 (with a USB-C to USB adapter included), or via HDMI for a single connection.
+
+Tiny but powerful
+
+(Image credit: Plugable)
+
+The adapter weighs in at a minuscule 0.62lb / 7.4oz and is only 6.77 x 4.88 x 1.06in / 17.2 x 12.4 x 2.7cm in dimension. The power to push content to four screens comes from a Silicon Motion chipset and a simple driver download through an auto download on Windows or the InstantView app on Mac (not DisplayLink).
+
+At the time of writing, there is a $10 coupon available for individual purchases, bringing the price to $119.00 on Amazon. Other current offers can be found here (opens in new tab) for those looking for bulk pricing.

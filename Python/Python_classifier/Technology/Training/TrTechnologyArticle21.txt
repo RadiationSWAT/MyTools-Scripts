@@ -1,0 +1,53 @@
+Game Info Sonic Frontiers November 8th, 2022 Platform PC, PlayStation 5, PlayStation 4, Xbox Series X, Xbox Series S, Xbox One, Nintendo Switch Publisher SEGA Developer Sonic Team
+
+Very few successful gaming franchises have had a history as tumultuous as Sonic the Hedgehog. Back in the 90s, the series could rival the Super Mario Bros. franchise in terms of quality, creativity, and popularity, but the jump to 3D graphics proved to be troublesome for Sonic Team, as very few modern Sonic games can be considered to be as good as the first three entries in the series. Solid titles like Sonic Colors and Sonic Generations are only a drop in the ocean of the series, which is filled with mediocre titles that could have done much better with a proper, more focused direction.
+
+Sonic Team's constant reinvention efforts haven't just been for the worse, however. The Sonic Adventure games may have aged badly, but they did push the franchise in a good direction that could have been great with some refinement, but sadly, this direction was pretty much abandoned following the infamous Sonic '06. After more titles that tried to reinvent the franchise again, Sonic Team seemed to have found a good enough formula with the aforementioned Sonic Colors and Sonic Generations, only to miss the mark again with Sonic Forces. Sonic Frontiers is the next step in this reinvention journey Sonic Team has been on since the late 90s, as the game's formula is yet another venture in a brand new direction. And while it is not perfect, the latest entry in the series gets a lot of things right, turning out to be an unusual yet compelling Sonic the Hedgehog experience.
+
+Sonic Frontiers places a much bigger focus on its story than some of its predecessors but doesn't exactly move too far from the boundaries that have been set by Sonic Team in the past 20 or so years. Before the start of the game, the nefarious Dr. Eggman arrives on an uninhabited island, discovering a mysterious artifact that he feels could lead him to the Ancients' secrets. Replicating himself into an AI, he enters the device only to awaken something on the island, activate its defenses, and get sucked into Cyber Space.
+
+Much like Eggman, Sonic, Amy, and Tails are on a journey to the Starfall Islands in search of the disappeared Chaos Emeralds. With Eggman activating the island's defenses, however, the three also get sucked into Cyber Space, and only Sonic can get out. Named the Key by a mysterious voice, Sonic embarks on a journey through the islands to save his friends, recover the Chaos Emeralds and take down the wall between dimensions.
+
+The Sonic Frontiers story develops in a rather unsurprising way, and fans of the franchise can see the twists coming from a mile away. In some way, however, it does feel different, as it has a somewhat more serious tone, but not by much, and some characters see some decent enough development. Amy is not as annoying as she was in some previous titles, and Knuckles is something more than the unwilling comic relief he has been in the past few years, to make a couple of examples.
+
+Where Sonic Frontiers attempts to do something entirely new is the gameplay, which is completely different from anything we have seen in the series so far. For the first time, Sonic the Hedgehog has gone completely open-world, as players control the blue hedgehog as he explores a few different islands that are filled with items to collect, simple puzzles to solve, and enemies to defeat. The experience that feels the closest to it is that of Zelda: Breath of the Wild, with some obvious streamlining in terms of combat and puzzles. Littered all over the islands are also the signature Rings, bumpers, rails, shuttle loops, and every other gameplay feature that have become synonymous with the series since its beginnings.
+
+Exploring each island thoroughly is fundamental to progress in Sonic Frontiers, as players need to collect different items to save Sonic's friends, unlock Cyber Space stages and collect the Chaos Emeralds to face a powerful Titan. The island-specific Memory Token items that are required for story progression can be obtained by exploring locations and solving puzzles, the ones to unlock Cyber Space stages by defeating some of the mysterious enemies that roam the islands and the Vault Keys to obtain the Chaos Emeralds by completing the Cyber Space stages. This progression system makes the experience feel a little repetitive over time, as the game feels like a massive collectathon, but thankfully the navigational challenges, puzzles, and Cyber Space stages are bite-sized and quite varied, so there's nothing in particular that overstays its welcome. The only issue in the open-world gameplay is how cluttered the islands feel, as the classic Sonic mechanics seem to be tacked on randomly. To be sure, it does make sense in the story's context, but they do look out of place, considering the realistic visual style Sonic Team has used for the locations. The camera also leaves something to be desired in certain circumstances, but thankfully, falling off cliffs and the like doesn't cause Sonic to lose rings, only to go through a short loading screen.
+
+One surprisingly good element of the Sonic Frontiers open-world experience is combat. This time around, Sonic can use a variety of different combat skills unlocked via a Skill Tree that grants players different options that feel rather satisfying to use. Most of these Skills can also be used in a seamless combo, which is unprecedented in a Sonic the Hedgehog game. The Skill Tree itself feels a little superfluous, considering how easy it is to obtain Skill Points, but the options it grants are great and extremely useful in various situations. Combat feels great also thanks to the good enemy design, whose unique abilities force players to put the many moves in Sonic's arsenal to good use. One Skill that I see coming back in future entries in the series is the Cyloop, which has tons of different uses both in combat and during open-world exploration. Another major highlight of the Sonic Frontiers combat experience are boss battles, which combine the game's new combat mechanics with others inspired by Shadow of the Colossus. The results are explosive, setting a new benchmark for a series known to have had some great boss fights.
+
+The Skill Tree, however, isn't the only role-playing game element in Sonic Frontiers that feels a little tacked on. Sonic also has different stats such as Attack, Defense, Speed, and Ring Count, which can be increased by collecting specific items and the tiny Kocos scattered all over the islands and talking with specific NPCs. To be honest, the only stat I felt I needed to increase was Speed for better exploration, as I made it to the end of the game in Hard mode with little to no trouble with low Attack and Defense. Low Attack, in particular, made me appreciate the combat system more, as enemies are generally not particularly resilient.
+
+Cyber Space stages make up the second half of the Sonic Frontiers experience. These are closer to the traditional Sonic the Hedgehog experience, featuring both the 3D Boost gameplay formula introduced in Sonic Unleashed and a more classic, 2D experience. The stages, which are all based on Sonic memories, and thus feature some classic locations like Green Hill Zone, are much shorter compared to those of previous entries in the series but are quite well-designed, for the most part, featuring a selection of challenges that award players the Vault Keys needed to unlock the Chaos Emeralds. Getting an S Rank and completing all the missions in each Cyber Space stage isn't particularly difficult, but it is as enjoyable as it was in Sonic Generations.
+
+Far from being a groundbreaking game in terms of visuals, Sonic Frontiers definitely delivers on this front, as the game retains the cartoonish style of its predecessors and combines it decently with the more realistic approach of the locations, which don't feel particularly inspired in terms of design. Regarding performance, the PC version runs quite well, and the system used for the test (i7-10700 CPU, RTX 3070 GPU, 16 GB RAM) did not have any trouble running the game at 4K resolution, 60 FPS. Unfortunately, the PC version is a little lacking when it comes to options, as graphics settings are limited, there's no unlocked frame rate option or Ultrawide resolutions support.
+
+So, is Sonic Frontiers the game that breaks the almost constant disappointment fans must go through? It definitely is, in my opinion. While the experience is far from perfect, the game's direction is a solid foundation upon which Sonic Team can build the future of the series. I sincerely hope that this time around, the developer doesn't discard this new direction and actually uses it as the basis for the future of the Sonic the Hedgehog series.
+
+PC version tested. Review code provided by the publisher.
+
+Products mentioned in this post RTX 3070 USD 585 Sonic Frontiers USD 60
+
+8.0 Wccftech Rating Sonic Frontiers Sonic Frontiers
+
+Sonic Frontiers may not be the best Sonic the Hedgehog ever made, but it's definitely in the upper echelon of the franchise. The new open-world formula works surprisingly well even with its issues, and Cyber Space stages and combat are well-designed, engaging and, most of all, fun. With some tweaks, the Sonic Frontiers formula could be the basis for the franchise moving forward, potentially bringing it back to its glory days.
+
+Pros Decent enough story
+
+Solid open-world gameplay
+
+Engaging combat
+
+Excellent Cyber Space stages design
+
+Epic boss battles Cons Collectibles-based progression gets a little tiring over time
+
+Superfluous role-playing game systems
+
+Wonky camera
+
+Lack of graphics options on PC
+
+Buy for $59.99 from Amazon
+
+The links above are affiliate links. As an Amazon Associate, Wccftech.com may earn from qualifying purchases.

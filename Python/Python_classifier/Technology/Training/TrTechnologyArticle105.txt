@@ -1,0 +1,49 @@
+Just prior to launch, we had the chance to ask the team over at Sloclap some quick questions covering genre, difficulty, and — of course — the process of bringing the game to Switch.
+
+Answered collaboratively by: Jordan Layani, creative director; Theo Caselli, lead combat designer; Arielles Grosjean, producer
+
+Nintendo Life: Sifu came out on PlayStation and PC back in February and blends elements from various genres. How do you describe it when you’re asked to pigeonhole it with a neat genre tag?
+
+Sloclap: If we were to define Sifu with only one genre, it would be beat ’em up. Sifu can definitely be seen as a 3D interpretation of classic 2D games. Even outside of the focus on hand-to-hand combat you can find similar dynamics from the organization of our levels to the use of weapons in combat. Even the Life Pendant progression could be compared to coins in arcade machines.
+
+Were there any specific games you looked to for inspiration, either in the initial ideas phase or during development?
+
+For the feel of the game and the global direction, most of our references were action movies
+
+For the design we had many game references. The most important would be Sekiro (From Software, 2019), with their parry and structure system, and God Hand (Clover Studio, 2006) for the management of one versus many with crowd control tools and the avoid system.
+
+Outside of these two examples, we took from hack 'n' slashes (Devil May Cry, Metal Gear Rising, etc…) for the combo system and from 2D beat ’em ups for various mechanics. For the feel of the game and the global direction, most of our references were action movies though.
+
+‘Challenging’, ‘unforgiving’, ‘punishing’ – these are pretty common adjectives that pop up looking back at Sifu coverage from earlier this year. Were you ever worried it might be too difficult to appeal to a wide enough audience?
+
+There’s always doubt regarding the reception of a game. Luckily for us From Software and the various Souls-likes paved the way for a market for hard games. We also bet a lot on our iconography. Even if the game is hard, the fantasy of a fluid and cool-looking martial art fight can strike a chord for a lot of players.
+
+When did you start thinking about a Switch version, and did you run into any unexpected surprises during the porting process?
+
+We decided to release a Switch version for the game during the development process of Sifu. As it was the first time we were working on the Nintendo Switch, we had a lot to learn and we chose to work with a partner to help us on the port [Artefacts Studio]. However, our production team was directly involved in every step of the process, especially our development team which worked a lot on the performance side.
+
+In terms of the bare stats, what resolution and frame rate are you targeting on Switch?
+
+We are aiming for 30 fps and 720p throughout the game. Some important battle areas were difficult to reach in terms of frame rates, but we made sure to have the maximum comfort and quality possible for the player.
+
+Are there bespoke features (or missing elements) in the Switch version?
+
+All of the post-launch content updates that we have released for Sifu to date are available for the Switch version at launch. As we look towards the future, the only feature from our upcoming content updates that we will be unable to implement in the Switch version will be the replay editor. Unfortunately, we weren’t able to have this feature work on Switch as we would have liked and so we have made the decision to remove it from this version.
+
+Some developers are turning to Cloud Versions in order to get their game on Switch, to varying degrees of success. Is that something you ever considered for Sifu?
+
+We have no plan yet for cloud versions of the game but that's definitely something interesting.
+
+If you could give new players one piece of advice before starting the game, what would it be?
+
+Master the various defensive options of the game, especially the avoid, early on. You can learn all your abilities and practice fancy combos as you progress through the game but you’ll have to get comfortable with your defense first!
+
+Finally, what games (on any platform) have you and the team been enjoying recently? How are those personal GOTY Top 3s shaping up?
+
+We have very varied tastes among the team, but for this year we would say that the titles that are the most played during the lunch break would be Street Fighter 5, Smash Bros., Rocket League, Overwatch 2 and Hunt: Showdown.
+
+And for the evenings and weekends, we’d say that the most commonly played games in the team this year would be Elden Ring, Horizon Forbidden West, Return to Monkey Island, Stray and God of War.
+
+Thanks for speaking with us!
+
+Our thanks to Jordan, Theo, and Arielles for their time. Sifu is out now on Switch.

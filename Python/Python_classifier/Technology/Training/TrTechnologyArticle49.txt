@@ -1,0 +1,13 @@
+Earlier this year in April, a security researcher at ESET Martin Smolár, found that several Lenovo notebook models had a vulnerable UEFI. Similar to that, another new set of three vulnerabilities have been discovered again by Smolár in a bunch of Lenovo Windows 11 and Windows 10 notebooks. This time the vulnerabilities, which exist in the Driver Execution Environment (DXE) driver, allow threat actors to disable Secure Boot by modifying NVRAM variables.
+
+Lenovo has published a security advisory about the vulnerabilities explaining how they work:
+
+The following vulnerabilities were reported in Lenovo Notebook BIOS. CVE-2022-3430: A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3431: A potential vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3432: A potential vulnerability in a driver used during manufacturing process on the Ideapad Y700-14ISK that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+Lenovo has asked users of the affected models to update the firmware:
+
+For CVE-2022-3430 and CVE-2022-3431, update system firmware to the version (or newer) indicated for your model in the product Impact section. For CVE-2022-3432, the Ideapad Y700-14ISK has reached end of development support and no fixes will be released. Lenovo recommends customers adopt secure computing practices, including active system lifecycle management.
+
+You can find the full list of affected models as well as the firmware which patch the vulnerabilities on Lenovo's official website here.
+
+Source: ESET research (Twitter)

@@ -1,0 +1,51 @@
+A new Chrome browser botnet named 'Cloud9' has been discovered in the wild using malicious extensions to steal online accounts, log keystrokes, inject ads and malicious JS code, and enlist the victim's browser in DDoS attacks.
+
+The Cloud9 browser botnet is effectively a remote access trojan (RAT) for the Chromium web browser, including Google Chrome and Microsoft Edge, allowing the threat actor to remotely execute commands.
+
+The malicious Chrome extension isn't available on the official Chrome web store but is instead circulated through alternative channels, such as websites pushing fake Adobe Flash Player updates.
+
+The malicious browser extension on Chrome (Zimperium)
+
+This method appears to be working well, as researchers at Zimperium reported today that they have seen Cloud9 infections on systems across the globe.
+
+Infecting your browser
+
+Cloud9 is a malicious browser extension that backdoors Chromium browsers to perform an extensive list of malicious functions and capabilities.
+
+The extension consists of three JavaScript files for collecting system information, mining cryptocurrency using the host's resources, performing DDoS attacks, and injecting scripts that run browser exploits.
+
+Zimperium noticed the loading of exploits for the CVE-2019-11708 and CVE-2019-9810 vulnerabilities in Firefox, CVE-2014-6332 and CVE-2016-0189 for Internet Explorer, and CVE-2016-7200 for Edge.
+
+These vulnerabilities are used to automatically install and execute Windows malware on the host, enabling the attackers to conduct even more significant system compromises.
+
+However, even without the Windows malware component, the Cloud9 extension can steal cookies from the compromised browser, which the threat actors can use to hijack valid user sessions and take over accounts.
+
+The browser cookie stealer (Zimperium)
+
+Additionally, the malware features a keylogger that can snoop for key presses to steal passwords and other sensitive information.
+
+A "clipper" module is also present in the extension, constantly monitoring the system clipboard for copied passwords or credit cards.
+
+Cloud9's clipper component (Zimperium)
+
+Cloud9 can also inject ads by silently loading webpages to generate ad impressions and, thus, revenue for its operators.
+
+Finally, the malware can enlist the host's firepower to perform layer 7 DDoS attacks via HTTP POST requests to the target domain.
+
+"Layer 7 attacks are usually very hard to detect because the TCP connection looks very similar to legitimate requests," comments Zimperium.
+
+"The developer is likely using this botnet to provide a service to perform DDOS."
+
+Operators and targets
+
+The hackers behind Cloud9 are believed to have ties to the Keksec malware group because the C2 domains used in the recent campaign were seen in Keksec's past attacks.
+
+Keksec is responsible for developing and running multiple botnet projects, including EnemyBot, Tsunamy, Gafgyt, DarkHTTP, DarkIRC, and Necro.
+
+The victims of Cloud9 are spread worldwide, and screenshots posted by the threat actor on forums indicate that they target various browsers.
+
+Screenshot of Cloud9 panel (Zimperium)
+
+Also, the public promotion of Cloud9 on cybercrime forums leads Zimperium to believe that Keksec is likely selling/renting it to other operators.
+
+Update 11/9 - A Google spokesperson has provided the following comment to BleepingComputer:

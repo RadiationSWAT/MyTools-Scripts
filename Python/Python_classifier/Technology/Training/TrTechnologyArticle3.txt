@@ -1,0 +1,11 @@
+Apple on Wednesday released iOS 16.1.1 and iPadOS 16.1.1 with bug fixes.
+
+The Software Update section on iPhone and iPad devices states that iOS 16.1.1 "includes bug fixes and security updates." Apple's Support page goes into more detail, noting that the update will prevent remote users from causing "unexpected app termination or arbitrary code execution." Apple didn't provide more detail.
+
+The software update comes two weeks after iOS 16.1 was released.
+
+The update is available for iPhone 8 and up, all models of the iPad Pro, iPad Air 3rd generation and later, iPad 5th generation and later and iPad Mini 5th generation and later.
+
+You can update your device by hitting Settings > General > Software Update.
+
+Read more: iOS 16.1 on iPhone: All the New Features You Should Try Today

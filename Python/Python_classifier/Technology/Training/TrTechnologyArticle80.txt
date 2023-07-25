@@ -1,0 +1,9 @@
+After finally allowing posting last year, Instagram continues to make changes to its desktop web app. The latest update introduces a refresh user interface that takes better advantage of large screens rather than looking like a larger version of the mobile app, TechCrunch has reported.
+
+Instagram Chief Adam Mosseri announced the update along with the new in-app scheduler revealed yesterday. "We know a lot of people use the web to multitask and we wanted to make sure Instagram was an as great experience as possible online," he said in a video. "So it is cleaner, faster and easier to use and it’s designed now to take advantage of large-screen monitors."
+
+Steve Dent/Engadget
+
+As shown above, the home, search, explore, messages and notification menus were moved to a new side rail that collapses to icons depending on screen size. Stories are shown at the top, while your profile, suggestions and more are off to the right. When selecting any menu option, the left menu bar remains, making navigation quicker and easier.
+
+The new interface makes Instagram easier to use on web, but there's still no sign of a dedicated iPad app, as 9to5Mac notes. Earlier this year, Mosseri said that iPad was "not big enough" to make a dedicated Instagram app a priority. Now, at least, you could use the web version instead to get a better experience.

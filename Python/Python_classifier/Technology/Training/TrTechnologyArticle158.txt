@@ -1,0 +1,499 @@
+Hello, friend, and welcome to one special article. The Brothers’ War Draft Guide is here to help you master the newest draft format and win more games.
+
+If you’ve been reading our articles for a while, you know what to expect. If not, here’s what you can expect. First, we take a look at the mechanics and how they’ll affect this draft format. Afterwards, we’ll explore the best commons for every color, as these are the cards that you’ll see the most of in every draft. Then we take a look at the archetypes in the set, and we also rank them based on their power level. We wrap everything up with some final tips about the format.
+
+As you can see, there’s a lot to talk about, so we better get right to it.
+
+The Brothers’ War Mechanics
+
+In The Brothers’ War draft, you’ll find 5 mechanics, although one of them is more of a format’s specialty than a mechanic:
+
+Prototype
+
+Powerstone tokens
+
+Unearth
+
+Meld
+
+Retro Frame Artifacts
+
+Let’s see what each of them is doing. We won’t go into every detail about the rules, but we’ll provide additional resources, where you can find more detailed information about each mechanic.
+
+Prototype
+
+Prototype is a new ability, which only appears on artifact creatures. You can cast these creatures for their regular, more expensive cost, and get a bigger creature. You can also cast them for their prototype cost, which is cheaper, but you get a smaller creature. Creature will always have the same abilities.
+
+Blitz Automaton, that you saw above, can be cast as a three mana 3/2, or a seven mana 6/4. In both cases, it’ll have haste. Prototype has some interesting interactions, and you can read all about them in our Prototype Rules article.
+
+These cards are much better than either “half”, as they give you options, and the more options you have, the better decisions you can make in a game of Magic. Prototype cards will want you to play more lands or make use of the next mechanic that we’ll talk about.
+
+Powerstone tokens
+
+Various cards in the set make Powerstone tokens. These are artifact tokens, that you can tap to get colorless mana. You can’t spend that mana on nonartifact spells. You can use it for casting artifact spells, activating abilities, etc.
+
+It’s a bit hard to give value to a Powerstone token, as it’ll depend on the payoffs you have in your deck. One payoff would be expensive artifacts, such as the aforementioned prototype creatures. Another payoffs would be cards that care about artifacts entering the battlefield, or cards that want to sacrifice permanents.
+
+If you have a hard time evaluating cards that make Powerstone tokens, you can value them at around half a card’s worth, at the start of the draft, then change that number depending on the synergies between your drafted card.
+
+You can learn more about Powerstone token rules here.
+
+Unearth
+
+Unearth is an ability that can appear on permanents. If you have a card with unearth in your graveyard, you can pay its unearth cost. If you do, you return it to the battlefield, and it gains haste. At the end of your turn or when it would leave the battlefield, you have to exile it.
+
+Essentially, this mechanic gives you a second use for your creatures. It has synergies with cards that mill you. If you mill a card with unearth, you’ll be able to get some value out of it. There are cards that let you sacrifice permanents, and these also play nicely with unearth cards.
+
+If you want, you can read more details about Unearth rules.
+
+Meld
+
+Meld is a keyword action, which lets you turn two meld cards on the back side into one oversized card, if you control the specific pair. For example, if you control both of these two cards…
+
+…you can turn them over, and combine them into:
+
+For the vast majority of the time, meld doesn’t matter at all for the Limited, as you’ll have to get both a specific mythic and a rare. However, if that does happen, you should just go for it, as it’s certainly going to be at least fun, and probably even good.
+
+Retro Frame Artifacts
+
+Retro Frame Artifacts are reprinted artifacts from Magic’s past. In total, there are 63 of them, and you can find all Retro Frame Artifacts here. Each pack will contain exactly one Retro Frame Artifact card. They have three rarities, uncommon, rare, and mythic rare. Each uncommon appears as frequently as a regular common.
+
+These wary wildly in quality. You have unplayables, like Defense Grid, and powerful bombs like Wurmcoil Engine.
+
+The existence of these means that there will be more artifacts in the set than otherwise. This gives more uses to Powerstone tokens, and improves the quality of cards that destroy enchantments. You can also expect to see more rares, as if you get a rare on the Retro Frame Artifact slot, you’ll also get a regular rare as well.
+
+Best Commons for the Brothers’ War Draft
+
+Now you know what mechanics exist in the set, so it’s time to check the best commons for every color. Note that we’ve counted any artifact with colored mana symbols in their rules box, as a card of that color.
+
+White
+
+1. Airlift Chaplain
+
+With this one we have to talk a bit more, since it’s a part of an important cycle. As we’ve seen in some recent sets, efficient creatures that replace themselves, are simply good. Inspiring Overseer was so absurdly good for a common, that it wrapped the entire format around it.
+
+This time around they made a fixed version of this card, and made it a cycle. This means that each color gets a common card that mills three cards, then you can either return a specific type among cards milled that way, or put a +1/+1 counter on that creature.
+
+All of these cards look quite good. If they get you a card, they’re good, and if they don’t, they have good enough bodies for the cost thanks to the +1/+1 counter. Don’t forget that if you’d need a bigger body, you don’t have to put a card in your hand. Furthermore, the self-mill is actually a form of card advantage in the format with unearth.
+
+So, the Airlift Chaplain is a card that can give you either Plains or a cheap creature, or become a 2/2 flyer. Certainly a respectable card, and possibly the best White common.
+
+2. Prison Sentence
+
+This is a great Pacifism effect. It gets a bit worse in this set, as people might have cards like Disenchant in their main deck, and there are sacrifice outlets in the format. However, the scry 2 is a big deal, in the late game, this is close to drawing a card, and it also smooths your draws early.
+
+Depending on how the format plays out, this might rival Airlift Chaplain for the best White common in The Brothers’ War draft.
+
+3. Disenchant
+
+These type of effects are usually relegated to the sideboard. If you don’t play best-of-three, you might never even include this card in your deck.
+
+However, The Brothers’ War draft is a special format. There are 75 artifacts, and 20 enchantments in the set. Since there are 197 permanents in the set, this card deals with almost a half of them (48.2%). This is a lot for a two mana instant. (That’s without counting the Powerstone tokens, which you probably won’t want to remove with this.) Furthermore, this number doesn’t include the 63 Retro Frame artifacts, some of which will be great targets for this. (Like Helm of the Host)
+
+Once you hit a big prototype creature with this, you’re going to feel like you got away with something. Anyway, in this format Disenchant will be a good addition to any White deck, and you won’t mind playing multiples. (Although, you probably shouldn’t play more than 3.)
+
+Honorable Mentions
+
+Powerstone Engineer is a fine two drop. It has passable stats, but more importantly, it gives you a Powerstone token when it dies. It gets better the more payoffs for Powerstones you have and vice versa.
+
+Deadly Riposte is a serviceable removal spell. It gets better if a lot of players are playing aggressive decks with lots of small creatures.
+
+Creatures with lifelink are often undervalued. Yotian Medic doesn’t have the best stats as a 1/4 for 3 mana, but there are some Soldier synergies, with which you can buff it. With only a single +1/+1 to stats, it becomes a problem for many aggressive decks.
+
+Warlord’s Elite is a tricky card to evaluate, but it looks like it’s going to be a nice payoff for go-wide strategy. If such archetype does pan out, Scrapwork Cohort will probably see play there.
+
+Blue
+
+1. Wing Commando
+
+Three mana 2/2 flyers is below rate, while a 3/3 flyer would be amazing. Wing Commando is not something that you can stick in just about any deck, but Blue decks can easily play a lot of noncreature spells. In such deck, Wing Commando can be very powerful, particularly in multiples.
+
+This is certainly a card that could move down the rankings, depending on how the format plays out.
+
+2. Scatter Ray
+
+Artifacts and creatures are the name of the game in The Brothers’ War draft. You’ll be able to counter them for just two mana, which is amazing. Sure, your opponent has the option of paying four mana, but that’s quite a lot even in the set with Powerstone tokens.
+
+The card gets a bit worse when a game goes long, but even then, the most relevant spells can be so expensive that the opponent might not have four extra mana. The Blue decks will happily play multiples of this counterspell.
+
+3. Weakstone’s Subjugation
+
+This is probably our hot take this time around – Mightstone’s Animation looks very good. It’s possible that we are wrong about this. However, there are just so many disposable artifacts in this set. (Powerstone tokens, and cards like Ichor Wellspring, Elswhere Flask, and Energy Refractor.)
+
+If you’re going to at least somewhat build around this card, it’s going to be pretty close to four mana 4/4, which draws you a card. Such a card would be completely bonkers for a common.
+
+Honorable Mentions
+
+Weakstone’s Subjugation is a traditional Blue removal spell. It looks like it’s going to be pretty good in this set thanks to its modality. You can also disable an unearth creature without your opponent getting value from it.
+
+Stern Lesson is a filtering effect that we’ve seen many times before. Draw two, discard a card is usually a weak effect in Limited, as even though you’re getting card selection, you don’t get card advantage. The fact that this comes with a Powerstone token changes the card completely. You’re now getting an extra card, which is a Powerstone in play, which you can use for various things.
+
+Fallaji Archeologist is the Blue card of the mill 3 cycle. It looks quite useful, but you won’t want to play it in a creature-heavy deck.
+
+If you have use for Powerstone tokens, Koilos Roc is a nice, useful flyer. It can be combined with Blue instants, so you always have something to do on your opponents’ turn.
+
+Black
+
+1. Overwhelming Remorse
+
+This card certainly isn’t underwhelming. While five mana is clunky, you can easily reduce its cost. It’ll usually be the cheapest in the mid to late game, and that’s when you want to use a removal spell like this anyway.
+
+You’ll often be able to cast this and play another spell in the same turn, which is a great way to gain advantage in a game of Magic.
+
+2. Scrapwork Rager
+
+We’ve already mentioned that creatures that draw a card with they come into play are great, and so is Scrapwork Rager. Four mana for a 2/2 is a bit clunky, but you do get the unearth ability, which makes the card much better.
+
+When you unearth it, you get another card, plus the cards also makes your self-mill cards better.
+
+3. Emergency Weld
+
+Cards that bring creatures from graveyard are often mediocre. However, this one comes with a 1/1 token, which significantly improves it. You should imagine this card as a baby Gravedigger, a card that is usually very good in Limited.
+
+The option to get an artifact back is also quite useful. It means that you can pair it with something like Mishra’s Bauble in order to also give it an option to replace itself. Getting up prototype creatures that died early is also powerful in the late game, as you can now replay them as bigger versions.
+
+Honorable Mentions
+
+Revenous Gigamole is the Black card in the mill-three cycle. Its stats are somewhat mediocre, but it does get back creatures, which is the most common type in draft (besides lands).
+
+Disfigure is very efficient. Just on its own, it kills 63 out of 154 creatures in the format. (That’s 40.9% of all creatures.) You can also use it as a combat trick to finish a bigger creature. This is certainly a type of card that could move higher on these rankings, once we play more Brothers’ War drafts.
+
+Goring Warblow is a flexible creature, it’s either a 1/1 deathtoucher for 2, or a 5/4 for 6 mana, so it’s fine both in early and late game.
+
+Moment of Defiance is a clunky combat trick, but it does a lot of work. If you manage to set it up correctly, it can even win you the game. You’ll probably want to play a single copy in your Black decks.
+
+Thraxodemon has fine stats for a two drop, but a very useful ability, which can come in handy in a longer game.
+
+Red
+
+1. Excavation Explosion
+
+Three mana for three damage is a nice effect, although it isn’t an instant. On the plus side, you get a Powerstone token tacked onto it. This easily makes this card the best Red common. Explosion was already a playable card without the token, and that pushes it to the top.
+
+2. Dwarven-Forge Chanter
+
+Red looks to be aggressive, and this is a prime two drop for an aggressive deck. Thanks to the combination of prowess and three toughness, it’s hard to block, and even if your opponent uses a removal spell on it, they’ll have to pay 2 life.
+
+In a deck paired with other prowess creatures and combat spells, this is card will do a lot of work for just two mana.
+
+3. Whirling Strike
+
+One combat trick that you could pair Dwarven-Forge Chanter with is Whirling Strike. It’s been a while since we got such a trick at common. +2/+0 is a nice buff, particularly since you also get first strike, so the zero toughness boost, doesn’t matter that much.
+
+Trample is the other keyword that pushes this over the top. Your opponent won’t be able to chump block your big thing safely, and we expect Whirling Strike to end plenty of Brothers’ War draft games.
+
+Honorable Mentions
+
+Unleash Shell is a bit expensive, but it deals with most creatures in the format, and the 2 damage to the opponent does add up, especially since you just removed the biggest blocker.
+
+You can probably safely play a copy or two of Raze to the Ground in your main deck. Sometimes you’ll hit a big artifact and feel good about it. Other times, you’ll blow up a Powerstone token in order to draw a new card.
+
+Blitz Automaton is a serviceable three drop for an aggressive deck. If the game goes long, the 6/4 for seven mana can also do a lot of work.
+
+Fallaji Chaindancer can be problematic with combat spells.
+
+Green
+
+1. Argothian Opportunist
+
+Three mana for a 3/2 is fine. Once you add a Powerstone token to the mix, the card is much improved, especially in a deck that actively wants Powerstones, which Green decks often will. The fact that you get it when it enters the battlefield, instead of a die-trigger, is also very good.
+
+2. Epic Confrontation
+
+How good the common green fight spell is varies from set to set. Epic Confrontation is usually pretty good, as it gives your creature a relevant buff, and is quite cheap. There’s no reason for it not to perform well in the Brothers’ War draft environment.
+
+3. Blanchwood Prowler
+
+In some sets we’ve seen a big Green creature that gains a bunch of life, and it always performs surprisingly well. The biggest downside these cards have that hey are expensive and sometimes opponent can finish you before you could stabilize with them.
+
+That’s not the case with Boulderbranch Golem. Of course, you’d prefer to cast it for seven mana (likely with the help of Powerstone tokens), and gain 6 life, as that’ll certainly swing the game in your favor. However, the fact that you have the option of casting it as a 3/3 for four that gains you three life is very useful. It’s certainly plan B, but it’s always great to have one when Plan A doesn’t come together.
+
+Honorable Mentions
+
+Blanchwood Prowler is another card in the mill 3 cycle. Lands are the easiest hits, and Prowler will make sure that you hit your land drops, which is very important for green decks that want to cast big spells.
+
+Rust Goliath is one big spells that Green decks will have access to. With enough Powerstones you’ll actually be able to cast this for 10 mana, and even when it comes down as a 3/5, it isn’t the end of the world.
+
+Argothian Sprite is a serviceable two drop. In the late game, you can start pumping mana into it, making it a bigger and bigger threat.
+
+Gaea’s Gift gives your creature so many keywords, and +1/+1 counter, that you’re bound to find a great use for it in every game. Probably you’ll want one copy in every Green deck, sometimes you might even consider a second one.
+
+Colorless
+
+This time around, there are quite some articles worth mentioning. We’ve included the Retro Frame uncommons here, as each single one of them will appear approximately as often as a regular common would.
+
+1. Energy Refractor
+
+There sin’t that many color fixing in the set, which improves the quality of Energy Refractor. Furthermore, it has artifact synergies, and with noncreature spell synergies. Finally, it can turn two mana from Powerstone tokens into one mana that you can use for nonartifact spells as well.
+
+This artifact simply does so much in so many shells, that you’ll want to pick it up relatively highly, before other players do. At the beginning of the format, it’ll probably go around late, but eventually players will figure this out.
+
+2. Foundry Inspector
+
+With so many artifacts in the set, Foundry Inspector can act as a ramp spell. A 3/2 for three mana is not great, not terrible, and the effect makes it into a card, that certain decks will be happy to play.
+
+3. Chromatic Star
+
+If you draft Chromatic Star, then you should put it into your deck. You shouldn’t pick it highly over actually strong cards. However, when you’re presented with a choice of a card that would be around the 15th best card in your deck, and Chromatic Star, you should go with Star.
+
+The reason is that it basically reduces your deck size. Why would you want this? For the same reason that you don’t want to play more than 40 cards. The power level of the cards in your deck isn’t flat. Some cards are better than the others. With fewer cards in your deck, the higher the chances of drawing your bomb.
+
+That’s why it’s nice to include Chromatic Star in your deck – not to mention the various artifact and sacrifice synergies. However, if you do get them in multiples, do not forget to remove a land or possibly even two. One downside the card has is that it does make your mulligans a bit worse.
+
+Honorable Mention
+
+It’s a bit weird mentioning Evolving Winds here, but it’s the only land that fixes your mana, outside rare slots. You’ll want to play it in your two color decks, even without splashing. Once you do splash, (or for some unreasonable reason decide to play three colors) you’ll actively want to pick one or two up.
+
+Mishra’s Bauble can be good, but you’ll need some other synergies with it to make it worth your while. You might compare it with Chromatic Star, but the delayed draw is a very big deal in the late game.
+
+Swiftfoot Boots is very popular in commander, and it looks amazing for Limited too. However, you should have a good reason to include it into your deck. The best one is that you have multiple creatures that you really want to keep on board. If you’re playing just a random aggro deck, Boots probably aren’t that great there, as you’d prefer to simply have another creature.
+
+The Brothers’ War Draft Archetypes
+
+While the archetypes in The Brothers’ War draft have clearly defined themes, they don’t have that strong of a support for them. For example, in Dominaria United, each archetype was trying to do its specific thing. We expect that to not be the case here, at least not for the most archetypes.
+
+Anyway, let’s take a look, and we’ll explore what we mean by then on an archetype per archetype basis.
+
+Blue-White: Soldiers
+
+Blue-White’s focus is Soldier tribal. However, there aren’t many amazing payoffs for the archetype. Yotian Tactician is certainly the best non-rare payoff. If you get multiple copies of it, then you should go all-in on building a dedicated Soldier tribal deck. The same is true with certain rares, such as Rescue Retriever. Otherwise, you’re better off just picking good White and Blue cards, and get some occasional Soldier synergies.
+
+A thing that is probably going to come up often enough, is buffing Yotian Medic. It only needs a small buff, and it becomes a very relevant creature. You can give it a counter with Aeronaut Cavalry, or equip it with Veteran’s Powerblade, and your opponent will have to remove it at some point.
+
+Other creatures that benefit from the buffs are Soldiers with flying. There are three such creatures at common, plus Air Marshal, which can give flying to the Soldiers, so that’s something that might come up often enough.
+
+Finally, if you’re playing cards that make Solider tokens, don’t forget that they are artifacts, so they count towards your artifact synergies.
+
+Black-White: Small Creatures
+
+Here’s another unexpected theme. White-Black focuses on creatures with mana value 3 or less. It also has some graveyard synergies.
+
+You’ll probably want to aim to get many good three drops, as these are the most powerful cards that satisfy the mana value condition. Airlift Chaplain will be at its best in this shell, and so will Warlord’s Elite. Recruitment Officer is an aggressive one drop, which turns into a great power sink, in the mid to late game. Of course, your best payoff is the gold uncommon – Hero of the Dunes is simply an amazing card.
+
+As you can see, there are good payoffs for the mechanic, but they aren’t too powerful, so you don’t need to force building around it. You can play a good ol’ midrange deck, and use mana values as a tiebreaker – you’ll prefer a creature that costs three or less, over the more expensive ones, unless, they’re significantly better.
+
+Green-White: Artifacts Midrange
+
+Green-White is a midrange deck with lots of synergies with artifacts.
+
+The gold uncommon, Yotian Dissident is an amazing payoff for this strategy. It’s great paired with Mass Production which creates four 1/1 artifact Soldier tokens. You’ll be able to put many +1/+1 counters around. Besides, you can also pair it with Great Desert Prospector, which can provide you with a bunch of Powerstones. Such a deck would also happily include various prototype creatures, such as Combat Thresher.
+
+Some other payoffs include:
+
+Sarinth Steelseeker, which will help you find your land drops
+
+Phalany Vanguard, which is a nice aggressive two drop
+
+Thopther Architect, which can take your army to the skies
+
+Perimeter Patrol, a serviceable three drop
+
+Scrapwork Cohort will also perform well in this time, giving you two artifact triggers twice. Furthermore, cantriping artifacts like Energy Refractor are also good here, especially paired with Alloy Animist.
+
+There’s no reason to go all-in on the synergies, you can afford some room for cards that are simply good on their own (good bombs, and removal spells).
+
+Red-White: Aggro Artifacts
+
+Red-White is, as usual, the dedicated aggressive deck. This time, the specialty is that it also cares about artifacts entering the battlefield, so it’s somewhat similar to the Green-White archetype, that we’ve just talked about. So, as far as the White cards go, the ones that work there, will also perform well in this shell. What tools does Red bring to the table?
+
+You have cards that make Powerstones, there’s Horned Stoneseeker, Excavation Explosion and Sibling Rivalry. Since White has lots of ways to make tokens, you can use Mishra’s Onslaught to end the game.
+
+Unearth cards will also work nicely in this archetype. They are artifacts, so they can trigger your card that care about them, and they are great disposable attackers to put pressure on your opponent.
+
+With this deck you probably want a low mana curve, so pick your expensive cards carefully, there are only so many slots that you can dedicate to them.
+
+Blue-Black: Draw Second Card
+
+Blue-Black’s theme in The Brothers’ War draft is going to be drawing a second card. This color pair is going to be a bit less controlling than usual, instead opting for a tempo game plan.
+
+Payoffs
+
+As we said before, the themes aren’t that supported or forced in this format. We also can see this here, as this archetype only gets 6 payoffs:
+
+Lat-Nam Adept – common, which is a bit clunky as a four mana 3/3
+
+Trench Stalker – common, which can swing the game in your favor, although it costs five mana
+
+Thopter Mechanic – a cheap good uncommon
+
+Evangel of Synthesis – gold uncommon, both enabler and payoff, it can be a good attacker
+
+Gurgling Anointer – another uncommon, probably the best payoff for this theme
+
+Gixian Puppeteer – amazing rare for this archetype
+
+You’ll probably want multiples of either Evangel of Synthesis or Gurgling Anointer in order to heavily pursue this theme. If you’re lucky, Gixian Puppeteer does perform amazingly in this shell.
+
+Enablers
+
+You can trigger these cards each turn. However, it’s going to be easier to trigger them on your own turn. You already draw one card per turn, so you only need to draw one more. In the opponents’ turn, you’ll have to draw two cards.
+
+So, your enablers are all cards that draw a card. Note that the common cycle which mills three, then returns a card to your hand doesn’t count as drawing a card.
+
+You’ll probably want card like Curate, Energy Refractor, and Scrapwork Rager. There are ways to get this effects in your opponents’ turn, with cards like Stern Lesson and Flow of Knowledge.
+
+Anyway, the deck will still want to play out like a tempo deck. You’ll want efficient creatures, such as Wing Commando, and ways to remove blockers, even if only for a turn, like Machine Over Matter.
+
+Blue-Red: Prowess
+
+Blue-Black is back with its usual shtick – caring about noncreature spells. We call the archetype prowess, although there are only three cards with this mechanic. However, the deck does play out in a typical prowess fashion. Play good cheap attackers, and support them with combat tricks, and bounce spells.
+
+Payoffs
+
+All three prowess creatures (Monastery Swiftspear, Wing Commando, and Dwarven Forge-Chanter) look really strong in this shell. Third Path Iconoclast also triggers from noncreature spells, and it gives you an army of Soldiers, providing the deck with another dimension.
+
+Enablers
+
+Whirling Strike is going to be a key combat trick here. When you pair it with prowess creatures, it’s going to cause a lot of problems for your opponents.
+
+Machine Over Matter is a cheap bounce spell, which is going to feel at home in this archetype. Involuntary Cooldown remove two blockers for three attacks, which should be enough for you to win the game with the right setup.
+
+Cheap spells that replace themselves, are also useful, so stuff like Curate and Energy Refractor also work here. You might even be able to take advantage of some of the Blue cards that trigger when you draw a second card in a turn.
+
+The Right Mix
+
+The most problematic part with a deck like this is finding the right mix of creatures vs noncreatures, especially for newer players. It’s hard to give exact numbers, as things will change from draft to draft.
+
+However, the traditional recommendations (17 creatures, 6 noncreature spells, 17 lands) won’t work here. Instead, you should probably aim for something like:
+
+10-15 creatures
+
+8-13 noncreature spells
+
+15-17 lands
+
+Of course, you should pack everything into a 40-card deck. You can afford lower land count if you have cheap spells that replace themselves, like Curate or Energy Refractor.
+
+Cards that can fit both creature and noncreature role can help you greatly with finding the right mix. One such example would be Mishra’s Onslaught. Furthermore, Third Path Iconoclast kinda turns your noncreature spells into creatures.
+
+Blue-Green: Powerstone Ramp
+
+Blue-Green color pair is always trying to do something sweet, and this time it’s no different. This archetype uses Powerstones in order to ramp into big prototype cards.
+
+Powerstone Makers
+
+Here are some cards that you can use to make Powersatones:
+
+Payoffs
+
+Basically, every prototype card in Green and Blue is a payoff for this deck. If you’re feeling lucky, you can also play off color prototype cards, and either splash for them, or just plan to cast them for their expensive cost.
+
+The problem with this type of deck is often that it has weak removal. This time around it might be different, as you have access to both Epic Confrontation and Weakstone’s Subjugation at common. You still want to play every Boulderbranch Golem you can get your hands on, as it’s the perfect card to stabilize with, and it’ll excel in this shell.
+
+Black-Red: Sacrifice Aggro / Midrange
+
+Black-Red archetype has a sacrifice theme, but there really aren’t that many good payoffs for it, so it’ll mostly play out as an aggro or midrange deck with various amounts of random sacrifice synergies scattered in there.
+
+You have two directions in which to take this deck. One would be to go to the midrange route. In this, you’d use Transmogrant Altar and pair it up with unearth cards. Furthermore, you’d actually use Powerstone tokens for big creatures instead of sacrificing them for various effects.
+
+The other option is an aggro deck. Gixian Inflirtrator and Goblin Blast-runner are two cheap commons, that you’ll start your curve with. This deck will also be able to utilize Junkyard Genius better. Many of the Retro Frame artifacts will also shine here. Ichor Wellspring, for example, will perform amazingly. You’ll round the deck with good sacrifice effects (Pyrrhic Blast can end the game in a pinch, and Penregon Strongbull can also be good), and good aggressive cards, and some combat tricks.
+
+Sibling Rivalry can perform well in both versions of the deck, as it can act as an actual removal spell, combined with a sacrifice outlet.
+
+We shall see which version of the deck will perform better in the coming days.
+
+Black-Green: Creatures in Graveyard
+
+Black-Green is once again back at it with its graveyard shenanigans. This time around, it rewards you for having lots of creatures in your graveyard. You can achieve that by simply trading off creatures in combat, or by having self-mill.
+
+Payoffs
+
+The three main payoffs can be seen above. Gaea’s Courser is creatures with fine stats, that can draw you cards if you have three creatures in the yard. Skyfisher Spider is amazing if you have a disposable creature. You get a removal on a stick, plus you can get some life when it dies. Finally, life loss from Battlefield Butcher can quickly add up, even more so if you have multiples.
+
+At common, you have Gixian Skullflyer, which can grow into a problematic creature. Gnarlroot Pallbearer can give a big boost to one of your attackers. This deck will also be able to cast Overwhelming Response for cheapest.
+
+If you’ll mill yourself, then you can get more value from your creatures with unearth. The downside is that you’ll use creatures in the graveyard once you unearth them.
+
+With many creatures in the graveyard, you also get better selection for reanimation spells, like No One Left Behind. Reanimating a powerful prototype creature on turn five certainly sound like fun.
+
+Enablers
+
+If you have enough artifact creatures in your deck, you can use Disciples of Gix. This card pairs particularly well with reanimation spells.
+
+Cards that mill you are also great enablers, particularly if they’re creatures themselves. (In this deck, you’ll want to have a high creature count. The few noncreature slots should probably be reserved for great removal spells.) Thankfully, there are quite a lot of such creatures:
+
+One thing that you’ll have to be careful with this deck is that you won’t accidentally mill yourself. With so many mill effects, it’s a real possibility.
+
+Red-Green: Midrange
+
+At the beginning of the archetype section, we discussed how archetypes aren’t as focused as in some other draft environments. Well, that’s especially true with our last archetype. Red-Green color pair is best described as simply midrange.
+
+Just take a look at Arbalest Engineers, the gold uncommon for this color pair. It’s certainly a good and versatile card, but it doesn’t really pull you in one specific direction. So how do you end up drafting Red-Green? Well, you’ll probably get some Red and Green cards that are good on their own in your first few picks. During the draft your deck might take different shape.
+
+You might find yourself in a more aggressive version of the deck with plenty of combat tricks and aggressively stated creatures. Or you could have lots of Powerstones and creatures with prototype. Or perhaps something in between. Red-Green color pair certainly doesn’t limit your option, and neither does it guide you during the draft. When drafting this color pair, you’ll have to make some important decisions in which direction do you want to take your deck in.
+
+However, if you’ll pick enough good cards, and have a good curve, you should probably do fine.
+
+The Brothers’ War Draft Guide: Power Rankings
+
+It’s time for the – very early – power rankings. Since the format is so fresh, take these with a grain of salt. This time around, it feels very hard to predict what’s going to be the best, as all archetypes and colors have a lot of tools to succeed. So make sure to check back in a couple of weeks, when we’ll have a better overview of the format.
+
+Best Colors
+
+Blue Green Black Red White
+
+Blue looks like a very deep color, followed closely by Black and Green. Red and White seem a bit weaker, but not by much.
+
+Best Archetypes in The Brothers’ War Draft
+
+Blue-Red: Prowess Green-White: Artifacts Midrange Blue-White: Soldiers Blue-Green: Powerstone Ramp Black-Red: Sacrifice Aggro / Midrange Blue-Black: Draw Second Card Black-White: Small Creatures Red-Green: Midrange Red-White: Aggro Artifacts Black-Green: Creatures in Graveyard
+
+There’s a lot of Blue and Green in the first archetypes, and we hope that’s going to be true, as they look really fun to play in Borhters’ War draft. So far, no deck looks awful, although the Black-Green might spin its wheels a bit much.
+
+Additional Tips for The Brothers’ War Draft
+
+Before we wrap up, here are some final tips that might help you in The Brothers’ War draft.
+
+Format Speed
+
+The format speed is very hard to predict this time around. It likely that you won’t have time to just mess around and wait for your clunky engine to come online. The Red-Blue looks like the fun police in this format, as it has all the tools an aggressive tempo deck needs. If you durdle around, this deck will just run over you.
+
+Of course, there are Powerstone tokens, and big prototype creatures. It would be weird if Wizards designed a format in which you couldn’t do the cool new thing. So, it’s probably likely that you’ll be able to do that. Nevertheless, you need to affect the board from the early turns. It also helps if you have ways to regain some life, with cards like Boulderbranch Golem, Moment of Defiance and buffed Yotian Medic.
+
+So, you can probably draft whatever you want, just respect the aggro decks, and have a nice mana curve.
+
+Lands
+
+How Many Lands to Play in The Brothers’ War Draft?
+
+As there seem to be many different types of decks, this will also change on deck to deck basis. Of course, you can’t really mess things up if you do decide to go with classic 17 lands, and call it a day. However, we’d imagine that optimal numbers are between 15-18 lands.
+
+As we mentioned in the archetypes section, if you have a lot of cheap cards that draw you a card, (like Energy Refractor, Chromatic Star, and Ichor Wellspring) you should go down to 16, sometimes even 15 lands. The reason is that these cards don’t do much on their own, and you could dilute your land vs meaningful spells ration because of them.
+
+On the other hand, if you’re planning on casting big prototype cards, and activate expensive activation, such as Third Path Savant, you should probably go up to 18 lands. Even though you’ll be making Powerstone tokens, it still won’t feel good to miss land drops in such decks, with many mana sinks.
+
+Wraths
+
+Whenever you start playing a new format, it’s useful to check the format for wraths (cards that card destroy all creatures). This way, you can recognize when your opponent isn’t committing any meaningful creatures on the board, and you can try to play around a particular card. Or, if you know that there isn’t a wrath in their colors, you just play out all of your creatures without worrying.
+
+The closest thing we have to an actual wrath is Urza’s Sylex. You might expect it, unless your opponent plays seven mana in a turn.
+
+Then there’s Brotherhood’s End which deal three damage to each creature and each planeswalker. It can be played post combat, to finish off big blockers. Gruesome Realization gives all creatures -1/-1, and also has a draw spell mode.
+
+Finally, Fade from History destroys all artifacts and enchantments, and gives injured parties a Bear token for their troubles.
+
+Additional Archetypes
+
+There are a few cards that open possibilities for additional archetypes. They don’t seem that powerful, but we might be wrong about this. If you’re looking to do something different in this format, you might want to try some of the following options.
+
+Mono Colored Decks
+
+There’s a cycle of cards that benefit from your deck being all in one color, or mainly in one color, and with just a light splash.
+
+None of these are broken or anything, but if you somehow end up in the mostly monocolored decks, they are nice rewards. Playing a mono Black deck with a couple of Corrupts could be fun.
+
+Urza’s Assembly-Workers
+
+These three creatures get better if you have all of them on the battlefield. Assembling all of them can be a challenge, even if you have multiples of them. When you do assemble all of them, they don’t win you a game, or gain an insane advantage. They just become strong cards.
+
+This probably won’t be the archetype to win you many games, but it’s going to be fun to try if you’re doing a ton of Brothers’ War drafts.
+
+Explore More Brothers’ War!
+
+And that’s it! You’ve reached the end of our Brothers’ War Draft Guide. Now you’ve learned enough about the format, that you are prepared to battle, and win lots of games. If you’re planning on organizing a draft for your play group, you can get a Brothers’ War Draft booster box on Amazon.
+
+Furthermore, you can explore all the cards in this set on our Brothers’ War spoilers page. This set comes with many exciting cards, including MTG Transformer cards, although these won’t be available in Draft boosters.
+
+As we mentioned before, we’ll probably do an update to this article in a couple of weeks, when we play more games with the set. If you don’t want to miss it, you can follow us on Facebook or Instagram. There we post when we publish new interesting articles, and you’ll also find reminders for MTG Arena codes for free Packs. Speaking of which, you can find all currently available MTGA codes here.
+
+Anyway, that’s it for today. Until next time, have fun, and win many Brothers’ War drafts.

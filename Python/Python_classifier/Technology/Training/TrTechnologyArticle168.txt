@@ -1,0 +1,47 @@
+Audio player loading…
+
+In October, the news broke that key creatives behind Disco Elysium had left Studio ZA/UM last year. A few days later, founding member of ZA/UM Martin Luiga alleged they had been "fired on false premises". Studio ZA/UM issued a statement about the "collective effort" of game development without substantially commenting on the news, and we were left uncertain as to what transpired at the studio and what to expect from it going forward. Today, the story exploded with surprising allegations from both sides.
+
+Robert Kurvitz and Aleksander Rostov, the fired Disco Elysium game director and art director, have published an open letter (opens in new tab) which alleges that ZA/UM's current owners took over the company illegitimately before kicking them out. The letter appears to have been prompted by a report in an Estonian newspaper which alleges that the pair of creatives were toxic leaders who were fired for ignoring responsibilities and mistreating colleagues. That news report, which quotes Studio ZA/UM's current CEO, was followed by an official statement from the studio which reiterates its claims.
+
+So the situation is this: The fired Disco Elysium creative leads, Kurvitz and Rostov, say that the new studio co-owner who fired them, CEO Ilmar Kompus, is an illegal interloper in the business, while Kompus and ZA/UM deny that allegation and say that Kurvitz and Rostov were fired for toxic management. It seems almost certain this one will end up in court.
+
+The Estonian Ekspress report quotes Kompus as saying: "Robert [Kurvitz] is said to have been known for belittling women and co-workers in the past, but this was previously unknown to the company. It would be very short-sighted of a growing international company to tolerate such behaviour."
+
+Kompus goes on to say that Kurvitz and others had "delusions of grandeur" about their ownership of the Disco Elysium IP, and alleges they tried to go elsewhere in the industry "but no one was interested."
+
+The report alleges that Kurvitz and Rostov mistreated coworkers in various other ways without going into tremendous detail. It also says that there was conflict between the business side of ZA/UM and the creative team, which given this was an anarcho-communist collective may prompt a shocked Pikachu jpg.
+
+In a report on the claims, GI.biz (opens in new tab) quotes an anonymous source who describes the situation as "CEO corporate scheming on one side, a toxic auteur on the other."
+
+ZA/UM has provided a statement to PC Gamer elaborating on its reasons for firing Kurvitz and Rostov. According to the statement, Kurvitz and Rostov showed "limited to no engagement in their responsibility and work" including "not working at all for almost two years." The company also accuses the pair of "verbal abuse," "gender discrimination," and "attempts to illegally sell" ZA/UM intellectual property "with the aim of undermining the rest of the team."
+
+The statement goes on to say that ZA/UM "denies any claim of financial malfeasance or fraud" and that "the vast majority of profits from Disco Elysium have been invested back into the studio" to fund new projects.
+
+The other side
+
+We were quickly excluded from daily operations, our employment was terminated and our access to the company’s information was shut off. Robert Kurvitz and Aleksander Rostov
+
+"Financial malfeasance" is one of several allegations that Kurvitz and Rostov make in their letter, which tells a completely different story about their firing, one in which they uncovered evidence of a crime and were kicked out for asking questions. (Eagle-eyed fans may note that the letter is not signed by Helen Hindpere, the third figure who was fired, though shortly after its publication she did share it on Instagram.)
+
+"Our stake in the game exists in the form of minority shareholdings in an Estonian company called Zaum Studio OÜ, which owns everything related to the game," reads the letter from Kurvitz and Rostov. "The majority of this company’s shares were initially held by Margus Linnamäe, an Estonian businessman and investor who provided the initial capital. In 2021, Linnamäe was bought out by another minority shareholder, an Estonian company Tütreke OÜ. Tütreke OÜ is a vehicle for two Estonian businessmen—Ilmar Kompus and Tõnis Haavel."
+
+Kompus, again, is the current CEO of ZA/UM, while Haavel was an executive producer on Disco Elysium. Kurvitz and Rostov go on to say that, after they became majority shareholders in the studio, these two individuals quickly fired them and terminated their "access to the company's information." This allegedly happened after Kurvitz and Rostov asked for documents and financial data, which they say wasn't provided to them.
+
+Then comes Kurvitz and Rostov's big accusation: "Tütreke OÜ must have obtained control over Zaum Studio OÜ by fraud. We believe the money used by Tütreke OÜ to buy the majority stake was taken illegally from Zaum Studio OÜ itself, money that belonged to the studio and all shareholders but was used for the benefit of one. Money that should have gone towards making the sequel."
+
+That is, Disco Elysium's key creators are saying Disco Elysium's profits were used to buy Disco Elysium and ZA/UM itself out from under them.
+
+The company we built has been looted, while our own earnings are insufficient even to cover legal fees. Robert Kurvitz and Aleksander Rostov
+
+"We believe that these actions—which in our view, and the view of our lawyers, amount to criminal wrongdoing punishable by up to three years imprisonment—were perpetrated by Ilmar Kompus and Tõnis Haavel with support from Kaur Kender, another minority shareholder. This is hardly surprising given that Tõnis Haavel, who we believe to be the ringleader, has been convicted for defrauding investors on a different matter in 2007 (opens in new tab)".
+
+That link is to an Estonian court document, but the allegation concerns a bank called LHV Pank co-founded by Haavel, which in 2007 was also accused of fraud by the US SEC. It paid a big fine and settled without admitting any wrongdoing.
+
+Kurvitz and Rostov say they're reviewing the legal options, but intend to bring both civil and criminal cases in Estonia and the United Kingdom. "The company we built has been looted, while our own earnings are insufficient even to cover legal fees."
+
+The letter says that the pair have stayed silent out of consideration for those still at ZA/UM and their own mental health. "But given the severity of our suspicions—and the seriousness of the evidence we have—we think it's time people knew what has transpired at the company."
+
+The letter does not address the various accusations of toxicity and irresponsibility made of the pair, and ends as follows: "We also believe in what Harrier du Bois calls 'the law'. It's not perfect, but it’s there to protect those who create from those who take. And so it will."
+
+Disco Elysium, which still tops PC Gamer's list of the 100 best games on PC, is specifically critical of greed, the petit bourgeois, and the compromises we all have to make in our lives because of these systems. It is if nothing else a stunning critique of capitalism. That this creation is now the subject of claim, counter-claim, and lawsuits is some sort of cosmic irony.

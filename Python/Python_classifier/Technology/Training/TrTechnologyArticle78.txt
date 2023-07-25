@@ -1,0 +1,13 @@
+Solar power gathered far away in space, seen here being transmitted wirelessly down to Earth to wherever it is needed. ESA plans to investigate key technologies needed to make Space-Based Solar Power a working reality through its SOLARIS initative. One such technology – wireless power transmission – was recently demonstrated in Germany to an audience of decision makers from business and government.
+
+The demonstration took place at Airbus’ X-Works Innovation Factory in Munich. Using microwave beaming, green energy was transmitted green energy between two points representing ‘Space’ and ‘Earth’ over a distance of 36 metres.
+
+The received power was used to light up a model city, produce green hydrogen by splitting water and even to produce the world’s first wirelessly cooled 0% alcohol beer in a fridge before serving to the watching audience.
+
+For a working version of a Space-Based Solar Power system, solar power satellites in geostationary orbit would harvest sunlight on a permanent 24/7 basis then convert it into low-power density microwaves to safely beam down to receiver stations on Earth. The physics involved means that these satellites would have to be large, on the order of several kilometres in size to generate the equivalent power of a typical nuclear power station, and the same being true for the collecting ‘rectennas’ down on Earth’s surface.
+
+Achieving this vision would require technical advancements in areas such as in-space manufacturing and robotic assembly, low-cost high-efficiency photovoltaics, high power electronics and radio frequency beam forming. Further research to confirm benign effects of low-power microwaves on human and animal health and compatibility with aircraft and satellites would also be undertaken.
+
+ESA’s SOLARIS – being proposed to Europe’s space ministers at the Agency’s Council at Ministerial Level on 22-23 November – will research these technologies, to allow Agency Member States to make an informed choice on future implementation of Space-Based Solar Power as a new source of clean, always-on ‘baseload’ power supplementing existing renewable power sources, helping Europe to attain Net Zero by mid-century.
+
+In addition, any breakthroughs achieved in these areas will also benefit many other spaceflight endeavours as well as terrestrial applications.

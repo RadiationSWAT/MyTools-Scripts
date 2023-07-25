@@ -1,0 +1,27 @@
+Apple today released iOS 16.1.1 for all users. While the release notes for the update say nothing about new features or major changes, there’s a significant one coming for users in China. There, Apple is changing how the “Everyone” option in AirDrop works, which will no longer be enabled for more than 10 minutes.
+
+AirDrop now has a time limit in China
+
+As noted by 9to5Mac readers, today’s update adds a time limit when the user chooses to enable AirDrop for everyone, not just contacts. With this change, people in China can no longer keep AirDrop turned on for everyone, including unknown users, for an unlimited time.
+
+The change in how AirDrop works has been included in both iOS 16.1.1 and iOS 16.2 beta 2, both released today for users and developers. Also noted by our readers, this restriction is based on hardware rather than software. This means that only iPhone models purchased in Mainland China are affected by the update.
+
+This is not the first time Apple has implemented an iOS restriction based on hardware model. For instance, the Taiwanese flag emoji is not available on iPhones sold in China. Apple also uses the same method to limit the volume level of its devices in European Union countries, as required by law.
+
+However, when it comes to AirDrop, it’s unclear why Apple decided to limit the “Everyone” option to 10 minutes. Some people speculate that the Chinese regulator required Apple to update iOS as an attempt to prevent anonymous people from spreading harmful content and anti-government material.
+
+Update: As some of our readers pointed out, the changes to AirDrop in China are due to the fact that protesters in the country had been using the feature to spread posters opposing Xi Jinping and the Chinese government.
+
+According to Bloomberg, Apple has plans to make the new AirDrop option available globally next year.
+
+9to5Mac’s Take
+
+Whatever the reason is, the new option sounds quite clever. Personally, I’d really like to have it on my iPhone. Sometimes I have to share something via AirDrop with a person who’s not in my contact list. However, I often forget to limit AirDrop to my contacts after that. As a result, other people can send undesired content to my device.
+
+What do you think about this? Would you like to see this new option available for everyone? Let us know in the comments section below.
+
+H/T: @abstractech
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

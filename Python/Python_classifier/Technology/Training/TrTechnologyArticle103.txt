@@ -1,0 +1,13 @@
+Earlier this year Google introduced a new user interface for Gmail on the web. It’s not really something anybody outside of Google asked for, as the biggest change is a new sidebar that shows icons for things like Google Chat, Spaces, and Meet.
+
+In recent months, Google has been suggesting users switch… but offering an option to revert to the old UI. But now the company says that by the end of the month, the “original view” won’t be an option anymore. Everyone using Gmail on the web will have to get used to the new user interface.
+
+That means that you’ll have two sidebars on the left and another on the right side of the screen, where Google has been pushing icons for things like Google Calendar, Keep, Tasks, and Contacts for some time. At least the sidebar on the right is collapsible.
+
+In order to hide the sidebar on the left, you need to open the Quick Settings menu and disable Google Chat and Meet. But then you won’t be able to see Google Chat messages without opening Google Chat in another window. The old UI allowed you to see Google Chat messages without adding an unnecessary sidebar to the screen.
+
+For now you can still revert to the old UI from the Quick Settings icon. But it looks like Google will remove that option soon.
+
+If you really hate the new UI, I suppose you could always just access your Gmail account through an email client moving forward. But the advantage of webmail is that it can be accessed from any device without the need to install a new app or download your messages first.
+
+I’ll probably get used to it, just like I do every time Google rolls out a change to Gmail. But I’ve been avoiding making the switch for as long as I could… and after checking out the new look again when writing this article, I switched back to the old view so that I could squeeze a few more weeks out of it.

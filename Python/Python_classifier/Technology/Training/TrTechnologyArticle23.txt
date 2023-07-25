@@ -1,0 +1,19 @@
+Evidence found within the second iOS 16.2 beta points to Apple working on further streamlining the user interface (UI) on iPhones and iPads via a new mode.
+
+Called Custom Accessibility Mode, it was first discovered by 9to5 Mac (opens in new tab) . The second iOS 16.2 beta is currently available for download through the Apple Developer Program (opens in new tab), but you can’t use the new mode at this time as it’s unavailable to users. This could mean the feature is far away from release or it’s something Apple is merely trying out. Either way, it’s a sign the company remains committed to working on accessibility features for its user base.
+
+Simplified UI
+
+The purpose of Custom Accessibility Mode, according to the report, is to make the iPhones and iPads more “user-friendly” for people who find their interfaces too complex. The mode could allow people to change the layout of the UI to either a Grid or List-style formation. Text and app icons can be made much larger on the Home Screen, plus it appears you can enable quick access to certain SOS features, like the Emergency Services Button.
+
+A password can be set up to stop other people who use the same device from changing the settings, according to 9to5 Mac. And tapping the side or Home button three times can enable and disable Custom Accessibility Mode.
+
+Looking at the images of the mode in action, it drastically simplifies the design (opens in new tab) of apps and the Home Screen to focus on making things large. The lock screen turns into one big button with “Hold Down to Enter” in the center. Apps have massive icons that take up most of the screen and the bottom dock is gone.
+
+The official release notes (opens in new tab) don't detail the other features, only focusing on the fixes in the beta. For a preview of the other features, you have to go to Twitter where people are leaking them. A new Health widget (opens in new tab) will remind users to take their medication. New animations in the Music app (opens in new tab) resize the song image to indicate if it’s playing or paused.
+
+In a recent Power On newsletter, Apple insider Mark Gurman said to expect the official release of iOS 16.2 and iPadOS 16.2 sometime in mid-December. There, users can their hands on the long-awaited Freeform app (opens in new tab) as well as the next rendition of Stage Manager. Gurman also hints at the release date of iOS 16.3 being within the first quarter of 2023.
+
+Accessibility is key
+
+As mentioned earlier, Apple has been working on iPhone accessibility features for a while now. May 2021 saw the introduction of SignTime , a service allowing the hearing impaired to communicate using sign language through a web browser, and new background sounds for neurodiverse users. And earlier this year, we saw the first appearance of Door Detection to help low-vision users locate the entrance of a building.

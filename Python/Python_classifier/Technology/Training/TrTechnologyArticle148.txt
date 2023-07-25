@@ -1,0 +1,33 @@
+Dock-maker Plugable says it has come up with a way to increase the number of external monitors M1- and M2-based Macs support. While Apple says Macs with these chips can support just one to two external monitors, Redmond, Washington-based Plugable's new USB-to-HDMI adapter claims to enable support for as many as four monitors.
+
+According to Apple, the Mac Mini, which has Apple's M1 processor, can support up to two monitors. However, all other M1- and M2-based devices are limited to one external display.
+
+Appearing to address this limitation, Plugable released its USB-C or USB 3.0 to Quad HDMI Adapter (USBC-768H4) on Tuesday, saying it supports up to four monitors via HDMI, including for M1 and M2 Macs. The adapter requires you to use Windows 10 or macOS 11 and later.
+
+Plugable's announcement said the adapter is able to increase M1 and M2 monitor support because it doesn't rely on Alt Mode. Instead, the adapter leverages a chipset from Silicon Motion, known for making NAND flash controllers for SSDs, plus a software driver.
+
+For Windows users, the driver updates automatically, Plugable said. Mac users, meanwhile, have to download Silicon Motion's InstantView app. According to Silicon Motion, the app supports extended and mirrored display in macOS.
+
+Advertisement
+
+"When a dock is plugged in every time, it will automatically enable the monitor to display the laptop screen without any user intervention," Silicon Motion's InstantView website says. Other products that use InstantView include docks from Accell and Wavlink.
+
+Of course, there are caveats to Plugable's adapter.
+
+For one, Apple doesn't officially back this product, and its support page for connecting monitors to Macs notes that "using docks or daisy-chaining devices doesn't increase the number of displays you can connect" to M1 or M2 Macs. So, we wouldn't be surprised if you encountered any road bumps driving four monitors from one of these Macs.
+
+And don't expect to create a pixel paradise stacked with high-resolution screens. Each of the four monitors attached via HDMI is limited to 1920×1080 resolution at a 60 Hz refresh rate. Even with all ports used, Mac users will be limited to as many pixels as a single 4K screen.
+
+Windows users, however, get a little more. By adding two adapters to the Quad HDMI Adapter, you can add up to eight monitors to a Windows PC, Plugable says.
+
+We've seen products that claim to support adding a 4K monitor, plus another display to an M1 Mac, including Anker's 563 USB-C docking station and docks from Plugable. But 4K will likely be limited to 30 Hz.
+
+It's also worth noting that Plugable's dock doesn't support DisplayLink. And the vendor culls expectations while covering itself by saying the adapter isn't intended for "gaming, graphics-intensive, or design work," without getting into the specifics of what that means.
+
+Finally, you won't be able to play HDCP-protected content with the adapter, Plugable says.
+
+Despite its limitations, Plugable's adapter still claims to be a simple way to boost display count, appealing to basic multi-monitor setups and, especially, M1 and M2 users. The Quad HDMI adapter is going for $120.
+
+Ars Technica may earn compensation for sales from links on this post through affiliate programs.
+
+Go to discussion...

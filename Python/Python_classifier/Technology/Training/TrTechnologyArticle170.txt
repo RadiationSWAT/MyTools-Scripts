@@ -1,0 +1,13 @@
+The Gigabyte RTX 4090 Gaming OC is our fourth RTX 4090 card review. You can check out the Nvidia RTX 4090 Founders Edition , Asus RTX 4090 ROG Strix OC , and MSI RTX 4090 Suprim Liquid X for details on the other three cards, though performance results will be included in our charts. As the top performer in our GPU benchmarks hierarchy and one of the best graphics cards , plenty of people are looking at Nvidia’s halo RTX 4090 GPU and the various card models that use it, so let’s see how Gigabyte’s model stacks up.
+
+
+
+Gigabyte’s Gaming OC represents one of the more traditional designs we’ve seen so far, and it’s ultimately no better or worse than the competition. A 1–2% difference in performance here or there falls within the margin of error on our benchmarks, which means the main draws of this card will be the looks, retail availability, and pricing. The core design appears to be identical to Gigabyte’s RTX 4090 Windforce, with the key difference being the RGB lighting rings around the fans — the 15 MHz factory overclock barely warrants a mention.
+
+
+
+Let’s also address the gigantic melting 16-pin elephant in the corner. There’s still no official word on what’s causing the problems, but with over 20 melted connectors in just the past month — including a few that didn’t use the adapter cable and opted instead for a direct PSU connection — we can’t help but feel concerned. That goes for all 4090 cards at present, which means if you have one, you should exercise caution and regularly check temperatures, or perhaps just don’t actively use it right now. We really need a statement of findings from Nvidia at this stage, and until we get that it’s going to be a pain point for all RTX 40-series cards that use the 16-pin connector, including the upcoming RTX 4080.
+
+(Image credit: Tom's Hardware)
+
+Swipe to scroll horizontally GeForce RTX 4090 Model Comparison Graphics Card Gigabyte RTX 4090 Gaming OC Asus RTX 4090 ROG Strix OC MSI RTX 4090 Suprim Liquid X Nvidia RTX 4090 Founders Edition Architecture AD102 AD102 AD102 AD102 SMs 128 128 128 128 GPU Shaders 16384 16384 16384 16384 Boost Clock (MHz) 2535 2640 (OC mode) 2625 2520 VRAM Speed (Gbps) 21 21 21 21 VRAM (GB) 24 24 24 24 TFLOPS FP32 (Boost) 83.1 86.5 86 82.6 TFLOPS FP16 (FP8) 665 (1329) 692 (1384) 688 (1376) 661 (1321) Bandwidth (GBps) 1008 1008 1008 1008 TDP (watts) 450 480 (OC mode) 480 450 Dimensions 340x143x74mm 358x149x70mm Card: 280x139x42mm 304x137x61mm Radiator: 275x117x54mm Weight 1990g 2508g 2336g 2186g Official MSRP $1,699 $1,999 $1,749 $1,599

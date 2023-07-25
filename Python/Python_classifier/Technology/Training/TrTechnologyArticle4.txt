@@ -1,0 +1,23 @@
+Image: Getty/Ivan Pantic
+
+Apple has released an update that protects users against two security vulnerabilities that could affect iPhones and iPads.
+
+The iOS 16.1.1 and iPadOS 16.1.1 software update comes two weeks after the release of iOS 16.1 for all iPhone and iPad users.
+
+The security update protects users against two vulnerabilities CVE-2022-40303 and CVE-2022-40304. Both vulnerabilities have been found in libxml2, a software library for parsing XML documents and both were disclosed by Google's Project Zero, Google's team of cybersecurity researchers.
+
+Also: Public Wi-Fi safety tips: Protect yourself against malware and security threats
+
+Both CVE-2022-40303 and CVE-2022-40304 could allow a remote user to cause unexpected app termination or arbitrary code execution – potentially enabling attackers to run commands on the device.
+
+The vulnerabilities are classified under CVE ratings as having moderate impact, which means flaws that might be more difficult to exploit but that could still lead to compromise.
+
+Apple doesn't detail how exactly the vulnerabilities work or what exactly has been done to fix them, citing how, "For our customers' protection, Apple doesn't disclose, discuss, or confirm security issues until an investigation has occurred and patches or releases are available."
+
+Apple's release notes say that applying the update, which also brings unspecified bug fixes, is "recommended for all users".
+
+The update is available for iPhone 8 and later, all models of iPad Pro, iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generation and later
+
+If automatic updates aren't already turned on, you can apply the update by going to Settings > General > Software Update.
+
+MORE ON CYBERSECURITY

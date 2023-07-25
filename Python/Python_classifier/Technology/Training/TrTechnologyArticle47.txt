@@ -1,0 +1,39 @@
+Lenovo fixed two high-severity flaws impacting various laptop models that could allow an attacker to deactivate UEFI Secure Boot.
+
+Lenovo has released security updates to address a couple of high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models. An attacker can exploit the flaws to disable UEFI Secure Boot.
+
+Secure Boot is a security feature of the latest Unified Extensible Firmware Interface (UEFI) 2.3.1 designed to detect tampering with boot loaders, key operating system files, and unauthorized option ROMs by validating their digital signatures. “Detections are blocked from running before they can attack or infect the system specification.”
+
+An attacker that is able to bypass the Secure Boot could bypass any security measure running on the machine and achieve persistence even in case the OS is reinstalled.
+
+The root cause of the flaws is the use of a vulnerable driver during the manufacturing process for some Lenovo devices that was mistakenly not deactivated.
+
+Below are the vulnerabilities that were reported in Lenovo Notebook BIOS.
+
+CVE-2022-3430: A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3431: A potential vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+A potential vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3432: A potential vulnerability in a driver used during manufacturing process on the Ideapad Y700-14ISK that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+The vulnerabilities were reported to the vendor by Martin Smolár from ESET.
+
+#ESETResearch discovered and reported to the manufacturer 3 vulnerabilities in the #UEFI firmware of several Lenovo Notebooks. The vulnerabilities allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS. @smolar_m 1/9 — ESET research (@ESETresearch) November 9, 2022
+
+“While disabling UEFI Secure Boot allows direct execution of unsigned UEFI apps, restoring factory default dbx enables the use of known vulnerable bootloaders (e.g., #CVE-2022-34301 found by @eclypsium) to bypass Secure Boot, while keeping it enabled.” reads one of the tweets published by ESET.
+
+The experts pointed out that an attacker can trigger the flaws by simply creating special NVRAM variables. The researcher Nikolaj Schlej recently posted a nice explanation of why and how firmware developers should avoid storing security-sensitive components in NVRAM variables:
+
+Lastly, #CVE-2022-3432 relates to the BdsDxe DXE driver. This driver retrieves the value of the “L05SecBootSmm” NVRAM variable and if the value is 0, it disables UEFI Secure Boot. If the value is 1, it enables Secure Boot and restores factory keys/databases. 8/9 pic.twitter.com/kvmwwZ0dHn — ESET research (@ESETresearch) November 9, 2022
+
+Owners of the affected devices are highly recommended to update to the latest firmware version. Visiting Lenovo advisory it is possible to determine if a device is affected by these vulnerabilities and receive firmware update instructions.
+
+The firmware versions that fix the vulnerabilities are mentioned under the CVE IDs, so make sure to upgrade to that version or later.
+
+For official Lenovo software, check out this online support portal or run the update tool pre-installed on your computer.
+
+Follow me on Twitter: @securityaffairs and Facebook
+
+Pierluigi Paganini
+
+(SecurityAffairs – hacking, Secure Boot)

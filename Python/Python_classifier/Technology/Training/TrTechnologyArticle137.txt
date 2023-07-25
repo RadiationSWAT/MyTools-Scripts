@@ -1,0 +1,25 @@
+What you need to know
+
+Google is now accepting requests to join the public preview of the revamped Google Home app experience.
+
+You can sign up by requesting an invite from within the Android or iOS app.
+
+Google is asking early adopters to report any problems they encounter while using the new app.
+
+Google has kicked off signups for the public preview of the Home app's new experience. You simply need to request an invite within the Home app on Android or iOS to join the fray.
+
+The Google Home app saw its new design last month, complete with a revamped UI and helpful tabs for gaining quick access to automation, devices, and more. To sign up, head on over to Home’s settings menu and search for "Public Preview" under "General," assuming it is live for you.
+
+Once accepted to the program, you'll see a notification saying that the app will soon update to Public Preview. You need to tap on the "Join Public Preview" button to see the new features once they're ready for use.
+
+Since it is a public preview, you should expect a few bugs along the way. Google asks testers to submit bug reports and other forms of feedback using the "Submit Feedback" button in the app.
+
+"We invite you to explore the redesigned app, test new features and provide early feedback to help make the app even better," a Google representative wrote on the Nest Community page (opens in new tab).
+
+(Image credit: Google)
+
+The redesigned app includes a bunch of handy new features, such as "Favorites," which allows you to quickly open your favorite cameras, for example, to view live streams as soon as you launch the app. It also has "Spaces" for quickly accessing groups of similar devices, such as the best smart light bulbs.
+
+However, there are a few known issues (opens in new tab) with the public preview. For now, it's not possible to favorite your automations, but Google vows to make it available soon. This capability is currently limited to your devices and actions. Furthermore, the new camera controller experience does not currently support older cameras, and the redesigned app is incompatible with a few older devices from the Nest app, such as Nest Protect.
+
+Google also warns that "the app may revert to the old experience on first start" upon reinstalling. That said, the public preview experience will be restored with subsequent starts.

@@ -1,0 +1,23 @@
+Microsoft's unveiling this week of the production release of .NET 7 advances the company's efforts over the past few years to unify the open source development runtime to support multiple architectures and platforms.
+
+It also turns a strong eye to the cloud, continuing to extend its presence beyond PC and mobile systems to embrace cloud-native technologies such as containers more strongly.
+
+The .NET unification initiative began with .NET 5 in 2016 and continued with .NET 7. It means developers can "learn once and reuse your skills with one SDK, one Runtime, one set of base libraries to build many types of apps (Cloud, Web, Desktop, Mobile, Gaming, IoT, and AI)," Microsoft gushed in a blog post outlining the myriad improvements in the new release.
+
+For example, apps can be built on .NET 7 to support a range of CPU architectures and operating systems and provide access not only to its own APIs but also to APIs in OSes including Android, iOS, macOS, and Windows.
+
+Accompanying the .NET 7 release is .NET MAUI (Multiplatform App UI) – an open source cross-platform framework released this northern summer that is designed to develop apps for devices running Android, iOS, macOS, and Windows via a shared code base. .NET 7 and MAUI add improvements such as Map controls (pins, geocoding, and geolocation), performance (it's faster than it was in .NET 6), window size adjustments, a point hover gesture, and a right-click capability for developers creating desktop applications.
+
+Microsoft is also offering native support for ARM64, Arm's 64-bit CPU design that boosts the architecture's ability to handle more taxing tasks.
+
+Microsoft's goal for ARM64, which the company first discussed with .NET 5, is to match capabilities offered by 64-bit x86 processors. The vendor made several runtime improvements – including better approximating core counts per L3 cache sizes – as well as library optimizations, such as cross-platform helpers to enable developers wi1thout ARM64 expertise to put ARM64 hardware to work.
+
+.NET 7 also offers native support for IBM's Power chips, running on Red Hat Enterprise Linux (RHEL).
+
+Microsoft and Canonical have included .NET in Canonical's Ubuntu 22.04 OS and added .NET support in Chiseled Ubuntu Containers – a smaller secure container technology. The move elevates Linux's presence in the .NET world. And with .NET 7, Microsoft also offers built-in container support through "dotnet publish" – tools designed to streamline the container deployment process by taking out such steps as building and publishing images and checking for security and compliance.
+
+Microsoft has in recent years built up the .NET presence in Azure and, with the latest release, will have Azure support on day zero in all public regions on Windows and Linux App Service plans, with plans for other deployments throughout the week to expand what it can do in the cloud environment.
+
+In addition, .NET 7 workloads are being enabled in Azure Functions serverless development environment and Azure Static Web Apps service for full-stack development, according to Microsoft.
+
+The vendor warned that during the first week of the release, developers may see longer startup times for .NET 7 applications as the release's SDK is installed for those creating new app services. ®

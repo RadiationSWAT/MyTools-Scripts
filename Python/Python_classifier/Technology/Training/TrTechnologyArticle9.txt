@@ -1,0 +1,23 @@
+Microsoft last month announced that it is working with Apple to bring the Apple TV and Apple Music apps to Windows PCs. More than that, the company teased an integration of the native Photos app on Windows 11 with iCloud Photos. Now this integration is finally being rolled out to Windows users.
+
+Windows 11 with iCloud Photos
+
+According to The Verge, the update to the Photos app in Windows 11 with iCloud Photos integration is now available. In order to get everything up and running, users must update the app through the Microsoft Store and then install iCloud for Windows – which is also available on the Microsoft Store.
+
+After that, just log in with your Apple ID in the iCloud app and enable the photo library sync. As a result, all your photos and videos stored in iCloud should automatically appear in the Windows Photos app.
+
+“We know that many Windows customers have photo and video collections on their iPhones that they would like to be able to view on their PC,” says Dave Grochocki, principal product manager lead for Microsoft’s Windows inbox apps. “This iCloud Photos integration will make it easier for those with an iPhone to have direct access to all their cherished memories in one organized place and is another step in our continued efforts to make experiences on Windows 11 seamless.”
+
+This is an important step forward in improving the experience of users who own both Apple devices and Windows PCs. Although iCloud Photos was already available on Windows before the update, the photos and videos had to be accessed through regular folders.
+
+More integration with Apple services coming soon
+
+In addition, Microsoft and Apple have already confirmed that Windows users will soon have access to new Apple Music and Apple TV apps. Currently, Windows users have to access tv.apple.com through a web browser to watch Apple TV+ content, while Apple Music can be accessed through the music.apple.com website or iTunes – which was discontinued years ago.
+
+These announcements continue the expansion of Apple’s content services to more platforms, as Apple prioritizes subscription revenue over hardware sales.
+
+In the case of Apple TV, wider platform availability is crucial as Apple strikes wide-reaching sports deals, such as the deal to exclusively stream Major League Soccer beginning with the 2023 season. Apple TV is also expected to land NFL Sunday Ticket streaming rights.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

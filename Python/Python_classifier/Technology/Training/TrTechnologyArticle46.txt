@@ -1,0 +1,27 @@
+More than two dozen Lenovo notebook models are vulnerable to malicious hacks that disable the UEFI secure boot process and then run unsigned UEFI apps or load bootloaders that permanently backdoor a device, researchers warned on Wednesday.
+
+At the same time that researchers from security firm ESET disclosed the vulnerabilities, the notebook maker released security updates for 25 models, including ThinkPads, Yoga Slims, and IdeaPads. Vulnerabilities that undermine the UEFI secure boot can be serious because they make it possible for attackers to install malicious firmware that survives multiple operating system reinstallations.
+
+Not common, even rare
+
+Short for Unified Extensible Firmware Interface, UEFI is the software that bridges a computer’s device firmware with its operating system. As the first piece of code to run when virtually any modern machine is turned on, it’s the first link in the security chain. Because the UEFI resides in a flash chip on the motherboard, infections are difficult to detect and remove. Typical measures such as wiping the hard drive and reinstalling the OS have no meaningful impact because the UEFI infection will simply reinfect the computer afterward.
+
+ESET said the vulnerabilities—tracked as CVE-2022-3430, CVE-2022-3431, and CVE-2022-3432—“allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS.” Secure boot uses databases to allow and deny mechanisms. The DBX database, in particular, stores cryptographic hashes of denied keys. Disabling or restoring default values in the databases makes it possible for an attacker to remove restrictions that would normally be in place.
+
+Advertisement
+
+“Changing things in firmware from the OS is not common, even rare,” a researcher specializing in firmware security, who preferred not to be named, said in an interview. “Most folks mean that to change settings in firmware or in BIOS you need to have physical access to smash the DEL button at boot to enter the setup and do things there. When you can do some of the things from the OS, that's kind of a big deal.”
+
+Disabling the UEFI Secure Boot frees attackers to execute malicious UEFI apps, something that’s normally not possible because secure boot requires UEFI apps to be cryptographically signed. Restoring the factory-default DBX, meanwhile, allows attackers to load vulnerable bootloaders. In August, researchers from security firm Eclypsium identified three prominent software drivers that could be used to bypass secure boot when an attacker has elevated privileges, meaning administrator on Windows or root on Linux.
+
+The vulnerabilities can be exploited by tampering with variables in NVRAM, the non-volatile RAM that stores various boot options. The vulnerabilities are the result of Lenovo mistakenly shipping Notebooks with drivers that had been intended for use only during the manufacturing process. The vulnerabilities are:
+
+CVE-2022-3430: A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot settings by changing an NVRAM variable.
+
+CVE-2022-3431: A potential vulnerability in a driver used during the manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by altering an NVRAM variable.
+
+CVE-2022-3432: A potential vulnerability in a driver used during manufacturing process on the Ideapad Y700-14ISK that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by adjusting an NVRAM variable.
+
+Lenovo is patching only the first two. CVE-2022-3432 will not be patched because the company no longer supports the Ideapad Y700-14ISK, the end-of-life notebook model that’s affected. People using any of the other vulnerable models should install patches as soon as practical.
+
+Go to discussion...

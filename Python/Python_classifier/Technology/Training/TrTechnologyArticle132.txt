@@ -1,0 +1,9 @@
+Apple has been rumored to enter the folding phone race for a while but early reports suggest that’s at least a couple of years away at this point and it might not even be an iPhone but an iPad tablet device.
+
+Instead of waiting for the folding iPhone from Apple, the team over at Tech Aesthetics decided to venture out and create a clamshell foldable out of iPhone X internals and the chassis of a Motorola Razr 2019. The resulting device is called iPhone V and took nearly a year of hard work, reverse engineering and multiple trial and error instances to complete.
+
+The team behind the project took an iPhone X screen and gutted out the glass cover and touch layers while leaving the flexible OLED. The process was far from simple and required delicate maneuvering, advanced machinery and a total of 37 iPhone X screens before they had a usable one.
+
+The project also involved a pair of Motorola Razr 2019s which were taken apart to accommodate the iPhone X internals. The team built a custom motherboard with 3D-printed components. Sacrifices had to be made due to space restrictions and the phone ended up with a 1,000 mAh battery cell which sadly does not support wireless charging or MagSafe.
+
+With the hardware side out the way, the Tech Aesthetics team started tweaking iOS to better suit the folding screen via jailbroken mods. The finished device supports split-screen instances of apps and can use both sides of the folding display.

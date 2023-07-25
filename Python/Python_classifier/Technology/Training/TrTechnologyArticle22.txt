@@ -1,0 +1,55 @@
+Apple recently indicated that its product lineup is "set" heading into the holiday shopping season, suggesting that there won't be any new Macs or other devices announced through the remainder of 2022. Nonetheless, there are still at least five notable items on Apple's agenda to expect before the end of the year, as outlined below.
+
+
+
+iOS 16.2
+
+
+
+iOS 16.2 is currently in beta and is expected to be released in mid-December. The software update includes several new features for the iPhone, including Apple's new whiteboard app Freeform, new Home app architecture, Live Activities for select sports games via the Apple TV app, new Sleep and Medications widgets for the Lock Screen, unintentional Emergency SOS call reporting, 5G support in India, and more.
+
+Apple also plans to release iPadOS 16.2, macOS 13.1, watchOS 9.2, and tvOS 16.2 in December. On the Apple TV, tvOS 16.2 enables multi-user Siri voice recognition for a more personalized experience, with support for up to six family members.
+
+
+
+Emergency SOS via Satellite
+
+
+
+All four iPhone 14 models support a new Emergency SOS via Satellite feature that will allow the devices to connect directly to a satellite, enabling users to send text messages to emergency services when outside the range of cellular and Wi-Fi coverage. In a support document, Apple says the feature "will be available with an iOS 16 software update coming in November 2022," but the company has not shared a specific release date.
+
+Given that iOS 16.1 was released in late October, and that iOS 16.2 is expected to be released in December, Emergency SOS via Satellite will likely be enabled with iOS 16.1.1, which is already in testing. There's also a chance that Emergency SOS via Satellite will be enabled with iOS 16.1.2, but there is no evidence of such an update yet and Apple would likely want to get the feature launched before the week of U.S. Thanksgiving.
+
+At launch, Emergency SOS via Satellite will be available in the United States and Canada only and will be free for the first two years. Apple reportedly confirmed that it plans to expand the feature to additional countries by the end of next year.
+
+
+
+Apple Music Classical
+
+
+
+In August 2021, Apple announced the acquisition of classical music service Primephonic. At the time, Apple said it planned to launch a dedicated classical music app in 2022 that combined Primephonic's user interface with additional features.
+
+While there is still no sign of the Apple Music Classical app, evidence of the app was spotted in both iOS 15.5 code and in an XML file on Apple's servers earlier this year. Few other details are known about the app, including whether it will be a built-in app or released on the App Store as a standalone download given its niche purpose.
+
+Even if Apple Music Classical is not a preinstalled app, it appears that the app will have system-level integration, so its release will likely come alongside a software update such as iOS 16.1.1 or iOS 16.2 later this year if Apple meets its 2022 deadline.
+
+
+
+Self-Service Repair Program Expansion
+
+
+
+In August, Apple indicated that its self-service repair program will be expanded to additional countries in Europe and to additional Mac models with Apple silicon chips before the end of the year, so Apple has under two months left to meet that promise.
+
+The program first launched in April, providing customers in the U.S. with access to genuine Apple parts, tools, and manuals to complete do-it-yourself repairs of iPhone 12, iPhone 13, and third-generation iPhone SE models. The program was expanded in August to include MacBook Air and MacBook Pro models with the M1 series of chips.
+
+
+
+Black Friday Shopping Event
+
+
+
+For many years, Apple has held a four-day Black Friday through Cyber Monday shopping event across the U.S., Canada, U.K., Australia, and select other countries, offering customers a free Apple gift card worth anywhere from $25 to $200 with the purchase of an eligible new iPhone, iPad, Mac, Apple TV, AirPods, or other product.
+
+Black Friday is on November 25 this year and is one of the few occasions per year that Apple offers deals on its products, but better deals are often available through resellers like Amazon, so make sure to check out our Black Friday roundup throughout the month.
