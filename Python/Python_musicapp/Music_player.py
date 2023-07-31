@@ -55,4 +55,18 @@ def play_music():
     Button(root, image=Button_Pause, bg="green", bd=0, command=mixer.music.pause).place(x=200,y=500)
 
     #Music
-    
+    Menu = PhotoImage(file="menu.png")
+    Label(root, image=Menu, bg="green").pack(padx=10, pady=50,side=RIGHT)
+
+    Frame_Music = Frame(root, bg=2,relief=RIDGE)
+    Frame_Music.place(x=330,y=350,width=560,height=250)
+
+    Button(root,text="add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
+
+    Scroll = Scrollbar(Frame_Music)
+    Playlist = Listbox(Frame_Music,width=100,font=("times new roman",10),bg="#333333",fg="grey",selectbackground="lightblue",cursor="hand2",bd=0,yscrollcommand=Scroll.set)
+    Scroll.config(command=Playlist.yview)
+    Scroll.pack(side=RIGHT,fill=Y)
+    Playlist.pack(side=LEFT,fill=BOTH)
+
+    root.mainloop()
