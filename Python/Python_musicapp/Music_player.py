@@ -30,43 +30,43 @@ def play_music():
     mixer.music.load(Playlist.get(ACTIVE))
     mixer.music.play()
 
-    #Icon & logo
-    Icon_Image = PhotoImage(file="logo.png")
-    root.iconphoto(False, Icon_Image= PhotoImage(file="logo.png"))
+#Icon & logo
+Icon_Image = PhotoImage(file="logo.png")
+root.iconphoto(False, Icon_Image= PhotoImage(file="logo.png"))
 
-    Top_Image = PhotoImage(file="top.png")
-    Label(root, image=Top_Image, bg="#0f1a2b").pack()
+Top_Image = PhotoImage(file="top.png")
+Label(root, image=Top_Image, bg="#0f1a2b").pack()
 
-    #Logo
-    Logo_Image = PhotoImage(file="logo.png")
-    Label(root, image=Logo_Image, bg="#0f1a2b").place(x=65, y=115)
+#Logo
+Logo_Image = PhotoImage(file="logo.png")
+Label(root, image=Logo_Image, bg="#0f1a2b").place(x=65, y=115)
 
-    #Button creation
-    Button_Play = PhotoImage(file="play.png")
-    Button(root, image=Button_Play, bg="#0f1a2b", bd=0, command=play_music).place(x=100,y=400)
+#Button creation
+Button_Play = PhotoImage(file="play.png")
+Button(root, image=Button_Play, bg="#0f1a2b", bd=0, command=play_music).place(x=100,y=400)
 
-    Button_Stop = PhotoImage(file="stop.png")
-    Button(root, image=Button_Stop, bg="#0f1a2b", bd=0, command=mixer.music.stop).place(x=30,y=500)
+Button_Stop = PhotoImage(file="stop.png")
+Button(root, image=Button_Stop, bg="#0f1a2b", bd=0, command=mixer.music.stop).place(x=30,y=500)
 
-    Button_Resume = PhotoImage(file="resume.png")
-    Button(root, image=Button_Resume, bg="#0f1a2b", bd=0, command=mixer.music.unpause).place(x=115,y=500)
+Button_Resume = PhotoImage(file="resume.png")
+Button(root, image=Button_Resume, bg="#0f1a2b", bd=0, command=mixer.music.unpause).place(x=115,y=500)
 
-    Button_Pause = PhotoImage(file="pause.png")
-    Button(root, image=Button_Pause, bg="#0f1a2b", bd=0, command=mixer.music.pause).place(x=200,y=500)
+Button_Pause = PhotoImage(file="pause.png")
+Button(root, image=Button_Pause, bg="#0f1a2b", bd=0, command=mixer.music.pause).place(x=200,y=500)
 
-    #Music
-    Menu = PhotoImage(file="menu.png")
-    Label(root, image=Menu, bg="#0f1a2b").pack(padx=10, pady=50,side=RIGHT)
+#Music
+Menu = PhotoImage(file="menu.png")
+Label(root, image=Menu, bg="#0f1a2b").pack(padx=10, pady=50,side=RIGHT)
 
-    Frame_Music = Frame(root, bg=2,relief=RIDGE)
-    Frame_Music.place(x=330,y=350,width=560,height=250)
+Frame_Music = Frame(root, bg=2,relief=RIDGE)
+Frame_Music.place(x=330,y=350,width=560,height=250)
 
-    Button(root,text="Add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
+Button(root,text="Add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
 
-    Scroll = Scrollbar(Frame_Music)
-    Playlist = Listbox(Frame_Music,width=100,font=("times new roman",10),bg="#333333",fg="grey",selectbackground="lightblue",cursor="hand2",bd=0,yscrollcommand=Scroll.set)
-    Scroll.config(command=Playlist.yview)
-    Scroll.pack(side=RIGHT,fill=Y)
-    Playlist.pack(side=LEFT,fill=BOTH)
+Scroll = Scrollbar(Frame_Music)
+Playlist = Listbox(Frame_Music,width=100,font=("times new roman",10),bg="#333333",fg="grey",selectbackground="lightblue",cursor="hand2",bd=0,yscrollcommand=Scroll.set)
+Scroll.config(command=Playlist.yview)
+Scroll.pack(side=RIGHT,fill=Y)
+Playlist.pack(side=LEFT,fill=BOTH)
 
-    root.mainloop()
+root.mainloop()
