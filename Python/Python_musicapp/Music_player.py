@@ -40,3 +40,19 @@ def play_music():
     #Logo
     Logo_Image = PhotoImage(file="logo.png")
     Label(root, image=Logo_Image, bg="green").place(x=65, y=115)
+
+    #Button creation
+    Button_Play = PhotoImage(file="play.png")
+    Button(root, image=Button_Play, bg="green", bd=0, command=play_music).place(x=100,y=400)
+
+    Button_Stop = PhotoImage(file="stop.png")
+    Button(root, image=Button_Stop, bg="green", bd=0, command=mixer.music.stop).place(x=30,y=500)
+
+    Button_Resume = PhotoImage(file="resume.png")
+    Button(root, image=Button_Resume, bg="green", bd=0, command=mixer.music.unpause).place(x=115,y=500)
+
+    Button_Pause = PhotoImage(file="pause.png")
+    Button(root, image=Button_Pause, bg="green", bd=0, command=mixer.music.pause).place(x=200,y=500)
+
+    #Music
+    
