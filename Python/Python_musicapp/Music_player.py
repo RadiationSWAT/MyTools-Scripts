@@ -6,7 +6,7 @@ import os
 
 #Application GUI
 root=Tk()
-root.title("MusicMuser")
+root.title("MuserMusic")
 root.geometry("920x670+290+85")
 root.configure(bg="#0f1a2b")
 root.resizable(False,False)
