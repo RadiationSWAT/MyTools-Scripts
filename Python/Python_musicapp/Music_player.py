@@ -1,15 +1,15 @@
 from tkinter import *
 from tkinter import Tk
-from tkinter import ttk, filedialog
+from tkinter import filedialog
 from pygame import mixer
 import os
 
 #Application GUI
 root=Tk()
 root.title("MusicMuserAI")
-root.geometry("1080x1920")
-root.configure(bg="green")
-root.resizable
+root.geometry("920x670+290+85")
+root.configure(bg="#0f1a2b")
+root.resizable(False,False)
 mixer.init()
 
 #Functions for playing and adding music
@@ -35,28 +35,28 @@ def play_music():
     root.iconphoto(False, Icon_Image= PhotoImage(file="logo.png"))
 
     Top_Image = PhotoImage(file="top.png")
-    Label(root, image=Top_Image, bg="green").pack()
+    Label(root, image=Top_Image, bg="#0f1a2b").pack()
 
     #Logo
     Logo_Image = PhotoImage(file="logo.png")
-    Label(root, image=Logo_Image, bg="green").place(x=65, y=115)
+    Label(root, image=Logo_Image, bg="#0f1a2b").place(x=65, y=115)
 
     #Button creation
     Button_Play = PhotoImage(file="play.png")
-    Button(root, image=Button_Play, bg="green", bd=0, command=play_music).place(x=100,y=400)
+    Button(root, image=Button_Play, bg="#0f1a2b", bd=0, command=play_music).place(x=100,y=400)
 
     Button_Stop = PhotoImage(file="stop.png")
-    Button(root, image=Button_Stop, bg="green", bd=0, command=mixer.music.stop).place(x=30,y=500)
+    Button(root, image=Button_Stop, bg="#0f1a2b", bd=0, command=mixer.music.stop).place(x=30,y=500)
 
     Button_Resume = PhotoImage(file="resume.png")
-    Button(root, image=Button_Resume, bg="green", bd=0, command=mixer.music.unpause).place(x=115,y=500)
+    Button(root, image=Button_Resume, bg="#0f1a2b", bd=0, command=mixer.music.unpause).place(x=115,y=500)
 
     Button_Pause = PhotoImage(file="pause.png")
-    Button(root, image=Button_Pause, bg="green", bd=0, command=mixer.music.pause).place(x=200,y=500)
+    Button(root, image=Button_Pause, bg="#0f1a2b", bd=0, command=mixer.music.pause).place(x=200,y=500)
 
     #Music
     Menu = PhotoImage(file="menu.png")
-    Label(root, image=Menu, bg="green").pack(padx=10, pady=50,side=RIGHT)
+    Label(root, image=Menu, bg="#0f1a2b").pack(padx=10, pady=50,side=RIGHT)
 
     Frame_Music = Frame(root, bg=2,relief=RIDGE)
     Frame_Music.place(x=330,y=350,width=560,height=250)
