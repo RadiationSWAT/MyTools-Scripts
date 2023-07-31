@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import Tk
-from tkinter import filedialog
+from tkinter import ttk, filedialog
 from pygame import mixer
 import os
 
@@ -61,7 +61,7 @@ def play_music():
     Frame_Music = Frame(root, bg=2,relief=RIDGE)
     Frame_Music.place(x=330,y=350,width=560,height=250)
 
-    Button(root,text="add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
+    Button(root,text="Add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
 
     Scroll = Scrollbar(Frame_Music)
     Playlist = Listbox(Frame_Music,width=100,font=("times new roman",10),bg="#333333",fg="grey",selectbackground="lightblue",cursor="hand2",bd=0,yscrollcommand=Scroll.set)
