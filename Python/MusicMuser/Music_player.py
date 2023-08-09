@@ -30,38 +30,34 @@ def play_music():
     mixer.music.load(Playlist.get(ACTIVE))
     mixer.music.play()
 
+os.chdir("C:\\Users\\radia\\Documents\\MyTools-Scripts\\Python\\MusicMuser")
+
 #Icon & logo
-icon_image = PhotoImage(file="MuserMusic_without_font.png")
+icon_image = PhotoImage(file=os.path.join(os.getcwd(), "MuserMusic_without_font.png"))
 root.iconphoto(False, icon_image)
 
-Top_Image = PhotoImage(file="MuserMusic_without_font.png")
-Label(root, image=Top_Image, bg="#0f1a2b").pack()
-
 #Logo
-Logo_Image = PhotoImage(file="MuserMusic_without_font.png")
-Label(root, image=Logo_Image, bg="#0f1a2b").place(x=65, y=115)
+Logo_Image = PhotoImage(file=os.path.join(os.getcwd(), "MuserMusic_without_font.png"))
+Label(root, image=Logo_Image, bg="#0f1a2b").place(x=65, y=10)
 
 #Button creation
-Button_prev = PhotoImage(file="Backward_skip.png")
-Button(root, image=Button_prev, bg="#0f1a2b", bd=0, command=mixer.music.rewind).place(x=100,y=400)
+Button_prev = PhotoImage(file=os.path.join(os.getcwd(),"Backward_skip.png"))
+Button(root, image=Button_prev, bg="#0f1a2b", bd=0, command=play_music).place(x=100,y=400)
 
-Button_next = PhotoImage(file="Forward_skip.png")
-Button(root, image=Button_next, bg="#0f1a2b", bd=0, command=mixer.music.queue).place(x=30,y=500)
+Button_next = PhotoImage(file=os.path.join(os.getcwd(),"Forward_skip.png"))
+Button(root, image=Button_next, bg="#0f1a2b", bd=0, command=mixer.music.stop).place(x=30,y=500)
 
-Button_Resume = PhotoImage(file="Play.png")
+Button_Resume = PhotoImage(file=os.path.join(os.getcwd(),"Play.png"))
 Button(root, image=Button_Resume, bg="#0f1a2b", bd=0, command=mixer.music.unpause).place(x=115,y=500)
 
-Button_Pause = PhotoImage(file="Pause.png")
+Button_Pause = PhotoImage(file=os.path.join(os.getcwd(),"Pause.png"))
 Button(root, image=Button_Pause, bg="#0f1a2b", bd=0, command=mixer.music.pause).place(x=200,y=500)
 
 #Music
-Menu = PhotoImage(file="MuserMusic_with_font.png")
-Label(root, image=Menu, bg="#0f1a2b").pack(padx=10, pady=50,side=RIGHT)
-
-Frame_Music = Frame(root, bg=2,relief=RIDGE)
+Frame_Music = Frame(root, bd=2 ,relief=RIDGE)
 Frame_Music.place(x=330,y=350,width=560,height=250)
 
-Button(root,text="Add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=350,y=300)
+Button(root,text="Add Music",width=15,height=2,font=("times new roman",12,"bold"),fg="black",bg="#21b3de",command=add_music).place(x=330,y=300)
 
 Scroll = Scrollbar(Frame_Music)
 Playlist = Listbox(Frame_Music,width=100,font=("times new roman",10),bg="#333333",fg="grey",selectbackground="lightblue",cursor="hand2",bd=0,yscrollcommand=Scroll.set)
